@@ -1,0 +1,76 @@
+{
+  "key": "fr-programme-2",
+  "subject": "FR",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Le texte d'histoire : relater un fait historique",
+      "title_ar": "النص التاريخي (اللغة الفرنسية)",
+      "lessons": [
+        {
+          "title_fr": "Objectivité, énonciation et temps du récit historique",
+          "title_ar": "الموضوعية والتلفظ وأزمنة السرد التاريخي",
+          "body_fr": "## Caractéristiques\n\nLe texte d'histoire rapporte des faits réels, datés et situés. On distingue :\n\n- le **texte objectif** : l'historien s'efface (3e personne, pas de jugement, faits vérifiables, chiffres, dates, sources) ;\n- le **témoignage** : le narrateur a vécu les faits (1re personne, émotions, jugements).\n\n## Les indices à repérer\n\n- **Indicateurs de temps** (dates, « le lendemain », « quelques mois plus tard ») et **de lieu**.\n- **Temps du récit** : passé simple (actions de premier plan), imparfait (description, arrière-plan), plus-que-parfait (antériorité). Le **présent de narration** rend le récit plus vivant.\n- **Discours rapporté** : direct (guillemets), indirect (« il déclara que… »).\n- **Modalisateurs** (adjectifs, adverbes, verbes d'opinion) : leur présence signale la **subjectivité**.\n\n## Le résumé (contraction)\n\nRéduire le texte au quart ou au tiers, garder l'ordre des idées et le système d'énonciation, ne rien ajouter, reformuler sans recopier.\n\n## À l'épreuve\n\nQuestions types : relever les indices d'objectivité ou de subjectivité, identifier le temps dominant et sa valeur, transformer un passage au discours indirect, résumer un paragraphe.",
+          "body_ar": "هذا الدرس خاص بمادة اللغة الفرنسية.\n\n## الخصائص\n\nينقل النص التاريخي وقائع حقيقية مؤرخة ومحددة المكان. ونميز بين:\n\n- **النص الموضوعي**: يختفي المؤرخ (الغائب، دون أحكام، وقائع قابلة للتحقق، أرقام، تواريخ، مصادر)؛\n- **الشهادة**: عاش الراوي الأحداث (المتكلم، العواطف، الأحكام).\n\n## المؤشرات المطلوبة\n\n- **مؤشرات الزمان** (التواريخ، « le lendemain »، « quelques mois plus tard ») **والمكان**.\n- **أزمنة السرد**: passé simple (الأحداث الرئيسية)، imparfait (الوصف والخلفية)، plus-que-parfait (الأسبقية). و**présent de narration** يجعل السرد أكثر حيوية.\n- **الكلام المنقول**: المباشر (المزدوجتان) وغير المباشر (« il déclara que… »).\n- **مؤشرات الذاتية** (الصفات، الظروف، أفعال الرأي): وجودها يدل على **الذاتية**.\n\n## التلخيص (contraction)\n\nاختزال النص إلى الربع أو الثلث، مع الحفاظ على ترتيب الأفكار ونظام التلفظ، دون إضافة، وبإعادة الصياغة لا النقل.\n\n## في الامتحان\n\nأسئلة نموذجية: استخراج مؤشرات الموضوعية أو الذاتية، تحديد الزمن الغالب وقيمته، تحويل مقطع إلى الكلام غير المباشر، تلخيص فقرة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Objectif ou subjectif ?",
+          "title_ar": "موضوعي أم ذاتي؟",
+          "points": 3,
+          "statement_fr": "« Le 11 décembre 1960, des milliers d'Algériens manifestèrent dans les rues d'Alger. Je n'oublierai jamais ce jour héroïque où tout un peuple réclama sa liberté. »\n\n1. Relevez un indice d'objectivité et deux indices de subjectivité.\n2. Quel est le temps des verbes « manifestèrent » et « réclama » ? Justifiez son emploi.",
+          "statement_ar": "« Le 11 décembre 1960, des milliers d'Algériens manifestèrent dans les rues d'Alger. Je n'oublierai jamais ce jour héroïque où tout un peuple réclama sa liberté. »\n\n1. استخرج مؤشرا للموضوعية ومؤشرين للذاتية.\n2. ما زمن الفعلين « manifestèrent » و« réclama »؟ علل استعماله.",
+          "solution_fr": "1. Objectivité : la date précise « le 11 décembre 1960 » (ou le lieu « Alger »). Subjectivité : le pronom « je » ; l'adjectif mélioratif « héroïque » (aussi « n'oublierai jamais »).\n\n2. Passé simple : il présente des actions ponctuelles et achevées, au premier plan du récit.",
+          "solution_ar": "1. الموضوعية: التاريخ الدقيق « le 11 décembre 1960 » (أو المكان « Alger »). الذاتية: الضمير « je »؛ الصفة التقييمية « héroïque » (وكذلك « n'oublierai jamais »).\n\n2. Passé simple: يعبر عن أحداث محددة منتهية في مقدمة السرد."
+        }
+      ]
+    },
+    {
+      "title_fr": "L'appel : inciter à agir",
+      "title_ar": "النداء (اللغة الفرنسية)",
+      "lessons": [
+        {
+          "title_fr": "Structure et procédés de l'appel",
+          "title_ar": "بنية النداء وأساليبه",
+          "body_fr": "## Définition\n\nL'**appel** est un texte argumentatif qui vise à **faire agir** un destinataire (soutenir une cause, donner, protéger, se mobiliser).\n\n## Structure habituelle\n\n1. **Présentation de la situation** (le problème, souvent avec des chiffres).\n2. **Arguments** qui justifient l'action (conséquences, valeurs, urgence).\n3. **Exhortation** : l'appel proprement dit, à l'impératif.\n4. Parfois une **formule finale** et la signature (association, organisme).\n\n## Procédés\n\n- **Impératif** (« Agissez ! », « Rejoignez-nous ») et tournures injonctives (« il faut », « nous devons »).\n- **Interpellation** du destinataire (« vous », « chers citoyens »).\n- **Modalité exclamative et interrogative** (questions rhétoriques).\n- Vocabulaire **affectif** pour émouvoir ; chiffres et faits pour convaincre.\n- Répétitions, énumérations, slogans.\n\n## Rédiger un appel\n\nIdentifier l'émetteur et le destinataire, exposer brièvement la situation, donner deux ou trois arguments forts, terminer par une exhortation claire.",
+          "body_ar": "هذا الدرس خاص بمادة اللغة الفرنسية.\n\n## التعريف\n\n**النداء** نص حجاجي يهدف إلى **دفع المتلقي إلى الفعل** (دعم قضية، التبرع، الحماية، التجند).\n\n## البنية المعتادة\n\n1. **عرض الوضعية** (المشكلة، غالبا بالأرقام).\n2. **حجج** تبرر الفعل (النتائج، القيم، الاستعجال).\n3. **الحث**: النداء نفسه بصيغة الأمر.\n4. أحيانا **عبارة ختامية** والتوقيع (جمعية، هيئة).\n\n## الأساليب\n\n- **صيغة الأمر** (« Agissez ! »، « Rejoignez-nous ») والعبارات الإلزامية (« il faut »، « nous devons »).\n- **مخاطبة** المتلقي (« vous »، « chers citoyens »).\n- **التعجب والاستفهام** (الأسئلة البلاغية).\n- معجم **عاطفي** للتأثير، وأرقام ووقائع للإقناع.\n- التكرار والتعداد والشعارات.\n\n## كتابة نداء\n\nحدد المرسل والمتلقي، اعرض الوضعية باختصار، قدّم حجتين أو ثلاثا قويتين، واختم بحث واضح."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Repérer les procédés",
+          "title_ar": "استخراج الأساليب",
+          "points": 3,
+          "statement_fr": "« Chaque année, des milliers d'hectares de forêt partent en fumée. Pouvons-nous rester indifférents ? Protégez nos forêts : ne jetez jamais de mégots, signalez tout départ de feu ! »\n\n1. Quel est le but de ce texte ?\n2. Relevez une question rhétorique et deux verbes à l'impératif.\n3. Quelle est la fonction de la première phrase ?",
+          "statement_ar": "« Chaque année, des milliers d'hectares de forêt partent en fumée. Pouvons-nous rester indifférents ? Protégez nos forêts : ne jetez jamais de mégots, signalez tout départ de feu ! »\n\n1. ما هدف هذا النص؟\n2. استخرج سؤالا بلاغيا وفعلين بصيغة الأمر.\n3. ما وظيفة الجملة الأولى؟",
+          "solution_fr": "1. Inciter le lecteur à protéger les forêts contre les incendies : c'est un appel.\n\n2. Question rhétorique : « Pouvons-nous rester indifférents ? ». Impératifs : « Protégez », « signalez » (aussi « ne jetez »).\n\n3. Elle présente la situation (le problème) en s'appuyant sur un fait chiffré, pour convaincre.",
+          "solution_ar": "1. حث القارئ على حماية الغابات من الحرائق: إنه نداء.\n\n2. السؤال البلاغي: « Pouvons-nous rester indifférents ? ». الأمر: « Protégez »، « signalez » (وكذلك « ne jetez »).\n\n3. تعرض الوضعية (المشكلة) بالاعتماد على واقعة مرقمة للإقناع."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le débat d'idées et le compte rendu",
+      "title_ar": "مناقشة الأفكار والتقرير (اللغة الفرنسية)",
+      "lessons": [
+        {
+          "title_fr": "Débattre, concéder, rendre compte",
+          "title_ar": "المناقشة والتنازل وكتابة التقرير",
+          "body_fr": "## Le débat d'idées\n\nTexte où s'opposent plusieurs **points de vue** sur une question (dialogue, table ronde, article). On y repère : la **question** débattue, les **thèses** en présence, les **arguments** de chaque partie.\n\n## La concession\n\nReconnaître en partie la valeur de la thèse adverse pour mieux affirmer la sienne : « **Certes**… **mais** », « **Bien que** + subjonctif », « **Même si**… », « **Il est vrai que**… **cependant** ».\n\n## Le compte rendu objectif\n\n- Réduire le texte (environ au tiers) en présentant les **idées essentielles** dans leur ordre.\n- Rester **neutre** : pas de « je », pas de jugement.\n- Commencer par une phrase de présentation : « Dans ce texte, l'auteur traite de… ».\n- Utiliser des verbes de parole variés (affirme, soutient, explique, réfute, admet).\n\n## Le compte rendu critique\n\nOn ajoute, dans une seconde partie, sa propre **position argumentée** (accord, désaccord, nuance).",
+          "body_ar": "هذا الدرس خاص بمادة اللغة الفرنسية.\n\n## مناقشة الأفكار\n\nنص تتقابل فيه عدة **وجهات نظر** حول مسألة (حوار، مائدة مستديرة، مقال). نحدد فيه: **المسألة** المطروحة، **الأطروحات** الحاضرة، و**حجج** كل طرف.\n\n## التنازل\n\nالاعتراف جزئيا بقيمة الأطروحة المضادة لتأكيد الأطروحة الخاصة بشكل أقوى: « **Certes**… **mais** »، « **Bien que** + subjonctif »، « **Même si**… »، « **Il est vrai que**… **cependant** ».\n\n## التقرير الموضوعي (compte rendu objectif)\n\n- اختزال النص (حوالي الثلث) بعرض **الأفكار الأساسية** بترتيبها.\n- البقاء **محايدا**: دون « je » ودون أحكام.\n- البدء بجملة تقديمية: « Dans ce texte, l'auteur traite de… ».\n- استعمال أفعال قول متنوعة (affirme، soutient، explique، réfute، admet).\n\n## التقرير النقدي (compte rendu critique)\n\nنضيف في جزء ثان **موقفا شخصيا معللا** (موافقة، معارضة، تنسيب)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Écrire une concession",
+          "title_ar": "كتابة جملة تنازل",
+          "points": 2,
+          "statement_fr": "Thèse adverse : « Les réseaux sociaux rapprochent les gens. » Votre thèse : « Ils isolent souvent les jeunes. »\n\nRédigez une phrase de concession avec « Certes… mais », puis une autre avec « Bien que ».",
+          "statement_ar": "الأطروحة المضادة: « Les réseaux sociaux rapprochent les gens. » أطروحتك: « Ils isolent souvent les jeunes. »\n\nاكتب جملة تنازل باستعمال « Certes… mais » ثم أخرى باستعمال « Bien que ».",
+          "solution_fr": "« **Certes**, les réseaux sociaux rapprochent les gens éloignés, **mais** ils isolent souvent les jeunes de leur entourage. »\n\n« **Bien que** les réseaux sociaux rapprochent les gens (subjonctif : *rapprochent*), ils isolent souvent les jeunes. »",
+          "solution_ar": "« **Certes**, les réseaux sociaux rapprochent les gens éloignés, **mais** ils isolent souvent les jeunes de leur entourage. »\n\n« **Bien que** les réseaux sociaux rapprochent les gens, ils isolent souvent les jeunes. » (الفعل بعد bien que في صيغة subjonctif)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "droit-contrat-vente",
+  "subject": "DROIT",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Le contrat de vente",
+      "title_ar": "عقد البيع",
+      "lessons": [
+        {
+          "title_fr": "Le contrat de vente : définition, éléments, effets",
+          "title_ar": "عقد البيع: تعريفه، أركانه، آثاره",
+          "body_fr": "## Définition\n\nSelon l'article 351 du Code civil algérien, la vente est un contrat par lequel le vendeur s'oblige à transférer à l'acheteur la propriété d'une chose ou un autre droit patrimonial, en contrepartie d'un prix en argent.\n\n## Caractères\n\n- **Consensuel** : il se forme par le seul accord des volontés (sauf exceptions, comme la vente d'immeuble, qui exige un acte officiel).\n- **Synallagmatique** : il crée des obligations réciproques.\n- **À titre onéreux** : chacun reçoit une contrepartie.\n- **Translatif de propriété**.\n\n## Les éléments constitutifs (الأركان)\n\n1. **Le consentement** (التراضي) : accord de l'offre et de l'acceptation, exempt de vices (erreur, dol, violence, lésion), donné par des parties capables.\n2. **L'objet : la chose vendue** (المبيع) : existante ou pouvant exister, déterminée ou déterminable, licite (dans le commerce).\n3. **L'objet : le prix** (الثمن) : en argent, sérieux (non fictif), déterminé ou déterminable.\n4. **La cause** (السبب) : licite.\n\n## Les obligations du vendeur\n\n- Transférer la propriété.\n- **Délivrer** la chose dans l'état où elle se trouvait au moment de la vente.\n- **Garantir** l'acheteur contre l'éviction (trouble de droit ou de fait) et contre les **vices cachés**.\n\n## Les obligations de l'acheteur\n\n- **Payer le prix** au moment et au lieu convenus.\n- **Prendre livraison** de la chose.\n- Payer les frais de la vente, sauf convention contraire.\n\n## Méthode pour un cas pratique\n\n1. Qualifier le contrat (est-ce bien une vente ?). 2. Vérifier les éléments constitutifs. 3. Identifier l'obligation non exécutée. 4. Indiquer la sanction ou le recours (exécution forcée, résolution, dommages et intérêts).",
+          "body_ar": "## التعريف\n\nحسب المادة 351 من القانون المدني الجزائري: البيع عقد يلتزم بمقتضاه البائع أن ينقل للمشتري ملكية شيء أو حقا ماليا آخر في مقابل ثمن نقدي.\n\n## خصائصه\n\n- **عقد رضائي**: ينعقد بمجرد تبادل الإرادتين (مع استثناءات كبيع العقار الذي يشترط فيه الشكل الرسمي).\n- **ملزم للجانبين**: ينشئ التزامات متقابلة.\n- **من عقود المعاوضة**: يأخذ كل طرف مقابلا لما يعطي.\n- **ناقل للملكية**.\n\n## أركانه\n\n1. **التراضي**: تطابق الإيجاب والقبول، خاليا من عيوب الإرادة (الغلط، التدليس، الإكراه، الاستغلال)، صادرا من طرفين أهلين.\n2. **المحل: المبيع**: موجود أو قابل للوجود، معين أو قابل للتعيين، مشروع (قابل للتعامل فيه).\n3. **المحل: الثمن**: نقدي، جدي (غير صوري)، مقدر أو قابل للتقدير.\n4. **السبب**: مشروع.\n\n## التزامات البائع\n\n- نقل الملكية.\n- **تسليم** المبيع بالحالة التي كان عليها وقت البيع.\n- **الضمان**: ضمان التعرض والاستحقاق، وضمان **العيوب الخفية**.\n\n## التزامات المشتري\n\n- **دفع الثمن** في الزمان والمكان المتفق عليهما.\n- **تسلم** المبيع.\n- دفع نفقات البيع ما لم يوجد اتفاق مخالف.\n\n## منهجية الحالة التطبيقية\n\n1. تكييف العقد (هل هو بيع؟). 2. التحقق من الأركان. 3. تحديد الالتزام غير المنفذ. 4. بيان الجزاء أو الدعوى (التنفيذ العيني، الفسخ، التعويض)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Cas pratique : une machine défectueuse",
+          "title_ar": "حالة تطبيقية: آلة معيبة",
+          "points": 5,
+          "statement_fr": "Samir achète à l'entreprise « Atlas » une machine à coudre pour $150\\,000$ DA. Après une semaine d'utilisation normale, la machine tombe en panne : l'expert constate un défaut de fabrication qui existait avant la vente et qui n'était pas visible.\n\n1. Qualifier le contrat conclu et donner deux de ses caractères.\n2. Citer les éléments constitutifs de ce contrat.\n3. Quelle obligation du vendeur est en cause ? Quels recours Samir peut-il exercer ?",
+          "statement_ar": "اشترى سمير من مؤسسة «أطلس» آلة خياطة بـ $150000$ دج. بعد أسبوع من الاستعمال العادي تعطلت الآلة، وأثبت الخبير وجود عيب في الصنع سابق للبيع وغير ظاهر.\n\n1. كيّف العقد المبرم واذكر خاصيتين من خصائصه.\n2. اذكر أركان هذا العقد.\n3. ما هو التزام البائع المعني؟ وما هي الدعاوى التي يمكن لسمير ممارستها؟",
+          "solution_fr": "1. Un **contrat de vente** : transfert de propriété d'une machine contre un prix en argent. Caractères : consensuel, synallagmatique (aussi : à titre onéreux, translatif de propriété).\n\n2. Le consentement de Samir et d'Atlas ; la chose vendue (la machine) ; le prix ($150\\,000$ DA) ; une cause licite.\n\n3. La **garantie des vices cachés** : le défaut est antérieur à la vente, caché et rend la machine impropre à son usage. Samir peut demander la **résolution** de la vente (restitution de la machine contre remboursement du prix) ou une **réduction du prix**, et des **dommages et intérêts** s'il a subi un préjudice ; il doit agir dans le délai prévu par la loi après la livraison.",
+          "solution_ar": "1. **عقد بيع**: نقل ملكية آلة مقابل ثمن نقدي. من خصائصه: رضائي، ملزم للجانبين (وكذلك: من عقود المعاوضة، ناقل للملكية).\n\n2. التراضي بين سمير ومؤسسة أطلس؛ المبيع (الآلة)؛ الثمن ($150000$ دج)؛ سبب مشروع.\n\n3. **ضمان العيوب الخفية**: العيب سابق للبيع، خفي، ويجعل الآلة غير صالحة للاستعمال. يمكن لسمير طلب **فسخ** البيع (رد الآلة واسترداد الثمن) أو **إنقاص الثمن**، مع **التعويض** إن لحقه ضرر، على أن يرفع دعواه في الأجل المحدد قانونا بعد التسليم."
+        }
+      ]
+    }
+  ]
+}

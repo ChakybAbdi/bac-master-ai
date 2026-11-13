@@ -1,0 +1,76 @@
+{
+  "key": "philo-programme-2",
+  "subject": "PHILO",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Le conscient et l'inconscient",
+      "title_ar": "الشعور واللاشعور",
+      "lessons": [
+        {
+          "title_fr": "La vie psychique se réduit-elle à la conscience ?",
+          "title_ar": "هل الحياة النفسية مرادفة للشعور؟",
+          "body_fr": "## Le problème\n\nTout ce qui est psychique est-il conscient, ou une part de notre vie mentale nous échappe-t-elle ?\n\n## Thèse 1 : la vie psychique est consciente (الاتجاه الكلاسيكي)\n\n- **Descartes** : « Je pense, donc je suis » ; l'âme est une substance pensante qui se connaît immédiatement. Penser, c'est être conscient de penser.\n- Argument : un « psychisme inconscient » serait contradictoire ; ce que l'on appelle inconscient relève du corps (physiologie).\n- **Critique** : de nombreux faits (rêves, lapsus, actes manqués, oublis, névroses) restent inexplicables par la seule conscience.\n\n## Thèse 2 : l'existence de l'inconscient (التحليل النفسي)\n\n- **Freud** : une part importante du psychisme est **inconsciente** ; des désirs refoulés (surtout infantiles) continuent d'agir et se manifestent de façon déguisée.\n- Preuves : le **rêve** (« voie royale » vers l'inconscient), les **lapsus** et **actes manqués**, les symptômes névrotiques guéris par la cure.\n- Formule célèbre : « le moi n'est pas maître dans sa propre maison ».\n- **Critique** : l'inconscient n'est pas observable directement ; Sartre parle plutôt de **mauvaise foi** (on se ment à soi-même) et refuse d'excuser l'homme par l'inconscient ; la psychanalyse est difficile à vérifier expérimentalement.\n\n## Synthèse\n\nLa conscience éclaire une partie de notre vie psychique, mais l'inconscient en explique une autre : reconnaître l'inconscient n'efface pas la responsabilité, il invite à mieux se connaître.",
+          "body_ar": "## المشكلة\n\nهل كل ما هو نفسي شعوري، أم أن جزءا من حياتنا النفسية يفلت من وعينا؟\n\n## الموقف الأول: الحياة النفسية شعورية (الاتجاه الكلاسيكي)\n\n- **ديكارت**: «أنا أفكر إذن أنا موجود»؛ النفس جوهر مفكر يعرف ذاته مباشرة، والتفكير هو الوعي بالتفكير.\n- الحجة: «نفس لا شعورية» تناقض في الحدود؛ وما يسمى لاشعورا يعود إلى الجسد (الفيزيولوجيا).\n- **النقد**: هناك وقائع كثيرة (الأحلام، فلتات اللسان، الأفعال المغلوطة، النسيان، الأمراض العصابية) لا يفسرها الشعور وحده.\n\n## الموقف الثاني: وجود اللاشعور (التحليل النفسي)\n\n- **فرويد**: جزء كبير من الحياة النفسية **لاشعوري**؛ رغبات مكبوتة (طفولية خاصة) تبقى فاعلة وتظهر بشكل مقنع.\n- الأدلة: **الحلم** («الطريق الملكي» إلى اللاشعور)، **فلتات اللسان** و**الأفعال المغلوطة**، الأعراض العصابية التي يشفيها العلاج.\n- قوله المشهور: «الأنا ليس سيد بيته».\n- **النقد**: اللاشعور غير قابل للملاحظة المباشرة؛ ويرى سارتر أن الأمر **سوء نية** (أن يكذب الإنسان على نفسه) ويرفض تبرير أفعال الإنسان باللاشعور؛ والتحليل النفسي صعب التحقق تجريبيا.\n\n## التركيب\n\nالشعور يضيء جزءا من حياتنا النفسية واللاشعور يفسر جزءا آخر؛ والاعتراف باللاشعور لا يلغي المسؤولية بل يدعو إلى معرفة أعمق للذات."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Arguments de l'inconscient",
+          "title_ar": "حجج اللاشعور",
+          "points": 0,
+          "statement_fr": "Sujet : « Peut-on connaître tout ce qui se passe en nous ? »\n\nDonnez la thèse de Freud avec deux preuves, puis une critique.",
+          "statement_ar": "الموضوع: «هل يمكن أن نعرف كل ما يجري في أنفسنا؟»\n\nاعرض أطروحة فرويد مع دليلين، ثم نقدا لها.",
+          "solution_fr": "**Thèse** : non, une partie de notre psychisme est inconsciente (Freud) : des désirs refoulés agissent sans que nous le sachions.\n\n**Preuves** : le rêve, réalisation déguisée d'un désir refoulé ; les lapsus et actes manqués, qui trahissent une intention cachée (aussi : les symptômes névrotiques).\n\n**Critique** : l'inconscient n'est connu que par interprétation, difficile à vérifier ; Sartre y voit une « mauvaise foi » qui risque de déresponsabiliser l'homme.",
+          "solution_ar": "**الأطروحة**: لا، فجزء من حياتنا النفسية لاشعوري (فرويد): رغبات مكبوتة تعمل دون علمنا.\n\n**الأدلة**: الحلم تحقيق مقنع لرغبة مكبوتة؛ فلتات اللسان والأفعال المغلوطة تكشف قصدا خفيا (وكذلك الأعراض العصابية).\n\n**النقد**: لا يعرف اللاشعور إلا بالتأويل، وهو صعب التحقق؛ ويرى فيه سارتر «سوء نية» قد يرفع المسؤولية عن الإنسان."
+        }
+      ]
+    },
+    {
+      "title_fr": "Liberté et responsabilité",
+      "title_ar": "الحرية والمسؤولية",
+      "lessons": [
+        {
+          "title_fr": "L'homme est-il libre ?",
+          "title_ar": "هل الإنسان حر؟",
+          "body_fr": "## Le problème\n\nL'homme choisit-il vraiment ses actes, ou est-il déterminé par des causes qu'il ne maîtrise pas ? Et peut-on être responsable sans être libre ?\n\n## Thèse 1 : le déterminisme (نفي الحرية)\n\n- **Spinoza** : les hommes se croient libres parce qu'ils sont conscients de leurs actions et ignorants des causes qui les déterminent.\n- Déterminismes **physique**, **biologique**, **psychologique** (l'inconscient) et **social** (Durkheim : la société façonne l'individu).\n- **Critique** : l'homme peut connaître ses déterminismes et agir sur eux ; nier toute liberté rend la morale et le droit impossibles.\n\n## Thèse 2 : la liberté (إثبات الحرية)\n\n- **Descartes** : la liberté est évidente pour la conscience ; la volonté est infinie.\n- **Sartre** : « l'homme est condamné à être libre » ; l'existence précède l'essence, l'homme se choisit et répond de ses choix.\n- **Critique** : liberté absolue illusoire, qui ignore le poids réel des conditions.\n\n## Synthèse : la libération (التحرر)\n\nLa liberté n'est ni donnée ni impossible : elle se **conquiert** par la connaissance des déterminismes (la science permet d'agir sur la nature, Hegel : « la liberté est la nécessité comprise »).\n\n## Responsabilité\n\nÊtre responsable, c'est **répondre de ses actes** (moralement et juridiquement). La responsabilité suppose la liberté et la conscience : c'est pourquoi le droit tient compte de l'âge et de la santé mentale.",
+          "body_ar": "## المشكلة\n\nهل يختار الإنسان أفعاله فعلا أم أنه محكوم بأسباب لا يتحكم فيها؟ وهل يمكن أن يكون مسؤولا دون أن يكون حرا؟\n\n## الموقف الأول: الحتمية (نفي الحرية)\n\n- **سبينوزا**: يعتقد الناس أنهم أحرار لأنهم واعون بأفعالهم وجاهلون بالأسباب التي تحددها.\n- الحتميات **الفيزيائية** و**البيولوجية** و**النفسية** (اللاشعور) و**الاجتماعية** (دوركايم: المجتمع يصنع الفرد).\n- **النقد**: يستطيع الإنسان أن يعرف حتمياته ويؤثر فيها، ونفي الحرية كليا يلغي الأخلاق والقانون.\n\n## الموقف الثاني: إثبات الحرية\n\n- **ديكارت**: الحرية بديهية يشعر بها الوعي، والإرادة لا متناهية.\n- **سارتر**: «الإنسان محكوم عليه بأن يكون حرا»؛ الوجود يسبق الماهية، والإنسان يختار نفسه ويتحمل مسؤولية اختياراته.\n- **النقد**: الحرية المطلقة وهم يتجاهل الثقل الحقيقي للظروف.\n\n## التركيب: التحرر\n\nالحرية ليست معطاة ولا مستحيلة، بل **تكتسب** بمعرفة الحتميات (العلم يسمح بالتحكم في الطبيعة؛ هيغل: «الحرية هي وعي الضرورة»).\n\n## المسؤولية\n\nأن تكون مسؤولا يعني أن **تتحمل نتائج أفعالك** أخلاقيا وقانونيا. والمسؤولية تفترض الحرية والوعي، لذلك يراعي القانون السن والسلامة العقلية."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Construire la synthèse",
+          "title_ar": "بناء التركيب",
+          "points": 0,
+          "statement_fr": "Sujet : « La connaissance des déterminismes supprime-t-elle la liberté ? »\n\nRédiger la synthèse en quatre ou cinq phrases.",
+          "statement_ar": "الموضوع: «هل معرفة الحتميات تلغي الحرية؟»\n\nحرّر التركيب في أربع أو خمس جمل.",
+          "solution_fr": "Exemple : « Les déterminismes existent et limitent nos choix ; mais les ignorer, c'est les subir. En les connaissant, l'homme peut agir sur eux : la science a permis de maîtriser des forces de la nature qui l'écrasaient. La liberté n'est donc pas un état donné mais une libération progressive. Ainsi, loin de supprimer la liberté, la connaissance des déterminismes en est la condition. »",
+          "solution_ar": "مثال: «الحتميات موجودة وتحد من اختياراتنا، لكن الجهل بها يجعلنا نخضع لها. وبمعرفتها يستطيع الإنسان أن يؤثر فيها، فقد مكّن العلم من التحكم في قوى طبيعية كانت تسحقه. فالحرية ليست حالة معطاة بل تحرر تدريجي. وهكذا فإن معرفة الحتميات لا تلغي الحرية بل هي شرطها.»"
+        }
+      ]
+    },
+    {
+      "title_fr": "La méthode expérimentale",
+      "title_ar": "المنهج التجريبي",
+      "lessons": [
+        {
+          "title_fr": "Les étapes de la méthode et ses limites",
+          "title_ar": "خطوات المنهج التجريبي وحدوده",
+          "body_fr": "## Les étapes (Claude Bernard)\n\n1. **Observation** d'un fait qui pose problème.\n2. **Hypothèse** : explication provisoire, idée directrice.\n3. **Expérimentation** : vérification de l'hypothèse dans des conditions contrôlées (faire varier un facteur à la fois).\n4. **Loi** : relation constante entre les phénomènes, si l'hypothèse est confirmée.\n\nClaude Bernard (*Introduction à l'étude de la médecine expérimentale*, 1865) insiste sur le rôle de l'hypothèse : sans idée préconçue, l'expérience est aveugle.\n\n## Le fondement : l'induction et le déterminisme\n\nOn passe de cas particuliers à une loi générale (**induction**), en supposant que les mêmes causes produisent les mêmes effets (**principe du déterminisme**). Francis Bacon a contribué à fonder la méthode inductive.\n\n## Les limites\n\n- **Problème de l'induction** : quelques expériences ne prouvent pas une loi universelle.\n- **Karl Popper** : une théorie scientifique n'est jamais vérifiée définitivement ; elle doit être **réfutable** (falsifiable) et elle tient tant qu'elle n'est pas réfutée.\n- **En biologie** : l'être vivant est une **totalité** organisée, chaque individu est singulier, et l'expérimentation pose des problèmes **éthiques**. Claude Bernard a pourtant montré qu'elle reste possible avec précautions.\n- **Dans les sciences humaines** : la conscience et la liberté de l'objet étudié rendent l'expérimentation et la prévision plus difficiles.\n\n## Conclusion type\n\nLa méthode expérimentale est le cœur des sciences de la nature, mais ses résultats restent **provisoires** et son application doit être adaptée à l'objet étudié.",
+          "body_ar": "## الخطوات (كلود برنار)\n\n1. **الملاحظة**: واقعة تطرح مشكلة.\n2. **الفرضية**: تفسير مؤقت وفكرة موجهة.\n3. **التجريب**: التحقق من الفرضية في ظروف مضبوطة (تغيير عامل واحد في كل مرة).\n4. **القانون**: علاقة ثابتة بين الظواهر إذا تأكدت الفرضية.\n\nيؤكد كلود برنار (*مدخل إلى دراسة الطب التجريبي*، 1865) دور الفرضية: بدون فكرة مسبقة تكون التجربة عمياء.\n\n## الأساس: الاستقراء والحتمية\n\nننتقل من حالات جزئية إلى قانون عام (**الاستقراء**)، بافتراض أن نفس الأسباب تؤدي إلى نفس النتائج (**مبدأ الحتمية**). وقد ساهم فرنسيس بيكون في تأسيس المنهج الاستقرائي.\n\n## الحدود\n\n- **مشكلة الاستقراء**: بعض التجارب لا تثبت قانونا كليا.\n- **كارل بوبر**: النظرية العلمية لا تتحقق نهائيا أبدا، بل يجب أن تكون **قابلة للتكذيب**، وتبقى صالحة ما لم تكذّب.\n- **في البيولوجيا**: الكائن الحي **كل** منظم، وكل فرد متميز، والتجريب يطرح مشاكل **أخلاقية**. ومع ذلك بين كلود برنار أنه ممكن مع الاحتياط.\n- **في العلوم الإنسانية**: وعي الموضوع المدروس وحريته يصعّبان التجريب والتنبؤ.\n\n## خلاصة نموذجية\n\nالمنهج التجريبي جوهر علوم الطبيعة، لكن نتائجه تبقى **نسبية مؤقتة**، ويجب تكييف تطبيقه مع طبيعة الموضوع المدروس."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Vérifier ou réfuter ?",
+          "title_ar": "التحقق أم التكذيب؟",
+          "points": 0,
+          "statement_fr": "1. Citer les étapes de la méthode expérimentale.\n2. Expliquer en deux phrases l'idée de Popper sur la réfutabilité.",
+          "statement_ar": "1. اذكر خطوات المنهج التجريبي.\n2. اشرح في جملتين فكرة بوبر حول قابلية التكذيب.",
+          "solution_fr": "1. Observation, hypothèse, expérimentation, loi.\n\n2. Aucune série d'expériences ne peut prouver définitivement une théorie universelle, alors qu'une seule expérience contraire peut la réfuter. Une théorie est donc scientifique si elle peut être soumise à des tests qui pourraient la réfuter.",
+          "solution_ar": "1. الملاحظة، الفرضية، التجريب، القانون.\n\n2. لا يمكن لأي سلسلة من التجارب أن تثبت نهائيا نظرية كلية، بينما تكفي تجربة واحدة مخالفة لتكذيبها. فالنظرية علمية إذا أمكن إخضاعها لاختبارات قد تكذبها."
+        }
+      ]
+    }
+  ]
+}

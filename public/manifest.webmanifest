@@ -1,0 +1,10 @@
+{
+  "name": "BAC MASTER AI",
+  "short_name": "BAC MASTER",
+  "description": "Préparer le baccalauréat algérien avec des informations officielles vérifiées.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfbfd",
+  "theme_color": "#2a2740",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

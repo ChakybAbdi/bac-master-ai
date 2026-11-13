@@ -1,0 +1,99 @@
+{
+  "key": "islam-programme-3",
+  "subject": "ISLAM",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Les moyens du Coran pour affermir la foi",
+      "title_ar": "وسائل القرآن الكريم في تثبيت العقيدة الإسلامية",
+      "lessons": [
+        {
+          "title_fr": "S'adresser à la raison, au cœur et à l'imagination",
+          "title_ar": "مخاطبة العقل والوجدان والخيال",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\nLe Coran affermit la croyance par plusieurs moyens complémentaires :\n\n1. **Inviter à la réflexion** sur l'univers et sur soi (observation de la création).\n2. **Le raisonnement et la preuve** : réfuter les croyances fausses par l'argument (unicité de Dieu).\n3. **Toucher le cœur** : rappeler les bienfaits de Dieu, éveiller la conscience.\n4. **Les paraboles** (al-amthâl) : rendre concret l'abstrait.\n5. **Les récits** (al-qasas) : tirer les leçons des peuples anciens et des prophètes.\n6. **L'encouragement et l'avertissement** (at-targhîb wa at-tarhîb) : promesse du Paradis, menace du châtiment.\n7. **Le dialogue** avec les contradicteurs, avec courtoisie.",
+          "body_ar": "يعتمد القرآن الكريم وسائل متكاملة لتثبيت العقيدة، منها:\n\n## 1. إثارة العقل ودعوته إلى التفكر\n\nفي الكون وفي النفس: ﴿أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ﴾ [الغاشية: 17]. التفكر يقود إلى الإيمان بالخالق.\n\n## 2. البرهان العقلي والاستدلال\n\nإبطال العقائد الفاسدة بالحجة: ﴿لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا﴾ [الأنبياء: 22] (دليل التمانع على الوحدانية)، ومطالبة المخالفين بالدليل: ﴿قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ﴾ [البقرة: 111].\n\n## 3. مخاطبة الوجدان (القلب)\n\nبالتذكير بنعم الله وإيقاظ الضمير، فيجتمع اقتناع العقل واطمئنان القلب.\n\n## 4. ضرب الأمثال\n\nتقريب المعاني المجردة بصور حسية.\n\n## 5. القصص القرآني\n\nأخذ العبرة من أحوال الأنبياء والأمم السابقة.\n\n## 6. الترغيب والترهيب\n\nالوعد بالجنة والوعيد بالعذاب، لتحفيز النفس على الطاعة وزجرها عن المعصية.\n\n## 7. الحوار والجدال بالتي هي أحسن\n\nمحاورة المخالفين بأدب ولين.\n\n**الأثر**: عقيدة راسخة قائمة على الاقتناع لا على التقليد، تنعكس على السلوك."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Identifier les moyens du Coran",
+          "title_ar": "تحديد وسائل القرآن",
+          "points": 5,
+          "statement_fr": "1. Quel moyen du Coran pour affermir la foi illustre chacun des versets suivants ?\n   a) ﴿أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ﴾\n   b) ﴿لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا﴾\n   c) ﴿قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ﴾\n2. Pourquoi le Coran s'adresse-t-il à la fois à la raison et au cœur ?\n3. Citer deux autres moyens.",
+          "statement_ar": "1. ما الوسيلة القرآنية في تثبيت العقيدة التي تبرزها كل آية من الآيات الآتية؟\n   أ) ﴿أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ﴾\n   ب) ﴿لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا﴾\n   ج) ﴿قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ﴾\n2. لماذا يخاطب القرآن العقل والقلب معا؟\n3. اذكر وسيلتين أخريين.",
+          "solution_fr": "1. a) Inviter à la réflexion sur la création ; b) preuve rationnelle (si plusieurs dieux existaient, l'ordre de l'univers serait corrompu) ; c) dialogue et demande de preuve aux contradicteurs.\n2. Pour que la foi repose sur la conviction de la raison et sur l'apaisement du cœur : une croyance seulement intellectuelle reste froide, une croyance seulement affective est fragile.\n3. Récits, paraboles, encouragement et avertissement (deux au choix).",
+          "solution_ar": "1. أ) إثارة العقل ودعوته إلى التفكر في المخلوقات؛ ب) البرهان العقلي (لو تعددت الآلهة لفسد نظام الكون)؛ ج) الحوار ومطالبة المخالفين بالدليل.\n2. لتقوم العقيدة على اقتناع العقل واطمئنان القلب: العقيدة العقلية وحدها جافة، والعاطفية وحدها هشة.\n3. القصص، ضرب الأمثال، الترغيب والترهيب (اثنتان منها)."
+        }
+      ]
+    },
+    {
+      "title_fr": "Sources de la législation : consensus, analogie et intérêt général",
+      "title_ar": "من مصادر التشريع: الإجماع، القياس، المصلحة المرسلة",
+      "lessons": [
+        {
+          "title_fr": "Al-ijmâ', al-qiyâs et al-maslaha al-mursala",
+          "title_ar": "الإجماع والقياس والمصلحة المرسلة",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\nAprès le Coran et la Sunna, les sources de la législation comprennent :\n\n- **Le consensus (al-ijmâ')** : accord des savants mujtahid d'une époque, après la mort du Prophète ﷺ, sur un jugement légal. Exemple : la compilation du Coran en un seul volume.\n- **L'analogie (al-qiyâs)** : étendre le jugement d'un cas prévu par un texte (al-asl) à un cas nouveau (al-far') parce qu'ils partagent la même cause ('illa). Exemple : l'interdiction de toute boisson enivrante par analogie avec le vin, la cause commune étant l'ivresse.\n- **L'intérêt général non réglementé (al-maslaha al-mursala)** : un intérêt que la charia n'a ni explicitement consacré ni annulé, mais qui s'accorde avec ses finalités. Exemples : l'enregistrement des registres (dawâwîn), le code de la route, l'état civil.",
+          "body_ar": "## الإجماع\n\n**تعريفه**: اتفاق المجتهدين من أمة محمد ﷺ بعد وفاته في عصر من العصور على حكم شرعي.\n**حجيته**: هو المصدر الثالث بعد القرآن والسنة.\n**مثاله**: جمع القرآن الكريم في مصحف واحد.\n\n## القياس\n\n**تعريفه**: إلحاق أمر لم يرد فيه نص بأمر ورد فيه نص، في الحكم الشرعي، لاشتراكهما في العلة.\n**أركانه الأربعة**:\n1. **الأصل** (المقيس عليه): ما ورد فيه النص؛\n2. **الفرع** (المقيس): الحادثة الجديدة؛\n3. **حكم الأصل**: الحكم الشرعي الوارد في الأصل؛\n4. **العلة**: الوصف المشترك الذي بني عليه الحكم.\n**مثاله**: الأصل الخمر، الفرع المخدرات أو كل مسكر، الحكم التحريم، العلة الإسكار وذهاب العقل.\n\n## المصلحة المرسلة\n\n**تعريفها**: كل منفعة لم يشهد الشرع لاعتبارها ولا لإلغائها بنص خاص، وهي ملائمة لمقاصد الشريعة.\n**شروطها**: أن تكون حقيقية لا وهمية، عامة لا خاصة، وألا تعارض نصا أو إجماعا.\n**أمثلتها**: تدوين الدواوين، جمع المصحف، قوانين المرور، الحالة المدنية، فرض الضرائب عند الحاجة.\n\n## الأهمية\n\nهذه المصادر تجعل الشريعة صالحة لكل زمان ومكان، وتجيب عن المستجدات في إطار مقاصدها."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Appliquer l'analogie",
+          "title_ar": "تطبيق القياس",
+          "points": 5,
+          "statement_fr": "1. Définir l'analogie (al-qiyâs) et citer ses quatre piliers.\n2. Appliquer : quel est le jugement des drogues ? Identifier le principe, la branche, le jugement et la cause.\n3. Classer en consensus, analogie ou intérêt général : a) le code de la route ; b) la compilation du Coran en un seul volume.",
+          "statement_ar": "1. عرّف القياس واذكر أركانه الأربعة.\n2. طبّق: ما حكم المخدرات؟ حدد الأصل والفرع والحكم والعلة.\n3. صنّف إلى إجماع أو قياس أو مصلحة مرسلة: أ) قانون المرور؛ ب) جمع القرآن في مصحف واحد.",
+          "solution_fr": "1. Étendre le jugement d'un cas prévu par un texte à un cas nouveau en raison d'une cause commune. Piliers : le principe (al-asl), la branche (al-far'), le jugement du principe, la cause ('illa).\n2. Interdites : principe = le vin ; branche = les drogues ; jugement = interdiction ; cause = l'ivresse, la perte de la raison (et le préjudice).\n3. a) Intérêt général non réglementé (al-maslaha al-mursala) ; b) consensus (al-ijmâ').",
+          "solution_ar": "1. إلحاق أمر لم يرد فيه نص بأمر ورد فيه نص في الحكم لاشتراكهما في العلة. أركانه: الأصل، الفرع، حكم الأصل، العلة.\n2. محرمة: الأصل الخمر؛ الفرع المخدرات؛ الحكم التحريم؛ العلة الإسكار وذهاب العقل (والضرر).\n3. أ) مصلحة مرسلة؛ ب) إجماع."
+        }
+      ]
+    },
+    {
+      "title_fr": "Les droits de l'homme en islam",
+      "title_ar": "حقوق الإنسان في الإسلام",
+      "lessons": [
+        {
+          "title_fr": "Fondements et principaux droits",
+          "title_ar": "الأسس وأهم الحقوق",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\nL'islam fonde les droits de l'homme sur la **dignité** que Dieu accorde à tout être humain. Ces droits sont des obligations religieuses, pas de simples concessions. Principaux droits : la vie, la dignité, la liberté (y compris de croyance), l'égalité, la justice, le savoir, la propriété. Comparés à la Déclaration universelle de 1948, ils ont une source divine, sont liés à des devoirs et à une morale, et sont garantis par la foi en plus de la loi.",
+          "body_ar": "## الأساس\n\nيقوم تصور الإسلام لحقوق الإنسان على **التكريم الإلهي**: ﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾ [الإسراء: 70]. وهي في الإسلام واجبات شرعية لا منح من أحد.\n\n## أهم الحقوق\n\n- **حق الحياة**: ﴿وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ﴾ [الإسراء: 33].\n- **حق الكرامة**: تحريم الإهانة والتعذيب والسخرية.\n- **حق الحرية**: حرية العقيدة ﴿لَا إِكْرَاهَ فِي الدِّينِ﴾ [البقرة: 256]، حرية الرأي والتعبير في حدود الآداب، حرية التنقل.\n- **حق المساواة**: ﴿يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ﴾ [الحجرات: 13].\n- **حق العدل** أمام القضاء.\n- **حق التعلم**، **حق التملك**، **حق العمل**.\n\n## مقارنة بالإعلان العالمي لحقوق الإنسان (1948)\n\n- المصدر: إلهي في الإسلام، وضعي في الإعلان العالمي.\n- الارتباط بالواجبات والأخلاق في الإسلام.\n- الضمانات: الوازع الديني إضافة إلى القانون."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Droits et preuves",
+          "title_ar": "الحقوق وأدلتها",
+          "points": 5,
+          "statement_fr": "1. Sur quel fondement l'islam établit-il les droits de l'homme ? Donner la preuve coranique.\n2. Associer chaque droit à sa preuve : liberté de croyance ; égalité ; droit à la vie.\n3. Citer deux différences entre les droits de l'homme en islam et la Déclaration universelle de 1948.",
+          "statement_ar": "1. على أي أساس يقيم الإسلام حقوق الإنسان؟ اذكر الدليل القرآني.\n2. اربط كل حق بدليله: حرية العقيدة؛ المساواة؛ حق الحياة.\n3. اذكر فرقين بين حقوق الإنسان في الإسلام والإعلان العالمي لسنة 1948.",
+          "solution_fr": "1. La dignité accordée par Dieu à l'homme : ﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾ (al-Isrâ', 70).\n2. Liberté de croyance : ﴿لَا إِكْرَاهَ فِي الدِّينِ﴾ ; égalité : ﴿إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ﴾ ; vie : ﴿وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ﴾.\n3. Source divine / humaine ; lien avec les devoirs et la morale ; garantie par la conscience religieuse en plus de la loi (deux au choix).",
+          "solution_ar": "1. التكريم الإلهي للإنسان: ﴿وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ﴾ [الإسراء: 70].\n2. حرية العقيدة: ﴿لَا إِكْرَاهَ فِي الدِّينِ﴾؛ المساواة: ﴿إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ﴾؛ الحياة: ﴿وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ﴾.\n3. المصدر إلهي / وضعي؛ الارتباط بالواجبات والأخلاق؛ الضمان بالوازع الديني إضافة إلى القانون (اثنان منها)."
+        }
+      ]
+    },
+    {
+      "title_fr": "La santé physique et mentale en islam",
+      "title_ar": "الصحة الجسمية والنفسية في الإسلام",
+      "lessons": [
+        {
+          "title_fr": "Prévention, hygiène et équilibre intérieur",
+          "title_ar": "الوقاية والنظافة والتوازن النفسي",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\nLa préservation de la vie fait partie des finalités de la charia. L'islam protège la **santé physique** par l'hygiène (ablutions, propreté), la modération dans la nourriture, l'interdiction de ce qui nuit (alcool, drogues), l'encouragement à la force et au sport, la prévention des épidémies (quarantaine) et l'appel à se soigner. Il protège la **santé mentale** par le rappel de Dieu, la patience, la confiance en Dieu, le contentement et les liens sociaux.",
+          "body_ar": "## المكانة\n\nحفظ النفس من **مقاصد الشريعة** الضرورية، والجسم أمانة يسأل عنها الإنسان.\n\n## الصحة الجسمية\n\n- **النظافة**: الوضوء والغسل وطهارة الثوب والمكان.\n- **الاعتدال في الأكل والشرب**: ﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا﴾ [الأعراف: 31].\n- **تحريم الخبائث** المضرة: الخمر، المخدرات، الدخان لما فيه من ضرر.\n- **الحث على القوة والرياضة**: قال ﷺ: «المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف» [رواه مسلم].\n- **الوقاية من الأوبئة (الحجر الصحي)**: قال ﷺ: «إذا سمعتم بالطاعون بأرض فلا تدخلوها، وإذا وقع بأرض وأنتم بها فلا تخرجوا منها» [متفق عليه].\n- **التداوي**: الأمر بطلب العلاج.\n\n## الصحة النفسية\n\n- **ذكر الله**: ﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾ [الرعد: 28].\n- **الصبر والرضا بالقضاء** والتوكل على الله مع الأخذ بالأسباب.\n- **القناعة** ومحاربة الحسد والحقد.\n- **العلاقات الاجتماعية**: صلة الرحم، التكافل، الأخوة.\n\n## الأثر\n\nفرد سليم الجسم مطمئن النفس قادر على أداء واجباته، ومجتمع متماسك."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Prévention et équilibre",
+          "title_ar": "الوقاية والتوازن",
+          "points": 5,
+          "statement_fr": "1. À quelle finalité de la charia se rattache la santé ?\n2. Citer trois moyens par lesquels l'islam protège la santé physique, avec une preuve pour l'un d'eux.\n3. Quel principe de prévention moderne retrouve-t-on dans le hadith sur la peste ?\n4. Citer deux moyens de préserver la santé mentale.",
+          "statement_ar": "1. إلى أي مقصد من مقاصد الشريعة تنتمي الصحة؟\n2. اذكر ثلاث وسائل يحفظ بها الإسلام الصحة الجسمية مع دليل لإحداها.\n3. ما المبدأ الوقائي الحديث الذي نجده في حديث الطاعون؟\n4. اذكر وسيلتين لحفظ الصحة النفسية.",
+          "solution_fr": "1. La préservation de la vie (hifz an-nafs), finalité nécessaire.\n2. Hygiène (ablutions), modération (﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا﴾), interdiction des substances nuisibles, encouragement au sport, soins (trois au choix).\n3. La quarantaine (confinement sanitaire) : ne pas entrer dans une zone infectée et ne pas en sortir.\n4. Le rappel de Dieu (﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾), la patience, la confiance en Dieu, le contentement, les liens familiaux (deux au choix).",
+          "solution_ar": "1. حفظ النفس، وهو من الضروريات.\n2. النظافة (الوضوء)، الاعتدال (﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا﴾)، تحريم المواد المضرة، الحث على الرياضة، التداوي (ثلاث منها).\n3. الحجر الصحي: عدم دخول المنطقة الموبوءة وعدم الخروج منها.\n4. ذكر الله (﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾)، الصبر، التوكل، القناعة، صلة الرحم (اثنتان منها)."
+        }
+      ]
+    }
+  ]
+}

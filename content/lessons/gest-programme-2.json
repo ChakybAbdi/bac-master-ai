@@ -1,0 +1,76 @@
+{
+  "key": "gest-programme-2",
+  "subject": "GEST",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Travaux de fin d'exercice : régularisation des charges et des produits",
+      "title_ar": "أعمال نهاية الدورة: تسوية الأعباء والإيرادات",
+      "lessons": [
+        {
+          "title_fr": "Principe d'indépendance des exercices et écritures de régularisation",
+          "title_ar": "مبدأ استقلالية الدورات وقيود التسوية",
+          "body_fr": "## Le principe\n\nChaque exercice ne doit supporter que les **charges** et les **produits** qui le concernent (indépendance des exercices). En fin d'exercice, on corrige les comptes de charges et de produits.\n\n## Les quatre cas (SCF)\n\n| Situation | Écriture au 31/12 |\n|---|---|\n| **Charge constatée d'avance** : payée cette année, concerne l'année suivante | débit **486** Charges constatées d'avance / crédit compte de charge (6x) |\n| **Produit constaté d'avance** : encaissé cette année, concerne l'année suivante | débit compte de produit (7x) / crédit **487** Produits constatés d'avance |\n| **Charge à payer** : concerne cette année, facture non reçue | débit compte de charge (6x) / crédit **408** Fournisseurs, factures non parvenues |\n| **Produit à recevoir** : concerne cette année, facture non établie | débit **418** Clients, produits non encore facturés / crédit compte de produit (7x) |\n\n## Calcul au prorata\n\nPour une prime d'assurance annuelle payée le 1er octobre, l'exercice ne supporte que **3 mois** (octobre à décembre) ; les **9 mois** restants sont une charge constatée d'avance.\n\n## L'exercice suivant\n\nLes comptes 486 et 487 sont **soldés** au début de l'exercice suivant (écriture inverse), pour rattacher la charge ou le produit à la bonne année.",
+          "body_ar": "## المبدأ\n\nلا تتحمل كل دورة إلا **الأعباء** و**الإيرادات** الخاصة بها (استقلالية الدورات). وفي نهاية الدورة نصحح حسابات الأعباء والإيرادات.\n\n## الحالات الأربع (النظام المحاسبي المالي)\n\n| الوضعية | القيد في 31/12 |\n|---|---|\n| **عبء مسجل مسبقا**: دفع هذه السنة ويخص السنة الموالية | من حـ/ **486** أعباء معاينة مسبقا إلى حـ/ العبء (6x) |\n| **إيراد مسجل مسبقا**: قبض هذه السنة ويخص السنة الموالية | من حـ/ الإيراد (7x) إلى حـ/ **487** منتوجات معاينة مسبقا |\n| **عبء للدفع**: يخص هذه السنة والفاتورة لم تصل | من حـ/ العبء (6x) إلى حـ/ **408** موردو الفواتير التي لم تصل |\n| **إيراد للقبض**: يخص هذه السنة والفاتورة لم تحرر | من حـ/ **418** الزبائن - منتوجات لم تفوتر بعد إلى حـ/ الإيراد (7x) |\n\n## الحساب بالتناسب\n\nقسط تأمين سنوي دفع في 1 أكتوبر: لا تتحمل الدورة إلا **3 أشهر** (أكتوبر إلى ديسمبر)، والأشهر **التسعة** الباقية عبء مسجل مسبقا.\n\n## الدورة الموالية\n\nيرصد الحسابان 486 و487 في بداية الدورة الموالية (قيد عكسي) لإرجاع العبء أو الإيراد إلى سنته الصحيحة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Prime d'assurance",
+          "title_ar": "قسط التأمين",
+          "points": 3,
+          "statement_fr": "Le 1er octobre 2025, l'entreprise paie une prime d'assurance annuelle de $36\\,000$ DA (compte 616 Primes d'assurance).\n\n1. Quelle part concerne l'exercice 2025 ?\n2. Passer l'écriture de régularisation au 31/12/2025.",
+          "statement_ar": "في 1 أكتوبر 2025 دفعت المؤسسة قسط تأمين سنوي قدره $36000$ دج (حـ/ 616 أقساط التأمينات).\n\n1. ما الجزء الذي يخص دورة 2025؟\n2. سجل قيد التسوية في 31/12/2025.",
+          "solution_fr": "1. 3 mois : $36\\,000 \\times \\dfrac{3}{12} = 9\\,000$ DA ; la charge constatée d'avance est de $27\\,000$ DA (9 mois).\n\n2. Débit **486** Charges constatées d'avance $27\\,000$ / crédit **616** Primes d'assurance $27\\,000$.",
+          "solution_ar": "1. 3 أشهر: $36000 \\times \\dfrac{3}{12} = 9000$ دج؛ والعبء المسجل مسبقا $27000$ دج (9 أشهر).\n\n2. من حـ/ **486** أعباء معاينة مسبقا $27000$ إلى حـ/ **616** أقساط التأمينات $27000$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le compte de résultat par nature",
+      "title_ar": "حساب النتائج حسب الطبيعة",
+      "lessons": [
+        {
+          "title_fr": "Les soldes du compte de résultat (SCF)",
+          "title_ar": "أرصدة حساب النتائج (النظام المحاسبي المالي)",
+          "body_fr": "## Structure\n\nLe compte de résultat par nature calcule le résultat en cascade :\n\n1. **Production de l'exercice** = chiffre d'affaires (ventes) + production stockée + production immobilisée + subventions d'exploitation.\n2. **Consommation de l'exercice** = achats consommés + services extérieurs et autres consommations.\n3. **Valeur ajoutée d'exploitation** = production de l'exercice − consommation de l'exercice.\n4. **Excédent brut d'exploitation (EBE)** = valeur ajoutée − charges de personnel − impôts, taxes et versements assimilés.\n5. **Résultat opérationnel** = EBE + autres produits opérationnels − autres charges opérationnelles − dotations aux amortissements, provisions et pertes de valeur + reprises.\n6. **Résultat financier** = produits financiers − charges financières.\n7. **Résultat ordinaire avant impôts** = résultat opérationnel + résultat financier.\n8. **Résultat net des activités ordinaires** = résultat ordinaire avant impôts − impôts exigibles et différés sur résultats ordinaires.\n9. **Résultat net de l'exercice** = résultat net des activités ordinaires + éléments extraordinaires.\n\n## Lecture\n\nLa **valeur ajoutée** mesure la richesse créée ; l'**EBE** la performance de l'exploitation avant amortissements et éléments financiers ; le **résultat net** revient aux propriétaires.",
+          "body_ar": "## البنية\n\nيحسب حساب النتائج حسب الطبيعة النتيجة بشكل متسلسل:\n\n1. **إنتاج السنة المالية** = رقم الأعمال (المبيعات) + الإنتاج المخزن + الإنتاج المثبت + إعانات الاستغلال.\n2. **استهلاك السنة المالية** = المشتريات المستهلكة + الخدمات الخارجية والاستهلاكات الأخرى.\n3. **القيمة المضافة للاستغلال** = إنتاج السنة − استهلاك السنة.\n4. **إجمالي فائض الاستغلال** = القيمة المضافة − أعباء المستخدمين − الضرائب والرسوم والمدفوعات المماثلة.\n5. **النتيجة العملياتية** = إجمالي فائض الاستغلال + المنتوجات العملياتية الأخرى − الأعباء العملياتية الأخرى − مخصصات الاهتلاكات والمؤونات وخسائر القيمة + الاسترجاعات.\n6. **النتيجة المالية** = المنتوجات المالية − الأعباء المالية.\n7. **النتيجة العادية قبل الضريبة** = النتيجة العملياتية + النتيجة المالية.\n8. **النتيجة الصافية للأنشطة العادية** = النتيجة العادية قبل الضريبة − الضرائب الواجب دفعها والمؤجلة عن النتائج العادية.\n9. **النتيجة الصافية للسنة المالية** = النتيجة الصافية للأنشطة العادية + العناصر غير العادية.\n\n## القراءة\n\n**القيمة المضافة** تقيس الثروة المنشأة؛ **إجمالي فائض الاستغلال** أداء الاستغلال قبل الاهتلاكات والعناصر المالية؛ و**النتيجة الصافية** تعود للملاك."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calculer les soldes",
+          "title_ar": "حساب الأرصدة",
+          "points": 4,
+          "statement_fr": "Données (en DA) : ventes $5\\,000\\,000$ ; production stockée $200\\,000$ ; achats consommés $2\\,400\\,000$ ; services extérieurs $600\\,000$ ; charges de personnel $1\\,000\\,000$ ; impôts et taxes $100\\,000$ ; dotations aux amortissements $300\\,000$ ; charges financières $50\\,000$ ; aucun autre élément.\n\nCalculer : la production de l'exercice, la consommation, la valeur ajoutée, l'EBE, le résultat opérationnel et le résultat ordinaire avant impôts.",
+          "statement_ar": "المعطيات (بالدينار): المبيعات $5000000$؛ الإنتاج المخزن $200000$؛ المشتريات المستهلكة $2400000$؛ الخدمات الخارجية $600000$؛ أعباء المستخدمين $1000000$؛ الضرائب والرسوم $100000$؛ مخصصات الاهتلاكات $300000$؛ الأعباء المالية $50000$؛ ولا توجد عناصر أخرى.\n\nاحسب: إنتاج السنة، الاستهلاك، القيمة المضافة، إجمالي فائض الاستغلال، النتيجة العملياتية والنتيجة العادية قبل الضريبة.",
+          "solution_fr": "- Production : $5\\,000\\,000 + 200\\,000 = 5\\,200\\,000$.\n- Consommation : $2\\,400\\,000 + 600\\,000 = 3\\,000\\,000$.\n- Valeur ajoutée : $5\\,200\\,000 - 3\\,000\\,000 = 2\\,200\\,000$.\n- EBE : $2\\,200\\,000 - 1\\,000\\,000 - 100\\,000 = 1\\,100\\,000$.\n- Résultat opérationnel : $1\\,100\\,000 - 300\\,000 = 800\\,000$.\n- Résultat financier : $-50\\,000$ ; résultat ordinaire avant impôts : $800\\,000 - 50\\,000 = 750\\,000$.",
+          "solution_ar": "- الإنتاج: $5000000 + 200000 = 5200000$.\n- الاستهلاك: $2400000 + 600000 = 3000000$.\n- القيمة المضافة: $5200000 - 3000000 = 2200000$.\n- إجمالي فائض الاستغلال: $2200000 - 1000000 - 100000 = 1100000$.\n- النتيجة العملياتية: $1100000 - 300000 = 800000$.\n- النتيجة المالية: $-50000$؛ النتيجة العادية قبل الضريبة: $800000 - 50000 = 750000$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Analyse financière : le bilan fonctionnel",
+      "title_ar": "التحليل المالي: الميزانية الوظيفية",
+      "lessons": [
+        {
+          "title_fr": "FRNG, BFR et trésorerie nette",
+          "title_ar": "رأس المال العامل الصافي الإجمالي، الاحتياج في رأس المال العامل والخزينة الصافية",
+          "body_fr": "## Le bilan fonctionnel\n\nIl classe les éléments du bilan selon leur **fonction** (investissement, financement, exploitation), en valeurs **brutes** :\n\n- **Emplois stables** : immobilisations brutes.\n- **Ressources durables** : capitaux propres + amortissements et pertes de valeur cumulés + provisions + dettes financières à long et moyen terme.\n- **Actif circulant** : d'exploitation (stocks, créances clients), hors exploitation, et trésorerie actif.\n- **Passif circulant** : dettes d'exploitation (fournisseurs, dettes fiscales et sociales d'exploitation), hors exploitation, et trésorerie passif (concours bancaires courants).\n\n## Les trois indicateurs\n\n- **Fonds de roulement net global** : $FRNG = \\text{ressources durables} - \\text{emplois stables}$. Positif : les ressources stables financent les immobilisations et dégagent un surplus.\n- **Besoin en fonds de roulement** : $BFR = (\\text{actif circulant hors trésorerie}) - (\\text{passif circulant hors trésorerie})$ ; on distingue souvent le BFR d'exploitation et hors exploitation.\n- **Trésorerie nette** : $TN = FRNG - BFR = \\text{trésorerie actif} - \\text{trésorerie passif}$.\n\n## Interprétation\n\nL'équilibre financier est satisfaisant quand le FRNG couvre le BFR ($TN > 0$). Si $TN < 0$, l'entreprise dépend des concours bancaires à court terme.",
+          "body_ar": "## الميزانية الوظيفية\n\nترتب عناصر الميزانية حسب **وظيفتها** (الاستثمار، التمويل، الاستغلال) بالقيم **الإجمالية**:\n\n- **الاستخدامات الثابتة**: التثبيتات بقيمها الإجمالية.\n- **الموارد الدائمة**: الأموال الخاصة + الاهتلاكات وخسائر القيمة المتراكمة + المؤونات + الديون المالية الطويلة والمتوسطة الأجل.\n- **الأصول المتداولة**: للاستغلال (المخزونات، حقوق الزبائن)، خارج الاستغلال، وخزينة الأصول.\n- **الخصوم المتداولة**: ديون الاستغلال (الموردون، الديون الجبائية والاجتماعية للاستغلال)، خارج الاستغلال، وخزينة الخصوم (المساعدات البنكية الجارية).\n\n## المؤشرات الثلاثة\n\n- **رأس المال العامل الصافي الإجمالي**: $FRNG = \\text{الموارد الدائمة} - \\text{الاستخدامات الثابتة}$. إذا كان موجبا فالموارد الدائمة تمول التثبيتات ويبقى فائض.\n- **الاحتياج في رأس المال العامل**: $BFR = (\\text{الأصول المتداولة خارج الخزينة}) - (\\text{الخصوم المتداولة خارج الخزينة})$، ونميز غالبا بين احتياج الاستغلال وخارج الاستغلال.\n- **الخزينة الصافية**: $TN = FRNG - BFR = \\text{خزينة الأصول} - \\text{خزينة الخصوم}$.\n\n## التفسير\n\nيكون التوازن المالي جيدا إذا غطى رأس المال العامل الاحتياج ($TN > 0$). وإذا كانت $TN < 0$ فالمؤسسة تعتمد على المساعدات البنكية قصيرة الأجل."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calculer FRNG, BFR et TN",
+          "title_ar": "حساب FRNG و BFR و TN",
+          "points": 4,
+          "statement_fr": "Bilan fonctionnel (en DA) : emplois stables $8\\,000\\,000$ ; ressources durables $9\\,500\\,000$ ; actif circulant hors trésorerie $3\\,000\\,000$ ; passif circulant hors trésorerie $2\\,000\\,000$ ; trésorerie actif $800\\,000$ ; trésorerie passif $300\\,000$.\n\n1. Calculer le FRNG, le BFR et la trésorerie nette par deux méthodes.\n2. Commenter l'équilibre financier.",
+          "statement_ar": "الميزانية الوظيفية (بالدينار): الاستخدامات الثابتة $8000000$؛ الموارد الدائمة $9500000$؛ الأصول المتداولة خارج الخزينة $3000000$؛ الخصوم المتداولة خارج الخزينة $2000000$؛ خزينة الأصول $800000$؛ خزينة الخصوم $300000$.\n\n1. احسب FRNG و BFR والخزينة الصافية بطريقتين.\n2. علق على التوازن المالي.",
+          "solution_fr": "1. $FRNG = 9\\,500\\,000 - 8\\,000\\,000 = 1\\,500\\,000$ ; $BFR = 3\\,000\\,000 - 2\\,000\\,000 = 1\\,000\\,000$ ; $TN = 1\\,500\\,000 - 1\\,000\\,000 = 500\\,000$, et aussi $TN = 800\\,000 - 300\\,000 = 500\\,000$.\n\n2. Le FRNG est positif et couvre entièrement le BFR : la trésorerie nette est positive, l'équilibre financier est satisfaisant.",
+          "solution_ar": "1. $FRNG = 9500000 - 8000000 = 1500000$؛ $BFR = 3000000 - 2000000 = 1000000$؛ $TN = 1500000 - 1000000 = 500000$، وكذلك $TN = 800000 - 300000 = 500000$.\n\n2. رأس المال العامل موجب ويغطي كليا الاحتياج: الخزينة الصافية موجبة والتوازن المالي جيد."
+        }
+      ]
+    }
+  ]
+}

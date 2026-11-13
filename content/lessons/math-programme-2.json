@@ -1,0 +1,53 @@
+{
+  "key": "math-programme-2",
+  "subject": "MATH",
+  "streams": ["M", "SE", "TM", "GE"],
+  "chapters": [
+    {
+      "title_fr": "Fonction logarithme népérien",
+      "title_ar": "الدالة اللوغاريتمية النيبيرية",
+      "lessons": [
+        {
+          "title_fr": "L'essentiel sur ln",
+          "title_ar": "أساسيات الدالة ln",
+          "body_fr": "## Définition\n\n$\\ln$ est la fonction définie sur $]0; +\\infty[$, réciproque de $\\exp$ : pour $x > 0$, $y = \\ln x \\iff x = e^y$. $\\ln 1 = 0$, $\\ln e = 1$.\n\n## Propriétés algébriques ($a, b > 0$)\n\n$\\ln(ab) = \\ln a + \\ln b$ ; $\\ln\\dfrac{a}{b} = \\ln a - \\ln b$ ; $\\ln a^n = n\\ln a$ ; $\\ln\\sqrt{a} = \\frac{1}{2}\\ln a$.\n\n## Étude\n\n- $(\\ln x)' = \\dfrac{1}{x} > 0$ : $\\ln$ est strictement croissante sur $]0; +\\infty[$.\n- Si $u > 0$ : $(\\ln u)' = \\dfrac{u'}{u}$.\n- $\\lim\\limits_{x \\to 0^+} \\ln x = -\\infty$ ; $\\lim\\limits_{x \\to +\\infty} \\ln x = +\\infty$.\n\n## Limites de référence\n\n$\\lim\\limits_{x \\to +\\infty} \\dfrac{\\ln x}{x} = 0$ ; $\\lim\\limits_{x \\to 0^+} x\\ln x = 0$ ; $\\lim\\limits_{x \\to 0} \\dfrac{\\ln(1 + x)}{x} = 1$.\n\n## Équations et inéquations\n\nPour $a, b > 0$ : $\\ln a = \\ln b \\iff a = b$ ; $\\ln a < \\ln b \\iff a < b$. Toujours **commencer par le domaine** : les expressions sous $\\ln$ doivent être strictement positives.\n\n## Signe de $\\ln x$\n\n$\\ln x < 0$ sur $]0; 1[$, $\\ln x > 0$ sur $]1; +\\infty[$.",
+          "body_ar": "## التعريف\n\n$\\ln$ هي الدالة المعرفة على $]0; +\\infty[$، الدالة العكسية للدالة $\\exp$: من أجل $x > 0$: $y = \\ln x \\iff x = e^y$. $\\ln 1 = 0$ و $\\ln e = 1$.\n\n## الخواص الجبرية ($a, b > 0$)\n\n$\\ln(ab) = \\ln a + \\ln b$ ؛ $\\ln\\dfrac{a}{b} = \\ln a - \\ln b$ ؛ $\\ln a^n = n\\ln a$ ؛ $\\ln\\sqrt{a} = \\frac{1}{2}\\ln a$.\n\n## الدراسة\n\n- $(\\ln x)' = \\dfrac{1}{x} > 0$: الدالة $\\ln$ متزايدة تماما على $]0; +\\infty[$.\n- إذا كان $u > 0$: $(\\ln u)' = \\dfrac{u'}{u}$.\n- $\\lim\\limits_{x \\to 0^+} \\ln x = -\\infty$ ؛ $\\lim\\limits_{x \\to +\\infty} \\ln x = +\\infty$.\n\n## نهايات مرجعية\n\n$\\lim\\limits_{x \\to +\\infty} \\dfrac{\\ln x}{x} = 0$ ؛ $\\lim\\limits_{x \\to 0^+} x\\ln x = 0$ ؛ $\\lim\\limits_{x \\to 0} \\dfrac{\\ln(1 + x)}{x} = 1$.\n\n## المعادلات والمتراجحات\n\nمن أجل $a, b > 0$: $\\ln a = \\ln b \\iff a = b$ ؛ $\\ln a < \\ln b \\iff a < b$. **ابدأ دائما بمجموعة التعريف**: ما داخل $\\ln$ يجب أن يكون موجبا تماما.\n\n## إشارة $\\ln x$\n\n$\\ln x < 0$ على $]0; 1[$ و $\\ln x > 0$ على $]1; +\\infty[$."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Équation et inéquation avec ln",
+          "title_ar": "معادلة ومتراجحة بـ ln",
+          "points": 4,
+          "statement_fr": "1. Résoudre dans $\\mathbb{R}$ : $\\ln(x - 1) + \\ln(x + 1) = \\ln 3$.\n2. Résoudre dans $\\mathbb{R}$ : $\\ln(2x - 4) \\leqslant 0$.\n3. Calculer $\\lim\\limits_{x \\to +\\infty} (x - \\ln x)$.",
+          "statement_ar": "1. حل في $\\mathbb{R}$: $\\ln(x - 1) + \\ln(x + 1) = \\ln 3$.\n2. حل في $\\mathbb{R}$: $\\ln(2x - 4) \\leqslant 0$.\n3. احسب $\\lim\\limits_{x \\to +\\infty} (x - \\ln x)$.",
+          "solution_fr": "1. Domaine : $x > 1$. L'équation devient $\\ln(x^2 - 1) = \\ln 3$, soit $x^2 = 4$, $x = 2$ ou $x = -2$. Seul $x = 2$ est dans le domaine : $S = \\{2\\}$.\n\n2. Domaine : $x > 2$. $\\ln(2x - 4) \\leqslant \\ln 1 \\iff 2x - 4 \\leqslant 1 \\iff x \\leqslant \\frac{5}{2}$. $S = \\left]2; \\frac{5}{2}\\right]$.\n\n3. $x - \\ln x = x\\left(1 - \\dfrac{\\ln x}{x}\\right)$ ; comme $\\dfrac{\\ln x}{x} \\to 0$, la limite est $+\\infty$.",
+          "solution_ar": "1. مجموعة التعريف: $x > 1$. تصبح المعادلة $\\ln(x^2 - 1) = \\ln 3$ أي $x^2 = 4$، ومنه $x = 2$ أو $x = -2$. الحل المقبول $x = 2$: $S = \\{2\\}$.\n\n2. مجموعة التعريف: $x > 2$. $\\ln(2x - 4) \\leqslant \\ln 1 \\iff 2x - 4 \\leqslant 1 \\iff x \\leqslant \\frac{5}{2}$. $S = \\left]2; \\frac{5}{2}\\right]$.\n\n3. $x - \\ln x = x\\left(1 - \\dfrac{\\ln x}{x}\\right)$، وبما أن $\\dfrac{\\ln x}{x} \\to 0$ فالنهاية $+\\infty$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Primitives et calcul intégral",
+      "title_ar": "الدوال الأصلية والحساب التكاملي",
+      "lessons": [
+        {
+          "title_fr": "Primitives, intégrales et aires",
+          "title_ar": "الدوال الأصلية، التكاملات والمساحات",
+          "body_fr": "## Primitive\n\n$F$ est une primitive de $f$ sur $I$ si $F' = f$ sur $I$. Deux primitives diffèrent d'une constante ; une condition $F(x_0) = y_0$ fixe la primitive.\n\n## Primitives usuelles\n\n| $f(x)$ | $F(x)$ |\n|---|---|\n| $x^n$ ($n \\neq -1$) | $\\dfrac{x^{n+1}}{n+1}$ |\n| $\\dfrac{1}{x}$ ($x > 0$) | $\\ln x$ |\n| $e^x$ | $e^x$ |\n| $u'u^n$ | $\\dfrac{u^{n+1}}{n+1}$ |\n| $\\dfrac{u'}{u}$ ($u > 0$) | $\\ln u$ |\n| $u'e^u$ | $e^u$ |\n| $\\dfrac{u'}{\\sqrt{u}}$ | $2\\sqrt{u}$ |\n\n## Intégrale\n\n$\\displaystyle\\int_a^b f(x)\\,dx = F(b) - F(a) = [F(x)]_a^b$.\n\nPropriétés : linéarité ; relation de Chasles ; si $f \\geqslant 0$ sur $[a; b]$ ($a < b$) alors $\\int_a^b f \\geqslant 0$. **Valeur moyenne** : $\\mu = \\dfrac{1}{b - a}\\displaystyle\\int_a^b f(x)\\,dx$.\n\n## Aire\n\nSi $f \\geqslant 0$ sur $[a; b]$, l'aire du domaine limité par $(C_f)$, l'axe des abscisses et les droites $x = a$, $x = b$ est $\\int_a^b f(x)\\,dx$ unités d'aire ; si $f \\leqslant 0$, c'est $-\\int_a^b f(x)\\,dx$. Entre deux courbes avec $f \\geqslant g$ : $\\int_a^b (f - g)$.\n\n**Conversion** : $1$ u.a. $= \\|\\vec{i}\\| \\times \\|\\vec{j}\\|$ (par exemple $2\\,cm \\times 2\\,cm = 4\\,cm^2$).\n\n## Intégration par parties (filières M, SE, TM)\n\n$\\displaystyle\\int_a^b u v' = [uv]_a^b - \\int_a^b u'v$.",
+          "body_ar": "## الدالة الأصلية\n\n$F$ دالة أصلية لـ $f$ على $I$ إذا كان $F' = f$ على $I$. الدالتان الأصليتان تختلفان بثابت، والشرط $F(x_0) = y_0$ يعيّن دالة أصلية وحيدة.\n\n## دوال أصلية مألوفة\n\n| $f(x)$ | $F(x)$ |\n|---|---|\n| $x^n$ ($n \\neq -1$) | $\\dfrac{x^{n+1}}{n+1}$ |\n| $\\dfrac{1}{x}$ ($x > 0$) | $\\ln x$ |\n| $e^x$ | $e^x$ |\n| $u'u^n$ | $\\dfrac{u^{n+1}}{n+1}$ |\n| $\\dfrac{u'}{u}$ ($u > 0$) | $\\ln u$ |\n| $u'e^u$ | $e^u$ |\n| $\\dfrac{u'}{\\sqrt{u}}$ | $2\\sqrt{u}$ |\n\n## التكامل\n\n$\\displaystyle\\int_a^b f(x)\\,dx = F(b) - F(a) = [F(x)]_a^b$.\n\nالخواص: الخطية؛ علاقة شال؛ إذا كان $f \\geqslant 0$ على $[a; b]$ ($a < b$) فإن $\\int_a^b f \\geqslant 0$. **القيمة المتوسطة**: $\\mu = \\dfrac{1}{b - a}\\displaystyle\\int_a^b f(x)\\,dx$.\n\n## المساحة\n\nإذا كان $f \\geqslant 0$ على $[a; b]$ فمساحة الحيز المحدد بـ $(C_f)$ ومحور الفواصل والمستقيمين $x = a$، $x = b$ هي $\\int_a^b f(x)\\,dx$ وحدة مساحة؛ وإذا كان $f \\leqslant 0$ فهي $-\\int_a^b f(x)\\,dx$. بين منحنيين مع $f \\geqslant g$: $\\int_a^b (f - g)$.\n\n**التحويل**: $1$ و.م $= \\|\\vec{i}\\| \\times \\|\\vec{j}\\|$ (مثلا $2\\,cm \\times 2\\,cm = 4\\,cm^2$).\n\n## التكامل بالتجزئة (شعب الرياضيات، العلوم التجريبية، التقني رياضي)\n\n$\\displaystyle\\int_a^b u v' = [uv]_a^b - \\int_a^b u'v$."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calculer une aire",
+          "title_ar": "حساب مساحة",
+          "points": 4,
+          "statement_fr": "Soit $f(x) = \\dfrac{2x}{x^2 + 1}$ sur $[0; 2]$.\n\n1. Déterminer une primitive de $f$.\n2. Calculer l'aire du domaine limité par $(C_f)$, l'axe des abscisses et les droites $x = 0$ et $x = 2$, en $cm^2$, sachant que l'unité graphique est $2\\,cm$.",
+          "statement_ar": "لتكن $f(x) = \\dfrac{2x}{x^2 + 1}$ على $[0; 2]$.\n\n1. عيّن دالة أصلية لـ $f$.\n2. احسب بـ $cm^2$ مساحة الحيز المحدد بـ $(C_f)$ ومحور الفواصل والمستقيمين $x = 0$ و $x = 2$، علما أن وحدة الطول $2\\,cm$.",
+          "solution_fr": "1. $f = \\dfrac{u'}{u}$ avec $u = x^2 + 1 > 0$ : $F(x) = \\ln(x^2 + 1)$.\n\n2. $f \\geqslant 0$ sur $[0; 2]$ : $A = [\\ln(x^2 + 1)]_0^2 = \\ln 5$ u.a. Une u.a. vaut $4\\,cm^2$, donc $A = 4\\ln 5 \\approx 6{,}44\\,cm^2$.",
+          "solution_ar": "1. $f = \\dfrac{u'}{u}$ مع $u = x^2 + 1 > 0$: $F(x) = \\ln(x^2 + 1)$.\n\n2. $f \\geqslant 0$ على $[0; 2]$: $A = [\\ln(x^2 + 1)]_0^2 = \\ln 5$ و.م. وحدة المساحة تساوي $4\\,cm^2$، إذن $A = 4\\ln 5 \\approx 6.44\\,cm^2$."
+        }
+      ]
+    }
+  ]
+}

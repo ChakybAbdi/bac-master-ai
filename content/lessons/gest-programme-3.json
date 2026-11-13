@@ -1,0 +1,99 @@
+{
+  "key": "gest-programme-3",
+  "subject": "GEST",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Travaux de fin d'exercice : pertes de valeur sur créances et sur stocks",
+      "title_ar": "أعمال نهاية الدورة: خسائر القيمة عن الحقوق والمخزونات",
+      "lessons": [
+        {
+          "title_fr": "Clients douteux, créances irrécouvrables et dépréciation des stocks (SCF)",
+          "title_ar": "الزبائن المشكوك فيهم، الحقوق غير القابلة للتحصيل وتدني قيمة المخزونات (النظام المحاسبي المالي)",
+          "body_fr": "## Le principe de prudence\n\nÀ l'inventaire, on constate les **pertes probables** de valeur des actifs, même si elles ne sont pas encore réalisées.\n\n## Les créances clients\n\n- **Client douteux** : client dont le paiement est incertain (difficultés, retard). On transfère sa créance (TTC) du compte 411 « Clients » au compte **416 « Clients douteux »**.\n- **Perte de valeur** : calculée sur le montant **hors taxes** de la créance, au taux de perte probable. Écriture : débit **685** « Dotations aux amortissements, provisions et pertes de valeur – actifs courants », crédit **491** « Pertes de valeur sur comptes clients ».\n- **Ajustement** les années suivantes : augmentation par une nouvelle dotation (685/491) ; diminution par une **reprise** (491 au débit, crédit **785** « Reprises d'exploitation sur pertes de valeur et provisions – actifs courants »).\n- **Créance irrécouvrable** : la perte HT est enregistrée au débit du compte **654** « Pertes sur créances irrécouvrables », la TVA correspondante est récupérée (445), la créance est soldée (416), et l'ancienne perte de valeur est reprise (491/785).\n\n## Les stocks\n\nSi la valeur actuelle d'un stock est inférieure à son coût, on constate une perte de valeur : débit 685, crédit **39** « Pertes de valeur sur stocks et en-cours » (par exemple 390). Elle est reprise lorsque le stock est vendu ou que sa valeur remonte.\n\n## Méthode\n\n1. Dresser l'état des créances (TTC, HT, taux de perte).\n2. Calculer la perte nécessaire $= HT \\times taux$.\n3. Comparer à la perte déjà constatée : **ajustement** = nécessaire $-$ existante (dotation si positif, reprise si négatif).",
+          "body_ar": "## مبدأ الحيطة\n\nعند الجرد نسجل **الخسائر المحتملة** في قيمة الأصول ولو لم تتحقق بعد.\n\n## حقوق الزبائن\n\n- **الزبون المشكوك فيه**: زبون تسديده غير مؤكد (صعوبات، تأخر). يحول حقه (متضمن الرسم) من الحساب 411 «الزبائن» إلى الحساب **416 «الزبائن المشكوك فيهم»**.\n- **خسارة القيمة**: تحسب على المبلغ **خارج الرسم** للحق بمعدل الخسارة المحتملة. التسجيل: مدين **685** «مخصصات الاهتلاكات والمؤونات وخسائر القيمة – الأصول الجارية»، دائن **491** «خسائر القيمة عن حسابات الزبائن».\n- **التسوية** في السنوات الموالية: زيادة بمخصص جديد (685/491)؛ نقصان **باسترجاع** (491 مدين، دائن **785** «استرجاعات الاستغلال عن خسائر القيمة والمؤونات – الأصول الجارية»).\n- **الحق غير القابل للتحصيل**: تسجل الخسارة خارج الرسم في الجانب المدين للحساب **654** «خسائر عن حقوق غير قابلة للتحصيل»، ويسترجع الرسم الموافق (445)، ويرصد الحق (416)، وتسترجع خسارة القيمة القديمة (491/785).\n\n## المخزونات\n\nإذا كانت القيمة الحالية لمخزون أقل من تكلفته نسجل خسارة قيمة: مدين 685، دائن **39** «خسائر القيمة عن المخزونات والمنتجات قيد التنفيذ» (مثلا 390). وتسترجع عند بيع المخزون أو ارتفاع قيمته.\n\n## الطريقة\n\n1. إعداد حالة الحقوق (متضمن الرسم، خارج الرسم، معدل الخسارة).\n2. حساب الخسارة اللازمة $=$ خارج الرسم $\\times$ المعدل.\n3. مقارنتها بالخسارة المسجلة سابقا: **التسوية** = اللازمة $-$ الموجودة (مخصص إذا كانت موجبة، استرجاع إذا كانت سالبة)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Client douteux",
+          "title_ar": "زبون مشكوك فيه",
+          "points": 6,
+          "statement_fr": "Au 31/12/N, le client Ali doit $119\\,000\\,DA$ TTC (TVA $19\\,\\%$). Il connaît des difficultés : on estime la perte probable à $40\\,\\%$.\n\n1. Passer l'écriture de transfert en client douteux.\n2. Calculer la perte de valeur et passer l'écriture d'inventaire.\n3. Au 31/12/N+1, la perte probable est estimée à $30\\,\\%$. Calculer l'ajustement et passer l'écriture.",
+          "statement_ar": "في 31/12/N يدين الزبون علي بـ $119\\,000\\,DA$ متضمن الرسم (الرسم $19\\,\\%$). يعاني صعوبات: تقدر الخسارة المحتملة بـ $40\\,\\%$.\n\n1. سجل قيد التحويل إلى زبون مشكوك فيه.\n2. احسب خسارة القيمة وسجل قيد الجرد.\n3. في 31/12/N+1 قدرت الخسارة المحتملة بـ $30\\,\\%$. احسب التسوية وسجل القيد.",
+          "solution_fr": "1. Débit 416 Clients douteux $119\\,000$ / Crédit 411 Clients $119\\,000$.\n\n2. HT $= \\frac{119\\,000}{1{,}19} = 100\\,000\\,DA$ ; perte $= 100\\,000 \\times 40\\,\\% = 40\\,000\\,DA$. Débit 685 $40\\,000$ / Crédit 491 $40\\,000$.\n\n3. Perte nécessaire $= 100\\,000 \\times 30\\,\\% = 30\\,000$ ; existante $40\\,000$ : **reprise** de $10\\,000\\,DA$. Débit 491 $10\\,000$ / Crédit 785 $10\\,000$.",
+          "solution_ar": "1. مدين 416 الزبائن المشكوك فيهم $119\\,000$ / دائن 411 الزبائن $119\\,000$.\n\n2. خارج الرسم $= \\frac{119\\,000}{1.19} = 100\\,000\\,DA$؛ الخسارة $= 100\\,000 \\times 40\\,\\% = 40\\,000\\,DA$. مدين 685 $40\\,000$ / دائن 491 $40\\,000$.\n\n3. الخسارة اللازمة $= 100\\,000 \\times 30\\,\\% = 30\\,000$؛ الموجودة $40\\,000$: **استرجاع** $10\\,000\\,DA$. مدين 491 $10\\,000$ / دائن 785 $10\\,000$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Travaux de fin d'exercice : la cession d'immobilisations",
+      "title_ar": "أعمال نهاية الدورة: التنازل عن التثبيتات",
+      "lessons": [
+        {
+          "title_fr": "Valeur nette comptable, plus-value et moins-value de cession",
+          "title_ar": "القيمة المحاسبية الصافية، فائض وناقص قيمة التنازل",
+          "body_fr": "## Les étapes\n\n1. **Dotation complémentaire** : amortir le bien depuis le début de l'exercice jusqu'à la date de cession (prorata temporis). Débit 681, crédit 28x.\n2. **Cumul des amortissements** à la date de cession.\n3. **Valeur nette comptable (VNC)** $=$ valeur d'origine $-$ cumul des amortissements.\n4. **Résultat de cession** $=$ prix de cession $-$ VNC : positif = **plus-value**, négatif = **moins-value**.\n\n## L'écriture de sortie (SCF)\n\n- Débit **28x** Amortissements (cumul)\n- Débit **462** Créances sur cessions d'immobilisations (prix de cession), ou 512 si encaissé\n- Débit **652** Moins-values sur sorties d'actifs immobilisés non financiers (si moins-value)\n- Crédit **21x** Immobilisation (valeur d'origine)\n- Crédit **752** Plus-values sur sorties d'actifs immobilisés non financiers (si plus-value)\n\nPuis l'encaissement : débit 512 Banque, crédit 462.\n\n## Effet sur les comptes\n\nLa plus-value augmente le résultat (produit), la moins-value le diminue (charge). L'immobilisation et ses amortissements disparaissent du bilan.",
+          "body_ar": "## المراحل\n\n1. **المخصص التكميلي**: اهتلاك الأصل من بداية الدورة إلى تاريخ التنازل (حسب المدة). مدين 681، دائن 28x.\n2. **مجموع الاهتلاكات** في تاريخ التنازل.\n3. **القيمة المحاسبية الصافية** $=$ القيمة الأصلية $-$ مجموع الاهتلاكات.\n4. **نتيجة التنازل** $=$ سعر التنازل $-$ القيمة المحاسبية الصافية: موجبة = **فائض قيمة**، سالبة = **ناقص قيمة**.\n\n## قيد الخروج (النظام المحاسبي المالي)\n\n- مدين **28x** اهتلاك التثبيتات (المجموع)\n- مدين **462** حقوق عن التنازل عن التثبيتات (سعر التنازل)، أو 512 إذا حصل\n- مدين **652** نواقص القيمة عن خروج الأصول المثبتة غير المالية (في حالة ناقص القيمة)\n- دائن **21x** التثبيت (القيمة الأصلية)\n- دائن **752** فوائض القيمة عن خروج الأصول المثبتة غير المالية (في حالة فائض القيمة)\n\nثم التحصيل: مدين 512 البنك، دائن 462.\n\n## الأثر على الحسابات\n\nفائض القيمة يزيد النتيجة (منتوج)، وناقص القيمة ينقصها (عبء). ويختفي التثبيت واهتلاكاته من الميزانية."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Cession d'une machine",
+          "title_ar": "التنازل عن آلة",
+          "points": 6,
+          "statement_fr": "Une machine acquise le 01/01/N-4 pour $500\\,000\\,DA$ est amortie linéairement sur 5 ans. Elle est cédée le 01/07/N pour $150\\,000\\,DA$, payés par chèque bancaire le même jour.\n\n1. Calculer la dotation complémentaire de N et passer l'écriture.\n2. Calculer le cumul des amortissements et la VNC à la date de cession.\n3. Calculer le résultat de cession.\n4. Passer l'écriture de sortie de l'immobilisation.",
+          "statement_ar": "آلة اقتنيت في 01/01/N-4 بـ $500\\,000\\,DA$ تهتلك خطيا على 5 سنوات. تم التنازل عنها في 01/07/N بـ $150\\,000\\,DA$ سددت بشيك بنكي في نفس اليوم.\n\n1. احسب المخصص التكميلي للسنة N وسجل القيد.\n2. احسب مجموع الاهتلاكات والقيمة المحاسبية الصافية في تاريخ التنازل.\n3. احسب نتيجة التنازل.\n4. سجل قيد خروج التثبيت.",
+          "solution_fr": "1. Annuité $= 500\\,000 \\times 20\\,\\% = 100\\,000$ ; dotation N (6 mois) $= 50\\,000\\,DA$. Débit 681 $50\\,000$ / Crédit 2815 $50\\,000$.\n\n2. Cumul $= 4 \\times 100\\,000 + 50\\,000 = 450\\,000\\,DA$ (années N-4 à N-1, puis 6 mois de N) ; VNC $= 500\\,000 - 450\\,000 = 50\\,000\\,DA$.\n\n3. $150\\,000 - 50\\,000 = 100\\,000\\,DA$ : **plus-value**.\n\n4. Débit 2815 $450\\,000$ ; Débit 512 $150\\,000$ / Crédit 215 $500\\,000$ ; Crédit 752 $100\\,000$. (Totaux : $600\\,000 = 600\\,000$.)",
+          "solution_ar": "1. القسط السنوي $= 500\\,000 \\times 20\\,\\% = 100\\,000$؛ مخصص N (6 أشهر) $= 50\\,000\\,DA$. مدين 681 $50\\,000$ / دائن 2815 $50\\,000$.\n\n2. المجموع $= 4 \\times 100\\,000 + 50\\,000 = 450\\,000\\,DA$ (السنوات من N-4 إلى N-1 ثم 6 أشهر من N)؛ القيمة الصافية $= 500\\,000 - 450\\,000 = 50\\,000\\,DA$.\n\n3. $150\\,000 - 50\\,000 = 100\\,000\\,DA$: **فائض قيمة**.\n\n4. مدين 2815 $450\\,000$؛ مدين 512 $150\\,000$ / دائن 215 $500\\,000$؛ دائن 752 $100\\,000$. (المجاميع: $600\\,000 = 600\\,000$.)"
+        }
+      ]
+    },
+    {
+      "title_fr": "Comptabilité analytique : le coût de revient complet",
+      "title_ar": "المحاسبة التحليلية: التكلفة الكاملة",
+      "lessons": [
+        {
+          "title_fr": "Charges directes et indirectes, coûts successifs et résultat analytique",
+          "title_ar": "الأعباء المباشرة وغير المباشرة، التكاليف المتتالية والنتيجة التحليلية",
+          "body_fr": "## Objet\n\nLa comptabilité analytique calcule le **coût** de chaque produit et son **résultat**, pour aider à fixer les prix et à décider.\n\n## Charges directes et indirectes\n\n- **Directes** : affectées sans calcul intermédiaire à un produit (matières premières consommées, main-d'œuvre directe).\n- **Indirectes** : communes à plusieurs produits ; elles sont réparties entre des **centres d'analyse** (approvisionnement, production, distribution, administration) dans le **tableau de répartition**, puis imputées aux produits à l'aide d'**unités d'œuvre**.\n\n## Les coûts successifs\n\n1. **Coût d'achat** des matières $=$ prix d'achat $+$ frais d'approvisionnement.\n2. **Coût de production** $=$ coût d'achat des matières consommées $+$ main-d'œuvre directe $+$ charges indirectes de production.\n3. **Coût de revient** des produits vendus $=$ coût de production des produits vendus $+$ frais de distribution (et d'administration le cas échéant).\n\nLes stocks sont valorisés par la méthode du **coût moyen unitaire pondéré** (CMUP) : $\\dfrac{\\text{valeur du stock initial} + \\text{valeur des entrées}}{\\text{quantité du stock initial} + \\text{quantité des entrées}}$.\n\n## Résultat analytique\n\n$$\\text{Résultat analytique} = \\text{chiffre d'affaires} - \\text{coût de revient}.$$",
+          "body_ar": "## الهدف\n\nتحسب المحاسبة التحليلية **تكلفة** كل منتوج و**نتيجته**، للمساعدة على تحديد الأسعار واتخاذ القرار.\n\n## الأعباء المباشرة وغير المباشرة\n\n- **المباشرة**: تخصص لمنتوج دون حساب وسيط (المواد الأولية المستهلكة، اليد العاملة المباشرة).\n- **غير المباشرة**: مشتركة بين عدة منتجات؛ توزع على **أقسام** (التموين، الإنتاج، التوزيع، الإدارة) في **جدول توزيع الأعباء**، ثم تحمل على المنتجات بواسطة **وحدات القياس**.\n\n## التكاليف المتتالية\n\n1. **تكلفة الشراء** للمواد $=$ سعر الشراء $+$ مصاريف التموين.\n2. **تكلفة الإنتاج** $=$ تكلفة شراء المواد المستهلكة $+$ اليد العاملة المباشرة $+$ الأعباء غير المباشرة للإنتاج.\n3. **سعر التكلفة** للمنتجات المباعة $=$ تكلفة إنتاج المنتجات المباعة $+$ مصاريف التوزيع (والإدارة عند الاقتضاء).\n\nتقيم المخزونات بطريقة **التكلفة الوسطية المرجحة**: $\\dfrac{\\text{قيمة المخزون الأولي} + \\text{قيمة المدخلات}}{\\text{كمية المخزون الأولي} + \\text{كمية المدخلات}}$.\n\n## النتيجة التحليلية\n\n$$\\text{النتيجة التحليلية} = \\text{رقم الأعمال} - \\text{سعر التكلفة}.$$"
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Du coût d'achat au résultat",
+          "title_ar": "من تكلفة الشراء إلى النتيجة",
+          "points": 6,
+          "statement_fr": "Une entreprise fabrique un produit P. Pour la période :\n- achats de matières : $200\\,000\\,DA$ (entièrement consommées) ; charges indirectes d'approvisionnement : $30\\,000\\,DA$ ;\n- main-d'œuvre directe : $150\\,000\\,DA$ ; charges indirectes de production : $120\\,000\\,DA$ ;\n- production : $1\\,000$ unités ; ventes : $800$ unités à $650\\,DA$ l'unité ; charges indirectes de distribution : $50\\,000\\,DA$.\n\n1. Calculer le coût d'achat des matières.\n2. Calculer le coût de production total et unitaire.\n3. Calculer le coût de revient des produits vendus.\n4. Calculer le résultat analytique.",
+          "statement_ar": "مؤسسة تنتج منتوجا P. خلال الفترة:\n- مشتريات المواد: $200\\,000\\,DA$ (استهلكت كلها)؛ أعباء التموين غير المباشرة: $30\\,000\\,DA$؛\n- اليد العاملة المباشرة: $150\\,000\\,DA$؛ أعباء الإنتاج غير المباشرة: $120\\,000\\,DA$؛\n- الإنتاج: $1\\,000$ وحدة؛ المبيعات: $800$ وحدة بسعر $650\\,DA$ للوحدة؛ أعباء التوزيع غير المباشرة: $50\\,000\\,DA$.\n\n1. احسب تكلفة شراء المواد.\n2. احسب تكلفة الإنتاج الإجمالية والوحدوية.\n3. احسب سعر تكلفة المنتجات المباعة.\n4. احسب النتيجة التحليلية.",
+          "solution_fr": "1. Coût d'achat $= 200\\,000 + 30\\,000 = 230\\,000\\,DA$.\n\n2. Coût de production $= 230\\,000 + 150\\,000 + 120\\,000 = 500\\,000\\,DA$, soit $500\\,DA$ par unité.\n\n3. Coût de revient $= 800 \\times 500 + 50\\,000 = 450\\,000\\,DA$.\n\n4. Chiffre d'affaires $= 800 \\times 650 = 520\\,000\\,DA$ ; résultat analytique $= 520\\,000 - 450\\,000 = 70\\,000\\,DA$ (bénéfice). Les $200$ unités non vendues restent en stock pour $100\\,000\\,DA$.",
+          "solution_ar": "1. تكلفة الشراء $= 200\\,000 + 30\\,000 = 230\\,000\\,DA$.\n\n2. تكلفة الإنتاج $= 230\\,000 + 150\\,000 + 120\\,000 = 500\\,000\\,DA$ أي $500\\,DA$ للوحدة.\n\n3. سعر التكلفة $= 800 \\times 500 + 50\\,000 = 450\\,000\\,DA$.\n\n4. رقم الأعمال $= 800 \\times 650 = 520\\,000\\,DA$؛ النتيجة التحليلية $= 520\\,000 - 450\\,000 = 70\\,000\\,DA$ (ربح). تبقى $200$ وحدة غير مباعة في المخزون بقيمة $100\\,000\\,DA$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le seuil de rentabilité",
+      "title_ar": "عتبة المردودية",
+      "lessons": [
+        {
+          "title_fr": "Charges variables et fixes, marge sur coût variable, point mort",
+          "title_ar": "الأعباء المتغيرة والثابتة، الهامش على التكلفة المتغيرة، نقطة التعادل",
+          "body_fr": "## Charges variables et charges fixes\n\n- **Charges variables** : varient avec l'activité (matières, commissions sur ventes, emballages).\n- **Charges fixes** (de structure) : indépendantes du volume d'activité à court terme (loyers, amortissements, salaires administratifs).\n\n## Le tableau de résultat différentiel\n\n| Élément | Montant | % du CA |\n|---|---|---|\n| Chiffre d'affaires (CA) | | $100\\,\\%$ |\n| $-$ Charges variables (CV) | | |\n| $=$ **Marge sur coût variable (MCV)** | | taux de MCV |\n| $-$ Charges fixes (CF) | | |\n| $=$ **Résultat** | | |\n\n## Le seuil de rentabilité (SR)\n\nC'est le chiffre d'affaires pour lequel le résultat est **nul** : la MCV couvre exactement les charges fixes.\n$$SR = \\dfrac{CF}{\\text{taux de MCV}}, \\qquad \\text{taux de MCV} = \\dfrac{MCV}{CA}.$$\n\n- **Point mort** : date à laquelle le SR est atteint, si les ventes sont régulières : $\\dfrac{SR}{CA} \\times 12$ mois.\n- **Marge de sécurité** $= CA - SR$ ; **indice de sécurité** $= \\dfrac{CA - SR}{CA}$.\n\n## Intérêt\n\nSavoir à partir de quel niveau de ventes l'entreprise devient bénéficiaire, mesurer son risque, comparer des projets.",
+          "body_ar": "## الأعباء المتغيرة والثابتة\n\n- **المتغيرة**: تتغير مع حجم النشاط (المواد، عمولات البيع، التغليف).\n- **الثابتة** (أعباء الهيكل): لا تتعلق بحجم النشاط في المدى القصير (الإيجار، الاهتلاكات، أجور الإدارة).\n\n## جدول الاستغلال التفاضلي\n\nرقم الأعمال ($100\\,\\%$) $-$ الأعباء المتغيرة $=$ **الهامش على التكلفة المتغيرة** (ونسبته) $-$ الأعباء الثابتة $=$ **النتيجة**.\n\n## عتبة المردودية\n\nهي رقم الأعمال الذي تكون عنده النتيجة **معدومة**: الهامش على التكلفة المتغيرة يغطي الأعباء الثابتة تماما.\n$$SR = \\dfrac{CF}{\\text{taux de MCV}}, \\qquad \\text{taux de MCV} = \\dfrac{MCV}{CA}.$$\n\n- **نقطة التعادل** (التاريخ): $\\dfrac{SR}{CA} \\times 12$ شهرا إذا كانت المبيعات منتظمة.\n- **هامش الأمان** $= CA - SR$؛ **مؤشر الأمان** $= \\dfrac{CA - SR}{CA}$.\n\n## الأهمية\n\nمعرفة مستوى المبيعات الذي تصبح عنده المؤسسة رابحة، قياس خطرها، المقارنة بين المشاريع."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calcul du seuil de rentabilité",
+          "title_ar": "حساب عتبة المردودية",
+          "points": 6,
+          "statement_fr": "Pour l'année N, une entreprise prévoit : chiffre d'affaires $1\\,000\\,000\\,DA$, charges variables $600\\,000\\,DA$, charges fixes $300\\,000\\,DA$. Les ventes sont régulières sur l'année.\n\n1. Présenter le tableau de résultat différentiel.\n2. Calculer le seuil de rentabilité.\n3. Déterminer la date du point mort.\n4. Calculer la marge et l'indice de sécurité. Interpréter.",
+          "statement_ar": "تتوقع مؤسسة للسنة N: رقم أعمال $1\\,000\\,000\\,DA$، أعباء متغيرة $600\\,000\\,DA$، أعباء ثابتة $300\\,000\\,DA$. المبيعات منتظمة على طول السنة.\n\n1. قدّم جدول الاستغلال التفاضلي.\n2. احسب عتبة المردودية.\n3. حدد تاريخ نقطة التعادل.\n4. احسب هامش الأمان ومؤشر الأمان. فسّر.",
+          "solution_fr": "1. CA $1\\,000\\,000$ ($100\\,\\%$) ; CV $600\\,000$ ($60\\,\\%$) ; MCV $400\\,000$ ($40\\,\\%$) ; CF $300\\,000$ ; résultat $100\\,000\\,DA$.\n\n2. $SR = \\dfrac{300\\,000}{0{,}40} = 750\\,000\\,DA$.\n\n3. $\\dfrac{750\\,000}{1\\,000\\,000} \\times 12 = 9$ mois : le point mort est atteint le **30 septembre N** (fin du 9e mois).\n\n4. Marge de sécurité $= 1\\,000\\,000 - 750\\,000 = 250\\,000\\,DA$ ; indice $= 25\\,\\%$ : le chiffre d'affaires peut baisser de $25\\,\\%$ avant que l'entreprise ne subisse une perte.",
+          "solution_ar": "1. رقم الأعمال $1\\,000\\,000$ ($100\\,\\%$)؛ الأعباء المتغيرة $600\\,000$ ($60\\,\\%$)؛ الهامش $400\\,000$ ($40\\,\\%$)؛ الأعباء الثابتة $300\\,000$؛ النتيجة $100\\,000\\,DA$.\n\n2. $SR = \\dfrac{300\\,000}{0.40} = 750\\,000\\,DA$.\n\n3. $\\dfrac{750\\,000}{1\\,000\\,000} \\times 12 = 9$ أشهر: تبلغ نقطة التعادل في **30 سبتمبر N** (نهاية الشهر التاسع).\n\n4. هامش الأمان $= 1\\,000\\,000 - 750\\,000 = 250\\,000\\,DA$؛ المؤشر $= 25\\,\\%$: يمكن أن ينخفض رقم الأعمال بـ $25\\,\\%$ قبل أن تتعرض المؤسسة لخسارة."
+        }
+      ]
+    }
+  ]
+}

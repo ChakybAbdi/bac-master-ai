@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/
+data-test/
+.env
+*.log
+.DS_Store
+Thumbs.db
+monitoring/logs/
+
+# third-party page snapshots captured by the monitoring agent
+monitoring/evidence/

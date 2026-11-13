@@ -1,0 +1,338 @@
+@import 'tailwindcss';
+
+/*
+ * BAC MASTER AI design tokens (see DESIGN.md).
+ * Strategy: restrained. Neutrals are tinted towards an ink violet (hue 275).
+ * Colour is reserved for meaning: green, amber, red, teal and violet only ever
+ * say how far a piece of information can be trusted.
+ */
+
+:root {
+  --bg: oklch(0.985 0.004 275);
+  --surface: oklch(0.997 0.002 275);
+  --panel: oklch(0.965 0.007 275);
+  --line: oklch(0.905 0.01 275);
+  --line-strong: oklch(0.8 0.016 275);
+  --fg: oklch(0.24 0.03 275);
+  --fg-muted: oklch(0.45 0.025 275);
+  --fg-subtle: oklch(0.55 0.02 275);
+  --accent: oklch(0.45 0.17 275);
+  --accent-fg: oklch(0.985 0.004 275);
+  --accent-soft: oklch(0.95 0.03 275);
+  --accent-line: oklch(0.84 0.07 275);
+  --ink: oklch(0.24 0.03 275);
+  --ink-hover: oklch(0.32 0.04 275);
+  --ink-fg: oklch(0.985 0.004 275);
+
+  --ok: oklch(0.44 0.11 155);
+  --ok-soft: oklch(0.955 0.035 155);
+  --ok-line: oklch(0.83 0.08 155);
+  --warn: oklch(0.46 0.1 70);
+  --warn-soft: oklch(0.96 0.045 85);
+  --warn-line: oklch(0.84 0.1 85);
+  --warn-fill: oklch(0.74 0.14 75);
+  --bad: oklch(0.48 0.18 25);
+  --bad-soft: oklch(0.96 0.025 25);
+  --bad-line: oklch(0.84 0.09 25);
+  --teach: oklch(0.44 0.085 215);
+  --teach-soft: oklch(0.955 0.025 215);
+  --teach-line: oklch(0.83 0.06 215);
+
+  --shadow: 0 1px 2px oklch(0.24 0.03 275 / 0.06), 0 8px 24px oklch(0.24 0.03 275 / 0.08);
+  color-scheme: light;
+}
+
+[data-theme='dark'] {
+  --bg: oklch(0.17 0.015 275);
+  --surface: oklch(0.205 0.018 275);
+  --panel: oklch(0.15 0.014 275);
+  --line: oklch(0.29 0.02 275);
+  --line-strong: oklch(0.4 0.025 275);
+  --fg: oklch(0.93 0.01 275);
+  --fg-muted: oklch(0.74 0.02 275);
+  --fg-subtle: oklch(0.63 0.02 275);
+  --accent: oklch(0.78 0.11 275);
+  --accent-fg: oklch(0.17 0.015 275);
+  --accent-soft: oklch(0.27 0.055 275);
+  --accent-line: oklch(0.42 0.09 275);
+  --ink: oklch(0.93 0.01 275);
+  --ink-hover: oklch(0.86 0.015 275);
+  --ink-fg: oklch(0.17 0.015 275);
+
+  --ok: oklch(0.8 0.13 155);
+  --ok-soft: oklch(0.25 0.045 155);
+  --ok-line: oklch(0.4 0.08 155);
+  --warn: oklch(0.83 0.12 85);
+  --warn-soft: oklch(0.27 0.045 80);
+  --warn-line: oklch(0.45 0.08 80);
+  --warn-fill: oklch(0.78 0.13 80);
+  --bad: oklch(0.76 0.14 25);
+  --bad-soft: oklch(0.26 0.055 25);
+  --bad-line: oklch(0.45 0.1 25);
+  --teach: oklch(0.8 0.085 215);
+  --teach-soft: oklch(0.25 0.035 215);
+  --teach-line: oklch(0.42 0.06 215);
+
+  --shadow: 0 1px 2px oklch(0 0 0 / 0.3), 0 8px 24px oklch(0 0 0 / 0.35);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-panel: var(--panel);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-fg: var(--fg);
+  --color-muted: var(--fg-muted);
+  --color-subtle: var(--fg-subtle);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-line: var(--accent-line);
+  --color-ink: var(--ink);
+  --color-ink-hover: var(--ink-hover);
+  --color-ink-fg: var(--ink-fg);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-ok-line: var(--ok-line);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-warn-line: var(--warn-line);
+  --color-warn-fill: var(--warn-fill);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-bad-line: var(--bad-line);
+  --color-teach: var(--teach);
+  --color-teach-soft: var(--teach-soft);
+  --color-teach-line: var(--teach-line);
+  --font-sans: 'IBM Plex Sans', 'IBM Plex Sans Arabic', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Consolas, monospace;
+  --shadow-pop: var(--shadow);
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  /* Arabic letterforms read smaller than Latin ones at the same size, and need more leading. */
+  html[lang='ar'] {
+    font-size: 106.25%;
+    font-family: 'IBM Plex Sans Arabic', 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+  }
+
+  body {
+    min-height: 100dvh;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html[lang='ar'] body {
+    font-family: inherit;
+    line-height: 1.75;
+  }
+
+  /* Letter-spacing breaks the joins between Arabic letters. */
+  html[lang='ar'] * {
+    letter-spacing: 0 !important;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: var(--accent-soft);
+  }
+
+  button:not(:disabled),
+  [role='tab'],
+  summary,
+  label[for] {
+    cursor: pointer;
+  }
+
+  input[type='number'] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  input[type='number']::-webkit-outer-spin-button,
+  input[type='number']::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    ::before,
+    ::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Long-form content rendered from Markdown: lessons, corrections, tutor answers, reports. */
+  .prose-bm {
+    max-width: 70ch;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--fg);
+    overflow-wrap: anywhere;
+  }
+  html[lang='ar'] .prose-bm,
+  .prose-bm[dir='rtl'] {
+    line-height: 1.95;
+  }
+  .prose-bm > * + * {
+    margin-block-start: 0.85em;
+  }
+  .prose-bm h1,
+  .prose-bm h2,
+  .prose-bm h3,
+  .prose-bm h4 {
+    font-weight: 600;
+    line-height: 1.3;
+    margin-block-start: 1.7em;
+    margin-block-end: 0.5em;
+  }
+  .prose-bm h1 {
+    font-size: 1.45rem;
+  }
+  .prose-bm h2 {
+    font-size: 1.2rem;
+  }
+  .prose-bm h3,
+  .prose-bm h4 {
+    font-size: 1.05rem;
+  }
+  .prose-bm > :first-child {
+    margin-block-start: 0;
+  }
+  .prose-bm ul,
+  .prose-bm ol {
+    padding-inline-start: 1.4em;
+  }
+  .prose-bm ul {
+    list-style: disc;
+  }
+  .prose-bm ol {
+    list-style: decimal;
+  }
+  .prose-bm li + li {
+    margin-block-start: 0.35em;
+  }
+  .prose-bm li > ul,
+  .prose-bm li > ol {
+    margin-block-start: 0.35em;
+  }
+  .prose-bm a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .prose-bm strong {
+    font-weight: 600;
+  }
+  .prose-bm code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--panel);
+    border-radius: 4px;
+    padding: 0.1em 0.35em;
+  }
+  .prose-bm pre {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.8em 1em;
+    overflow-x: auto;
+    direction: ltr;
+    text-align: left;
+  }
+  .prose-bm pre code {
+    background: none;
+    padding: 0;
+  }
+  .prose-bm blockquote {
+    border-inline-start: 1px solid var(--line-strong);
+    padding-inline-start: 1em;
+    color: var(--fg-muted);
+  }
+  .prose-bm hr {
+    border: 0;
+    border-top: 1px solid var(--line);
+    margin-block: 1.6em;
+  }
+  .prose-bm table {
+    border-collapse: collapse;
+    font-size: 0.93em;
+    font-variant-numeric: tabular-nums;
+  }
+  .prose-bm th,
+  .prose-bm td {
+    border: 1px solid var(--line);
+    padding: 0.4em 0.75em;
+    text-align: start;
+    vertical-align: top;
+  }
+  .prose-bm th {
+    background: var(--panel);
+    font-weight: 600;
+  }
+
+  /* Formulas stay left-to-right inside Arabic text, as in Algerian textbooks. */
+  .prose-bm .katex {
+    direction: ltr;
+    unicode-bidi: isolate;
+    font-size: 1.08em;
+  }
+  .prose-bm .katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-block: 0.35em;
+    margin-block: 0.9em;
+  }
+}
+
+@keyframes bm-pulse {
+  50% {
+    opacity: 0.45;
+  }
+}
+@keyframes bm-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes bm-enter {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+}
+
+@utility animate-pulse-soft {
+  animation: bm-pulse 1.6s ease-in-out infinite;
+}
+@utility animate-spin-slow {
+  animation: bm-spin 0.8s linear infinite;
+}
+@utility animate-enter {
+  animation: bm-enter 0.2s var(--ease-out-quart);
+}
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}

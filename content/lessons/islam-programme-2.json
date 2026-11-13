@@ -1,0 +1,76 @@
+{
+  "key": "islam-programme-2",
+  "subject": "ISLAM",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Les finalités de la charia (maqâṣid)",
+      "title_ar": "مقاصد الشريعة الإسلامية",
+      "lessons": [
+        {
+          "title_fr": "Nécessités, besoins et améliorations",
+          "title_ar": "الضروريات والحاجيات والتحسينيات",
+          "body_fr": "## Définition\n\nLes **maqâṣid** sont les finalités et les sagesses que la législation islamique vise à réaliser : l'intérêt des personnes (جلب المصالح) et l'éloignement du mal (درء المفاسد). Le savant andalou **al-Shâṭibî** les a systématisées dans *al-Muwâfaqât*.\n\n## Les trois niveaux\n\n1. **Les nécessités** (الضروريات) : sans elles la vie humaine se désorganise. Ce sont les **cinq nécessités** : préserver la **religion**, la **vie**, la **raison**, la **descendance** (et l'honneur) et les **biens**. Exemples : interdiction du meurtre (vie), de l'alcool (raison), du vol (biens).\n2. **Les besoins** (الحاجيات) : ils évitent la gêne et la difficulté. Exemples : les **allègements** (الرخص) comme le raccourcissement de la prière en voyage ou la rupture du jeûne pour le malade.\n3. **Les améliorations** (التحسينيات) : bonnes mœurs et perfection des conduites (propreté, politesse, bonnes manières).\n\n## Intérêt\n\nComprendre les maqâṣid aide à saisir la sagesse des règles, à classer les priorités (les nécessités passent avant les besoins) et à répondre aux questions nouvelles.",
+          "body_ar": "## التعريف\n\n**مقاصد الشريعة** هي الغايات والحكم التي تهدف الشريعة الإسلامية إلى تحقيقها: جلب المصالح للناس ودرء المفاسد عنهم. وقد نظّمها الإمام الأندلسي **الشاطبي** في كتابه *الموافقات*.\n\n## مراتبها الثلاث\n\n1. **الضروريات**: ما لا تستقيم الحياة بدونه، وهي **الضروريات الخمس**: حفظ **الدين** و**النفس** و**العقل** و**النسل** (والعرض) و**المال**. أمثلة: تحريم القتل (النفس)، تحريم الخمر (العقل)، تحريم السرقة (المال).\n2. **الحاجيات**: ما يرفع الحرج والمشقة. أمثلة: **الرخص** كقصر الصلاة للمسافر والفطر للمريض.\n3. **التحسينيات**: محاسن العادات ومكارم الأخلاق (النظافة، الآداب، حسن المعاملة).\n\n## الفائدة\n\nفهم المقاصد يعين على إدراك حكمة الأحكام، وترتيب الأولويات (الضروريات مقدمة على الحاجيات)، والإجابة عن المستجدات."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Classer selon les maqâṣid",
+          "title_ar": "التصنيف حسب المقاصد",
+          "points": 3,
+          "statement_fr": "Indiquer la nécessité préservée et le niveau :\n\n1. L'interdiction de l'alcool.\n2. Le raccourcissement de la prière en voyage.\n3. L'interdiction du vol.",
+          "statement_ar": "بيّن المقصد المحفوظ ومرتبته:\n\n1. تحريم الخمر.\n2. قصر الصلاة في السفر.\n3. تحريم السرقة.",
+          "solution_fr": "1. Préservation de la **raison** — niveau des nécessités.\n\n2. Levée de la difficulté — niveau des **besoins** (allègement).\n\n3. Préservation des **biens** — niveau des nécessités.",
+          "solution_ar": "1. حفظ **العقل** — من الضروريات.\n\n2. رفع الحرج — من **الحاجيات** (رخصة).\n\n3. حفظ **المال** — من الضروريات."
+        }
+      ]
+    },
+    {
+      "title_fr": "La position du Coran à l'égard de la raison",
+      "title_ar": "موقف القرآن الكريم من العقل",
+      "lessons": [
+        {
+          "title_fr": "La raison dans le Coran : valeur, domaines et limites",
+          "title_ar": "العقل في القرآن: مكانته ومجالاته وحدوده",
+          "body_fr": "## La valeur de la raison\n\nLa raison est la condition de la **responsabilité** (التكليف) : celui qui n'a pas la raison n'est pas tenu par les obligations. Le Coran invite sans cesse à réfléchir : « أفلا يعقلون », « لقوم يتفكرون », « أفلا يتدبرون القرآن ».\n\n## Les domaines\n\n- Réfléchir sur les **signes de l'univers** pour parvenir à la foi.\n- Comprendre et méditer la **révélation**.\n- Tirer les **leçons** de l'histoire des peuples.\n- Acquérir la **connaissance** utile et organiser la vie.\n\n## La protection de la raison\n\nInterdiction de ce qui l'altère (alcool, drogues), rejet des superstitions et de la sorcellerie, encouragement de la science.\n\n## Le rejet de l'imitation aveugle\n\nLe Coran blâme ceux qui suivent leurs ancêtres sans réfléchir : « إنا وجدنا آباءنا على أمة وإنا على آثارهم مقتدون » (sourate az-Zukhruf, verset 23).\n\n## Les limites\n\nLa raison ne peut atteindre seule le **monde invisible** (الغيب) : l'essence divine, les détails de l'au-delà. Elle a besoin de la révélation dans ce domaine.",
+          "body_ar": "## مكانة العقل\n\nالعقل **مناط التكليف**: من فقد العقل سقط عنه التكليف. ويدعو القرآن باستمرار إلى التفكير: ﴿أَفَلَا يَعْقِلُونَ﴾، ﴿لِقَوْمٍ يَتَفَكَّرُونَ﴾، ﴿أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ﴾.\n\n## مجالاته\n\n- التفكر في **آيات الكون** للوصول إلى الإيمان.\n- فهم **الوحي** وتدبره.\n- أخذ **العبرة** من تاريخ الأمم.\n- طلب **العلم** النافع وتنظيم الحياة.\n\n## حماية العقل\n\nتحريم ما يفسده (الخمر، المخدرات)، محاربة الخرافة والسحر، الحث على طلب العلم.\n\n## ذم التقليد الأعمى\n\nذم القرآن من يتبعون آباءهم دون تفكير: ﴿إِنَّا وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَإِنَّا عَلَىٰ آثَارِهِم مُّقْتَدُونَ﴾ (الزخرف: 23).\n\n## حدوده\n\nلا يستطيع العقل وحده إدراك **عالم الغيب** (ذات الله، تفاصيل الآخرة)، فهو يحتاج فيه إلى الوحي."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Raison et responsabilité",
+          "title_ar": "العقل والتكليف",
+          "points": 3,
+          "statement_fr": "1. Pourquoi dit-on que la raison est la condition de la responsabilité ?\n2. Citer deux domaines où le Coran invite la raison à s'exercer.\n3. Quel est le domaine que la raison ne peut atteindre seule ?",
+          "statement_ar": "1. لماذا يقال إن العقل مناط التكليف؟\n2. اذكر مجالين يدعو القرآن العقل إلى العمل فيهما.\n3. ما المجال الذي لا يستطيع العقل إدراكه وحده؟",
+          "solution_fr": "1. Parce que seul celui qui comprend peut être tenu par les obligations religieuses ; l'enfant et le dément ne sont pas responsables.\n\n2. Par exemple : la réflexion sur les signes de l'univers ; la méditation du Coran ; les leçons de l'histoire.\n\n3. Le monde invisible (الغيب), connu par la révélation.",
+          "solution_ar": "1. لأن الخطاب الشرعي لا يتوجه إلا لمن يفهمه؛ فالصبي والمجنون غير مكلفين.\n\n2. مثلا: التفكر في آيات الكون؛ تدبر القرآن؛ الاعتبار بالتاريخ.\n\n3. عالم الغيب، ويعرف بالوحي."
+        }
+      ]
+    },
+    {
+      "title_fr": "La filiation (an-nasab)",
+      "title_ar": "النسب",
+      "lessons": [
+        {
+          "title_fr": "Établissement de la filiation et interdiction de l'adoption",
+          "title_ar": "طرق ثبوت النسب وتحريم التبني",
+          "body_fr": "## Définition\n\nLa filiation est le lien de parenté qui rattache l'enfant à ses parents, en particulier à son père. L'islam la protège, car elle fait partie de la préservation de la **descendance** (حفظ النسل).\n\n## Modes d'établissement\n\n1. **Le mariage valide** (الزواج الصحيح) : l'enfant né dans le mariage est rattaché au mari, selon la règle « الولد للفراش ».\n2. **La reconnaissance** (الإقرار) : un homme reconnaît un enfant comme le sien, sous conditions (filiation possible, enfant de filiation inconnue).\n3. **La preuve** (البينة) : témoignages établissant la filiation.\n\nLe Code de la famille algérien (article 40) retient notamment ces modes, ainsi que d'autres cas comme le mariage annulé après consommation.\n\n## L'interdiction de l'adoption (التبني)\n\nDonner son nom à un enfant étranger comme s'il était son propre enfant est interdit : « ادعوهم لآبائهم هو أقسط عند الله » (sourate al-Aḥzâb, verset 5). L'adoption crée de fausses parentés, mélange les droits (héritage, interdits de mariage) et efface la vérité.\n\n## L'alternative : la kafâla (الكفالة)\n\nPrendre en charge un enfant (orphelin, abandonné) pour l'élever et l'entretenir **sans changer sa filiation** : une œuvre très méritoire.",
+          "body_ar": "## التعريف\n\nالنسب هو رابطة القرابة التي تصل الولد بوالديه، ولا سيما بأبيه. وقد حماه الإسلام لأنه من **حفظ النسل**.\n\n## طرق ثبوته\n\n1. **الزواج الصحيح**: ينسب الولد المولود في إطار الزواج إلى الزوج، وفق قاعدة «الولد للفراش».\n2. **الإقرار**: اعتراف الرجل بأن الولد ابنه بشروط (إمكان النسب، وأن يكون الولد مجهول النسب).\n3. **البينة**: شهادة الشهود على النسب.\n\nوقد أخذ قانون الأسرة الجزائري (المادة 40) بهذه الطرق خاصة، إضافة إلى حالات أخرى كالزواج الذي فسخ بعد الدخول.\n\n## تحريم التبني\n\nإلحاق ولد أجنبي بنسب الشخص كأنه ابنه محرم: ﴿ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِندَ اللَّهِ﴾ (الأحزاب: 5). فالتبني يخلق قرابة مزيفة ويخلط الحقوق (الميراث، محرمات النكاح) ويطمس الحقيقة.\n\n## البديل: الكفالة\n\nالتكفل بطفل (يتيم أو لقيط) بتربيته والإنفاق عليه **دون تغيير نسبه**، وهو عمل عظيم الأجر."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Adoption ou kafâla ?",
+          "title_ar": "التبني أم الكفالة؟",
+          "points": 3,
+          "statement_fr": "1. Citer les trois modes d'établissement de la filiation.\n2. Pourquoi l'islam interdit-il l'adoption ? Donner la preuve.\n3. Quelle est l'alternative permise ?",
+          "statement_ar": "1. اذكر طرق ثبوت النسب الثلاث.\n2. لماذا حرم الإسلام التبني؟ اذكر الدليل.\n3. ما البديل المشروع؟",
+          "solution_fr": "1. Le mariage valide, la reconnaissance, la preuve par témoignage.\n\n2. Elle crée une fausse filiation et mélange les droits (héritage, interdits de mariage). Preuve : « ادعوهم لآبائهم هو أقسط عند الله » (al-Aḥzâb, 5).\n\n3. La **kafâla** : prendre en charge l'enfant sans lui donner son nom.",
+          "solution_ar": "1. الزواج الصحيح، الإقرار، البينة.\n\n2. لأنه يخلق نسبا مزيفا ويخلط الحقوق (الميراث، محرمات النكاح). الدليل: ﴿ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِندَ اللَّهِ﴾ (الأحزاب: 5).\n\n3. **الكفالة**: التكفل بالطفل دون إلحاقه بالنسب."
+        }
+      ]
+    }
+  ]
+}

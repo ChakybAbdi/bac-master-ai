@@ -1,0 +1,53 @@
+{
+  "key": "math-lp-le",
+  "subject": "MATH",
+  "streams": ["LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Congruences dans ℤ (Lettres et langues)",
+      "title_ar": "الموافقات في ℤ (آداب ولغات)",
+      "lessons": [
+        {
+          "title_fr": "Division euclidienne, congruences et restes des puissances",
+          "title_ar": "القسمة الإقليدية، الموافقات وبواقي القوى",
+          "body_fr": "## Division euclidienne\n\nPour un entier $a$ et un entier naturel non nul $b$, il existe un unique couple $(q, r)$ tel que $a = bq + r$ et $0 \\leqslant r < b$ ; $r$ est le **reste**. Exemple : $-17 = 5 \\times (-4) + 3$, le reste de $-17$ par $5$ est $3$ (et non $-2$).\n\n## Congruences\n\n$a \\equiv b\\,[n]$ (« $a$ congru à $b$ modulo $n$ ») signifie que $a$ et $b$ ont le même reste dans la division par $n$, c'est-à-dire que $n$ divise $a - b$.\n\nPropriétés : si $a \\equiv b\\,[n]$ et $c \\equiv d\\,[n]$, alors $a + c \\equiv b + d\\,[n]$, $ac \\equiv bd\\,[n]$ et $a^k \\equiv b^k\\,[n]$.\n\n## Critère de divisibilité par 9 et par 3\n\n$10 \\equiv 1\\,[9]$, donc un nombre est congru modulo $9$ (et modulo $3$) à la somme de ses chiffres. Exemple : $1428 \\equiv 1 + 4 + 2 + 8 = 15 \\equiv 6\\,[9]$.\n\n## Restes des puissances\n\nPour trouver le reste de $a^k$ par $n$ :\n1. calculer les restes de $a^1, a^2, a^3, \\ldots$ jusqu'à trouver $a^p \\equiv 1\\,[n]$ ;\n2. écrire $k = pq + r$ avec $0 \\leqslant r < p$ ;\n3. conclure : $a^k = (a^p)^q \\times a^r \\equiv a^r\\,[n]$.\n\n## Montrer qu'une expression est divisible par $n$\n\nRemplacer chaque terme par son reste modulo $n$ et vérifier que le total est congru à $0$.",
+          "body_ar": "## القسمة الإقليدية\n\nمن أجل عدد صحيح $a$ وعدد طبيعي غير معدوم $b$ توجد ثنائية وحيدة $(q, r)$ بحيث $a = bq + r$ و $0 \\leqslant r < b$؛ $r$ هو **الباقي**. مثال: $-17 = 5 \\times (-4) + 3$، باقي قسمة $-17$ على $5$ هو $3$ (وليس $-2$).\n\n## الموافقات\n\n$a \\equiv b\\,[n]$ («$a$ يوافق $b$ بترديد $n$») معناه أن لـ $a$ و $b$ نفس الباقي في القسمة على $n$، أي أن $n$ يقسم $a - b$.\n\nالخواص: إذا كان $a \\equiv b\\,[n]$ و $c \\equiv d\\,[n]$ فإن $a + c \\equiv b + d\\,[n]$ ، $ac \\equiv bd\\,[n]$ و $a^k \\equiv b^k\\,[n]$.\n\n## قابلية القسمة على 9 وعلى 3\n\n$10 \\equiv 1\\,[9]$ إذن كل عدد يوافق بترديد $9$ (وبترديد $3$) مجموع أرقامه. مثال: $1428 \\equiv 1 + 4 + 2 + 8 = 15 \\equiv 6\\,[9]$.\n\n## بواقي القوى\n\nلإيجاد باقي قسمة $a^k$ على $n$:\n1. نحسب بواقي $a^1, a^2, a^3, \\ldots$ حتى نجد $a^p \\equiv 1\\,[n]$؛\n2. نكتب $k = pq + r$ مع $0 \\leqslant r < p$؛\n3. نستنتج: $a^k = (a^p)^q \\times a^r \\equiv a^r\\,[n]$.\n\n## إثبات أن عبارة تقبل القسمة على $n$\n\nنعوض كل حد بباقيه بترديد $n$ ونتحقق أن المجموع يوافق $0$."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Puissances de 4 modulo 7",
+          "title_ar": "قوى 4 بترديد 7",
+          "points": 5,
+          "statement_fr": "1. Déterminer les restes de la division par $7$ de $4^1$, $4^2$, $4^3$.\n2. En déduire, selon $n$, le reste de $4^n$ par $7$.\n3. Quel est le reste de $4^{2009}$ par $7$ ?\n4. Montrer que, pour tout entier naturel $n$, $4^{3n} + 6$ est divisible par $7$.",
+          "statement_ar": "1. عيّن بواقي قسمة $4^1$ ، $4^2$ ، $4^3$ على $7$.\n2. استنتج حسب قيم $n$ باقي قسمة $4^n$ على $7$.\n3. ما هو باقي قسمة $4^{2009}$ على $7$؟\n4. بيّن أنه من أجل كل عدد طبيعي $n$ ، العدد $4^{3n} + 6$ يقبل القسمة على $7$.",
+          "solution_fr": "1. $4 \\equiv 4$ ; $16 = 2 \\times 7 + 2$, donc $4^2 \\equiv 2$ ; $64 = 9 \\times 7 + 1$, donc $4^3 \\equiv 1\\,[7]$.\n\n2. $4^{3k} \\equiv 1$, $4^{3k+1} \\equiv 4$, $4^{3k+2} \\equiv 2\\,[7]$.\n\n3. $2009 = 3 \\times 669 + 2$ : $4^{2009} \\equiv 2\\,[7]$, le reste est $2$.\n\n4. $4^{3n} + 6 \\equiv 1 + 6 = 7 \\equiv 0\\,[7]$.",
+          "solution_ar": "1. $4 \\equiv 4$ ؛ $16 = 2 \\times 7 + 2$ إذن $4^2 \\equiv 2$ ؛ $64 = 9 \\times 7 + 1$ إذن $4^3 \\equiv 1\\,[7]$.\n\n2. $4^{3k} \\equiv 1$ ، $4^{3k+1} \\equiv 4$ ، $4^{3k+2} \\equiv 2\\,[7]$.\n\n3. $2009 = 3 \\times 669 + 2$: $4^{2009} \\equiv 2\\,[7]$، الباقي هو $2$.\n\n4. $4^{3n} + 6 \\equiv 1 + 6 = 7 \\equiv 0\\,[7]$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Fonctions polynômes et homographiques (Lettres et langues)",
+      "title_ar": "الدوال كثيرات الحدود والدوال التناظرية (آداب ولغات)",
+      "lessons": [
+        {
+          "title_fr": "Étudier et représenter une fonction",
+          "title_ar": "دراسة دالة وتمثيلها",
+          "body_fr": "## Fonctions polynômes\n\nUn polynôme a pour limites en $\\pm\\infty$ celles de son terme de plus haut degré : $\\lim\\limits_{x \\to -\\infty}(x^3 - 3x) = \\lim\\limits_{x \\to -\\infty} x^3 = -\\infty$. Sa dérivée se calcule terme à terme : $(ax^3 + bx^2 + cx + d)' = 3ax^2 + 2bx + c$.\n\n## Fonctions homographiques $f(x) = \\dfrac{ax + b}{cx + d}$\n\n- Définie pour $x \\neq -\\frac{d}{c}$.\n- $f'(x) = \\dfrac{ad - bc}{(cx + d)^2}$ : du signe de $ad - bc$ ; $f$ est monotone sur chaque intervalle.\n- Asymptote verticale $x = -\\frac{d}{c}$ et asymptote horizontale $y = \\frac{a}{c}$.\n\n## Tableau de variations\n\nOn étudie le signe de $f'$ (souvent un trinôme $ax^2 + bx + c$ : signe de $a$ à l'extérieur des racines). Là où $f'$ s'annule en changeant de signe, on calcule la valeur de l'extremum.\n\n## Tangente\n\nAu point d'abscisse $a$ : $y = f'(a)(x - a) + f(a)$.\n\n## Lecture graphique\n\n- Le nombre de solutions de $f(x) = m$ est le nombre de points d'intersection de la courbe avec la droite horizontale $y = m$.\n- Les solutions de $f(x) < m$ sont les abscisses des points de la courbe situés **sous** cette droite.\n\n## Intersections avec les axes\n\nAvec l'axe des ordonnées : le point $(0; f(0))$. Avec l'axe des abscisses : résoudre $f(x) = 0$ (factoriser).",
+          "body_ar": "## الدوال كثيرات الحدود\n\nنهايتا كثير حدود عند $\\pm\\infty$ هما نهايتا حده الأعلى درجة: $\\lim\\limits_{x \\to -\\infty}(x^3 - 3x) = \\lim\\limits_{x \\to -\\infty} x^3 = -\\infty$. ومشتقته تحسب حدا بحد: $(ax^3 + bx^2 + cx + d)' = 3ax^2 + 2bx + c$.\n\n## الدوال التناظرية $f(x) = \\dfrac{ax + b}{cx + d}$\n\n- معرفة من أجل $x \\neq -\\frac{d}{c}$.\n- $f'(x) = \\dfrac{ad - bc}{(cx + d)^2}$: إشارتها إشارة $ad - bc$؛ $f$ رتيبة على كل مجال.\n- مقارب عمودي $x = -\\frac{d}{c}$ ومقارب أفقي $y = \\frac{a}{c}$.\n\n## جدول التغيرات\n\nندرس إشارة $f'$ (غالبا ثلاثي حدود $ax^2 + bx + c$: إشارة $a$ خارج الجذرين). وحيث تنعدم $f'$ مغيرة إشارتها نحسب القيمة الحدية.\n\n## المماس\n\nعند النقطة ذات الفاصلة $a$: $y = f'(a)(x - a) + f(a)$.\n\n## القراءة البيانية\n\n- عدد حلول المعادلة $f(x) = m$ هو عدد نقط تقاطع المنحنى مع المستقيم الأفقي $y = m$.\n- حلول $f(x) < m$ هي فواصل نقط المنحنى الواقعة **تحت** هذا المستقيم.\n\n## التقاطع مع المحورين\n\nمع محور التراتيب: النقطة $(0; f(0))$. مع محور الفواصل: نحل $f(x) = 0$ (بالتحليل)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Une fonction homographique",
+          "title_ar": "دالة تناظرية",
+          "points": 6,
+          "statement_fr": "Soit $f$ définie sur $]-1; +\\infty[$ par $f(x) = \\dfrac{2x - 1}{x + 1}$.\n\n1. Calculer $\\lim\\limits_{x \\to -1^+} f(x)$ et $\\lim\\limits_{x \\to +\\infty} f(x)$ ; en déduire les asymptotes.\n2. Calculer $f'(x)$ et dresser le tableau de variations.\n3. Déterminer le point d'intersection de la courbe avec l'axe des abscisses.\n4. Écrire une équation de la tangente au point d'abscisse $0$.",
+          "statement_ar": "لتكن $f$ المعرفة على $]-1; +\\infty[$ بـ $f(x) = \\dfrac{2x - 1}{x + 1}$.\n\n1. احسب $\\lim\\limits_{x \\to -1^+} f(x)$ و $\\lim\\limits_{x \\to +\\infty} f(x)$؛ استنتج المستقيمات المقاربة.\n2. احسب $f'(x)$ وشكّل جدول التغيرات.\n3. عيّن نقطة تقاطع المنحنى مع محور الفواصل.\n4. اكتب معادلة المماس عند النقطة ذات الفاصلة $0$.",
+          "solution_fr": "1. Quand $x \\to -1^+$ : $2x - 1 \\to -3$ et $x + 1 \\to 0^+$, donc $\\lim\\limits_{x \\to -1^+} f(x) = -\\infty$ : asymptote verticale $x = -1$. $\\lim\\limits_{x \\to +\\infty} f(x) = \\lim\\limits_{x \\to +\\infty}\\dfrac{2x}{x} = 2$ : asymptote horizontale $y = 2$.\n\n2. $f'(x) = \\dfrac{2(x + 1) - (2x - 1)}{(x + 1)^2} = \\dfrac{3}{(x + 1)^2} > 0$ : $f$ est strictement croissante sur $]-1; +\\infty[$, de $-\\infty$ à $2$.\n\n3. $f(x) = 0 \\iff 2x - 1 = 0 \\iff x = \\frac{1}{2}$ : point $\\left(\\frac{1}{2}; 0\\right)$.\n\n4. $f(0) = -1$, $f'(0) = 3$ : $y = 3x - 1$.",
+          "solution_ar": "1. لما $x \\to -1^+$: $2x - 1 \\to -3$ و $x + 1 \\to 0^+$، إذن $\\lim\\limits_{x \\to -1^+} f(x) = -\\infty$: مقارب عمودي $x = -1$. $\\lim\\limits_{x \\to +\\infty} f(x) = \\lim\\limits_{x \\to +\\infty}\\dfrac{2x}{x} = 2$: مقارب أفقي $y = 2$.\n\n2. $f'(x) = \\dfrac{2(x + 1) - (2x - 1)}{(x + 1)^2} = \\dfrac{3}{(x + 1)^2} > 0$: $f$ متزايدة تماما على $]-1; +\\infty[$ من $-\\infty$ إلى $2$.\n\n3. $f(x) = 0 \\iff 2x - 1 = 0 \\iff x = \\frac{1}{2}$: النقطة $\\left(\\frac{1}{2}; 0\\right)$.\n\n4. $f(0) = -1$ ، $f'(0) = 3$: $y = 3x - 1$."
+        }
+      ]
+    }
+  ]
+}

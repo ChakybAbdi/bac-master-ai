@@ -1,0 +1,30 @@
+{
+  "key": "en-reported-speech",
+  "subject": "EN",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Grammar: reported speech",
+      "title_ar": "القواعد: الكلام المنقول (Reported speech)",
+      "lessons": [
+        {
+          "title_fr": "Le discours rapporté en anglais",
+          "title_ar": "الكلام المنقول في اللغة الإنجليزية",
+          "body_fr": "Les exemples sont en anglais, comme à l'épreuve.\n\n## Le principe\n\nPour rapporter les paroles de quelqu'un après un verbe introducteur au passé (*said, told, asked*), on **recule les temps d'un cran** et on adapte les pronoms et les repères de temps et de lieu.\n\n## La concordance des temps\n\n| Direct speech | Reported speech |\n|---|---|\n| present simple: *\"I work.\"* | past simple: *he said (that) he worked* |\n| present continuous: *\"I am working.\"* | past continuous: *he was working* |\n| present perfect: *\"I have worked.\"* | past perfect: *he had worked* |\n| past simple: *\"I worked.\"* | past perfect: *he had worked* |\n| will | would |\n| can | could |\n| may | might |\n| must | had to |\n\n## Les repères de temps et de lieu\n\nnow → then ; today → that day ; tonight → that night ; tomorrow → the next day / the following day ; yesterday → the day before / the previous day ; next week → the following week ; ago → before ; here → there ; this → that ; these → those.\n\n## Questions et ordres\n\n- **Wh- question** : pas d'inversion, pas de *do* : *\"Where do you live?\"* → *She asked me where I lived.*\n- **Yes/no question** : *if* ou *whether* : *\"Are you ready?\"* → *He asked if I was ready.*\n- **Ordre** : *told/asked + objet + (not) to + verbe* : *\"Don't be late!\"* → *The teacher told us not to be late.*\n\n## Pièges fréquents\n\n*say* n'a pas de complément de personne direct (*he said that…*), *tell* en a un (*he told me that…*). Une vérité générale peut rester au présent : *He said that the Earth goes round the Sun.*",
+          "body_ar": "تبقى الأمثلة بالإنجليزية كما في الامتحان.\n\n## المبدأ\n\nعند نقل كلام شخص بعد فعل نقل في الماضي (*said, told, asked*) **نرجع الزمن درجة إلى الوراء** ونكيف الضمائر وظروف الزمان والمكان.\n\n## توافق الأزمنة\n\n| الكلام المباشر | الكلام المنقول |\n|---|---|\n| present simple: *\"I work.\"* | past simple: *he said (that) he worked* |\n| present continuous: *\"I am working.\"* | past continuous: *he was working* |\n| present perfect: *\"I have worked.\"* | past perfect: *he had worked* |\n| past simple: *\"I worked.\"* | past perfect: *he had worked* |\n| will | would |\n| can | could |\n| may | might |\n| must | had to |\n\n## ظروف الزمان والمكان\n\nnow → then ؛ today → that day ؛ tonight → that night ؛ tomorrow → the next day / the following day ؛ yesterday → the day before / the previous day ؛ next week → the following week ؛ ago → before ؛ here → there ؛ this → that ؛ these → those.\n\n## الأسئلة والأوامر\n\n- **سؤال بأداة استفهام**: بدون قلب وبدون *do*: *\"Where do you live?\"* → *She asked me where I lived.*\n- **سؤال بنعم/لا**: نستعمل *if* أو *whether*: *\"Are you ready?\"* → *He asked if I was ready.*\n- **الأمر**: *told/asked + مفعول + (not) to + فعل*: *\"Don't be late!\"* → *The teacher told us not to be late.*\n\n## أخطاء شائعة\n\nالفعل *say* لا يأخذ مفعولا مباشرا للشخص (*he said that…*)، بينما *tell* يأخذه (*he told me that…*). الحقيقة العامة يمكن أن تبقى في المضارع: *He said that the Earth goes round the Sun.*"
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Rapporter des paroles",
+          "title_ar": "تحويل إلى الكلام المنقول",
+          "points": 3,
+          "statement_fr": "Mettez au discours rapporté :\n\n1. Amina said: \"I am preparing for the baccalaureate.\"\n2. The teacher asked: \"Have you finished your homework?\"\n3. My father said to me: \"Don't waste your time.\"\n4. Karim asked: \"Where will the exam take place tomorrow?\"",
+          "statement_ar": "حوّل إلى الكلام المنقول:\n\n1. Amina said: \"I am preparing for the baccalaureate.\"\n2. The teacher asked: \"Have you finished your homework?\"\n3. My father said to me: \"Don't waste your time.\"\n4. Karim asked: \"Where will the exam take place tomorrow?\"",
+          "solution_fr": "1. Amina said (that) she **was preparing** for the baccalaureate.\n2. The teacher asked **if/whether** we **had finished** our homework.\n3. My father **told me not to waste** my time.\n4. Karim asked where the exam **would take place the next day**.",
+          "solution_ar": "1. Amina said (that) she **was preparing** for the baccalaureate.\n2. The teacher asked **if/whether** we **had finished** our homework.\n3. My father **told me not to waste** my time.\n4. Karim asked where the exam **would take place the next day**."
+        }
+      ]
+    }
+  ]
+}

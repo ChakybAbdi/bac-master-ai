@@ -1,0 +1,30 @@
+{
+  "key": "eco-inflation",
+  "subject": "ECO",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "L'inflation",
+      "title_ar": "التضخم",
+      "lessons": [
+        {
+          "title_fr": "L'inflation : mesure, causes, effets, remèdes",
+          "title_ar": "التضخم: قياسه، أسبابه، آثاره، علاجه",
+          "body_fr": "## Définition\n\nL'**inflation** est une hausse **générale** et **continue** du niveau des prix. Elle entraîne une baisse du **pouvoir d'achat** de la monnaie : avec la même somme, on achète moins de biens.\n\nÀ distinguer : la hausse du prix d'un seul produit n'est pas de l'inflation ; la **déflation** est une baisse générale et durable des prix.\n\n## Mesure\n\nOn utilise un **indice des prix à la consommation** (IPC), calculé en Algérie par l'Office national des statistiques (ONS) à partir d'un panier de biens et services.\n\n$$\\text{Taux d'inflation} = \\frac{I_1 - I_0}{I_0} \\times 100$$\n\n**Salaire réel** : $\\text{salaire réel} = \\dfrac{\\text{salaire nominal}}{\\text{indice des prix}} \\times 100$. Si le salaire nominal augmente moins vite que les prix, le pouvoir d'achat baisse.\n\n## Les causes (types d'inflation)\n\n1. **Par la demande** : la demande globale dépasse l'offre (hausse des revenus, crédit facile, dépenses publiques).\n2. **Par les coûts** : hausse des coûts de production (salaires, matières premières, énergie) répercutée sur les prix.\n3. **Monétaire** : la masse monétaire augmente plus vite que la production.\n4. **Importée** : hausse du prix des produits importés, ou dépréciation de la monnaie nationale.\n5. **Structurelle** : rigidités de l'appareil productif, monopoles.\n\n## Les effets\n\n- Baisse du pouvoir d'achat des revenus fixes (salariés, retraités).\n- Avantage aux débiteurs, pénalisation des créanciers et de l'épargne.\n- Perte de compétitivité des produits nationaux, déficit commercial.\n- Incertitude qui freine l'investissement.\n\n## Les remèdes\n\n- **Politique monétaire restrictive** (banque centrale) : hausse du taux directeur, hausse des réserves obligatoires, limitation du crédit.\n- **Politique budgétaire** : réduction des dépenses publiques, hausse des impôts.\n- **Politique des revenus et des prix** : contrôle des prix, modération des salaires.\n- **Augmentation de l'offre** : soutien à la production nationale.",
+          "body_ar": "## التعريف\n\n**التضخم** ارتفاع **عام** و**مستمر** في المستوى العام للأسعار، يؤدي إلى انخفاض **القدرة الشرائية** للنقود: بنفس المبلغ نشتري سلعا أقل.\n\nيجب التمييز: ارتفاع سعر سلعة واحدة ليس تضخما؛ و**الانكماش** انخفاض عام ودائم في الأسعار.\n\n## القياس\n\nيستعمل **الرقم القياسي لأسعار الاستهلاك**، الذي يحسبه في الجزائر الديوان الوطني للإحصائيات (ONS) انطلاقا من سلة من السلع والخدمات.\n\n$$\\text{معدل التضخم} = \\frac{I_1 - I_0}{I_0} \\times 100$$\n\n**الأجر الحقيقي** $= \\dfrac{\\text{الأجر الاسمي}}{\\text{الرقم القياسي للأسعار}} \\times 100$. إذا ارتفع الأجر الاسمي أبطأ من الأسعار انخفضت القدرة الشرائية.\n\n## الأسباب (أنواع التضخم)\n\n1. **تضخم الطلب**: الطلب الكلي يفوق العرض (ارتفاع المداخيل، سهولة القروض، الإنفاق العام).\n2. **تضخم التكاليف**: ارتفاع تكاليف الإنتاج (الأجور، المواد الأولية، الطاقة) وانعكاسها على الأسعار.\n3. **التضخم النقدي**: نمو الكتلة النقدية بوتيرة أسرع من الإنتاج.\n4. **التضخم المستورد**: ارتفاع أسعار المنتجات المستوردة أو انخفاض قيمة العملة الوطنية.\n5. **التضخم الهيكلي**: جمود الجهاز الإنتاجي والاحتكار.\n\n## الآثار\n\n- انخفاض القدرة الشرائية لأصحاب الدخل الثابت (الأجراء، المتقاعدون).\n- استفادة المدينين وتضرر الدائنين والادخار.\n- تراجع تنافسية المنتجات الوطنية وعجز الميزان التجاري.\n- حالة عدم اليقين التي تعرقل الاستثمار.\n\n## العلاج\n\n- **سياسة نقدية انكماشية** (البنك المركزي): رفع سعر الفائدة المرجعي، رفع الاحتياطي الإجباري، تقييد القروض.\n- **سياسة مالية**: تخفيض النفقات العامة، رفع الضرائب.\n- **سياسة الأجور والأسعار**: مراقبة الأسعار، ضبط الأجور.\n- **زيادة العرض**: دعم الإنتاج الوطني."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calculer l'inflation et le salaire réel",
+          "title_ar": "حساب التضخم والأجر الحقيقي",
+          "points": 4,
+          "statement_fr": "L'indice des prix est passé de $120$ (année 1) à $126$ (année 2). Le salaire nominal d'un employé est passé de $40\\,000$ DA à $41\\,000$ DA.\n\n1. Calculer le taux d'inflation.\n2. Calculer le taux d'augmentation du salaire nominal.\n3. Le pouvoir d'achat de cet employé a-t-il augmenté ? Justifier par le calcul du salaire réel des deux années.\n4. Citer deux mesures qu'une banque centrale peut prendre contre l'inflation.",
+          "statement_ar": "ارتفع الرقم القياسي للأسعار من $120$ (السنة 1) إلى $126$ (السنة 2)، وارتفع الأجر الاسمي لعامل من $40000$ دج إلى $41000$ دج.\n\n1. احسب معدل التضخم.\n2. احسب معدل ارتفاع الأجر الاسمي.\n3. هل ارتفعت القدرة الشرائية لهذا العامل؟ علل بحساب الأجر الحقيقي في السنتين.\n4. اذكر إجراءين يمكن للبنك المركزي اتخاذهما لمحاربة التضخم.",
+          "solution_fr": "1. $\\dfrac{126 - 120}{120} \\times 100 = 5\\,\\%$.\n\n2. $\\dfrac{41\\,000 - 40\\,000}{40\\,000} \\times 100 = 2{,}5\\,\\%$.\n\n3. Salaire réel année 1 : $\\dfrac{40\\,000}{120} \\times 100 \\approx 33\\,333$ DA ; année 2 : $\\dfrac{41\\,000}{126} \\times 100 \\approx 32\\,540$ DA. Le salaire réel baisse : le pouvoir d'achat a **diminué**, car les prix ont augmenté ($5\\,\\%$) plus vite que le salaire ($2{,}5\\,\\%$).\n\n4. Relever le taux directeur ; relever le taux des réserves obligatoires (ou limiter le crédit).",
+          "solution_ar": "1. $\\dfrac{126 - 120}{120} \\times 100 = 5\\,\\%$.\n\n2. $\\dfrac{41000 - 40000}{40000} \\times 100 = 2.5\\,\\%$.\n\n3. الأجر الحقيقي في السنة 1: $\\dfrac{40000}{120} \\times 100 \\approx 33333$ دج؛ وفي السنة 2: $\\dfrac{41000}{126} \\times 100 \\approx 32540$ دج. انخفض الأجر الحقيقي، إذن **تراجعت** القدرة الشرائية لأن الأسعار ارتفعت ($5\\,\\%$) أسرع من الأجر ($2.5\\,\\%$).\n\n4. رفع سعر الفائدة المرجعي؛ رفع نسبة الاحتياطي الإجباري (أو تقييد القروض)."
+        }
+      ]
+    }
+  ]
+}

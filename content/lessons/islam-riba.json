@@ -1,0 +1,30 @@
+{
+  "key": "islam-riba",
+  "subject": "ISLAM",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Les transactions financières : l'interdiction de l'usure (riba)",
+      "title_ar": "المعاملات المالية: تحريم الربا",
+      "lessons": [
+        {
+          "title_fr": "Le riba : définition, types, jugement et alternatives",
+          "title_ar": "الربا: تعريفه، أنواعه، حكمه وبدائله",
+          "body_fr": "## Définition\n\n- **Au sens linguistique** : l'augmentation, l'accroissement (الزيادة).\n- **Au sens juridique** : un surplus sans contrepartie, exigé dans l'échange de certains biens entre eux ou en contrepartie d'un délai dans une dette.\n\n## Les deux types\n\n1. **Riba an-nasī'a** (ربا النسيئة, riba de la dette) : l'intérêt exigé en échange du délai de remboursement d'un prêt. C'est la forme pratiquée dans les prêts à intérêt.\n2. **Riba al-faḍl** (ربا الفضل, riba de l'échange) : l'échange d'un bien contre un bien de même genre en quantité inégale, parmi les biens cités dans le hadith (or, argent, blé, orge, dattes, sel).\n\n## Le jugement : interdit (حرام)\n\n- **Coran** : « Allah a rendu licite le commerce et illicite l'usure » (sourate al-Baqara, verset 275), et la suite des versets 276 à 279.\n- **Sunna** : le Prophète ﷺ « a maudit celui qui mange l'usure, celui qui la verse, celui qui la rédige et ses deux témoins » (rapporté par Muslim, d'après Jâbir).\n- **Consensus** (الإجماع) des savants.\n\n## La sagesse de l'interdiction\n\nProtéger les plus faibles de l'exploitation, éviter la concentration de la richesse, encourager le travail et l'investissement productif plutôt que le gain sans effort, préserver la solidarité sociale.\n\n## Les alternatives\n\n- **Le prêt bienveillant** (القرض الحسن), sans intérêt.\n- **La moudharaba** (المضاربة) : l'un apporte le capital, l'autre le travail ; le bénéfice est partagé selon un pourcentage convenu, la perte en capital est supportée par l'apporteur du capital.\n- **La mourabaha** (المرابحة) : vente d'un bien avec une marge bénéficiaire connue.\n- **La moucharaka** (المشاركة) : association au capital et au résultat.\n\n## À l'épreuve\n\nOn demande souvent de définir, de distinguer les deux types sur un exemple, de citer une preuve et de proposer une alternative licite.",
+          "body_ar": "## التعريف\n\n- **لغة**: الزيادة والنماء.\n- **اصطلاحا**: زيادة بلا مقابل في مبادلة أموال مخصوصة بعضها ببعض، أو في مقابل تأجيل أداء الدين.\n\n## أنواعه\n\n1. **ربا النسيئة** (ربا الديون): الزيادة المشروطة مقابل تأجيل سداد القرض، وهو الصورة الشائعة في القروض بفائدة.\n2. **ربا الفضل** (ربا البيوع): مبادلة مال بمال من جنسه متفاضلا، في الأصناف المذكورة في الحديث (الذهب، الفضة، البر، الشعير، التمر، الملح).\n\n## حكمه: حرام\n\n- **من القرآن**: قوله تعالى: ﴿وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا﴾ (البقرة: 275)، والآيات من 276 إلى 279.\n- **من السنة**: عن جابر رضي الله عنه قال: «لعن رسول الله ﷺ آكل الربا، وموكله، وكاتبه، وشاهديه، وقال: هم سواء» (رواه مسلم).\n- **الإجماع**: أجمعت الأمة على تحريمه.\n\n## حكمة التحريم\n\nحماية الضعفاء من الاستغلال، منع تكدس المال في أيد قليلة، تشجيع العمل والاستثمار المنتج بدل الكسب بلا جهد، والحفاظ على التكافل الاجتماعي.\n\n## البدائل الشرعية\n\n- **القرض الحسن** بلا فائدة.\n- **المضاربة**: يقدم طرف المال والآخر العمل، ويقسم الربح بنسبة متفق عليها، وتقع الخسارة المالية على صاحب المال.\n- **المرابحة**: بيع السلعة بثمن شرائها مع ربح معلوم.\n- **المشاركة**: الاشتراك في رأس المال وفي الربح والخسارة.\n\n## في الامتحان\n\nيطلب غالبا: التعريف، التمييز بين النوعين انطلاقا من مثال، ذكر دليل، واقتراح بديل شرعي."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Reconnaître le riba",
+          "title_ar": "تمييز الربا",
+          "points": 4,
+          "statement_fr": "Pour chaque situation, dire s'il s'agit de riba et de quel type, en justifiant :\n\n1. Ali prête 100 000 DA à Omar, à rembourser dans un an à 110 000 DA.\n2. Un commerçant échange 2 kg de dattes de qualité moyenne contre 1 kg de dattes de meilleure qualité, sur-le-champ.\n3. Karim achète une voiture au comptant à 1 000 000 DA et la revend à Said à 1 100 000 DA, en lui indiquant le prix d'achat et sa marge.\n4. Proposez une alternative licite à la situation 1.",
+          "statement_ar": "بيّن في كل حالة هل يتعلق الأمر بالربا ومن أي نوع، مع التعليل:\n\n1. أقرض علي عمرا 100000 دج على أن يردها بعد سنة 110000 دج.\n2. بادل تاجر 2 كغ من تمر متوسط الجودة بـ 1 كغ من تمر أجود، يدا بيد.\n3. اشترى كريم سيارة نقدا بـ 1000000 دج وباعها لسعيد بـ 1100000 دج مع إخباره بثمن الشراء وبالربح.\n4. اقترح بديلا شرعيا للحالة 1.",
+          "solution_fr": "1. **Riba an-nasī'a** : un surplus de 10 000 DA exigé en contrepartie du délai de remboursement.\n\n2. **Riba al-faḍl** : échange de dattes contre des dattes en quantités inégales. La règle est l'égalité des quantités et l'échange immédiat ; la bonne pratique est de vendre les premières dattes contre de l'argent, puis d'acheter les autres avec cet argent.\n\n3. **Pas de riba** : c'est une **mourabaha**, vente avec une marge connue, licite.\n\n4. Un **prêt bienveillant** (qard hasan) sans surplus, ou une **moudharaba** si l'argent est destiné à un projet : Ali partage alors le bénéfice et le risque.",
+          "solution_ar": "1. **ربا النسيئة**: زيادة 10000 دج مشروطة مقابل الأجل.\n\n2. **ربا الفضل**: مبادلة تمر بتمر متفاضلا، والشرط التماثل والتقابض. والمخرج أن يبيع التمر الأول بالنقود ثم يشتري بها التمر الآخر.\n\n3. **ليس ربا**: هذا بيع **مرابحة** بربح معلوم، وهو جائز.\n\n4. **القرض الحسن** بلا زيادة، أو **المضاربة** إذا كان المال موجها لمشروع، فيقتسم علي الربح ويتحمل المخاطرة."
+        }
+      ]
+    }
+  ]
+}

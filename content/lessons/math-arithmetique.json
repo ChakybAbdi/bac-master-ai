@@ -1,0 +1,30 @@
+{
+  "key": "math-arithmetique",
+  "subject": "MATH",
+  "streams": ["M", "TM"],
+  "chapters": [
+    {
+      "title_fr": "Arithmétique : divisibilité, congruences, PGCD",
+      "title_ar": "الحساب: القسمة، الموافقات، القاسم المشترك الأكبر",
+      "lessons": [
+        {
+          "title_fr": "De la division euclidienne aux équations diophantiennes",
+          "title_ar": "من القسمة الإقليدية إلى المعادلات الديوفانتية",
+          "body_fr": "## Division euclidienne\n\nPour $a \\in \\mathbb{Z}$ et $b \\in \\mathbb{N}^*$, il existe un unique couple $(q, r)$ tel que $a = bq + r$ et $0 \\leqslant r < b$.\n\n## Congruences\n\n$a \\equiv b\\,[n]$ signifie que $n$ divise $a - b$ (même reste dans la division par $n$). On peut **additionner, multiplier et élever à une puissance** des congruences de même module : si $a \\equiv b\\,[n]$ alors $a^k \\equiv b^k\\,[n]$.\n\nMéthode des puissances : chercher le plus petit $p$ tel que $a^p \\equiv 1\\,[n]$, puis écrire $k = pq + r$ : $a^k \\equiv a^r\\,[n]$. Les restes sont **périodiques** de période $p$.\n\n## PGCD\n\n- Algorithme d'Euclide : $PGCD(a, b) = PGCD(b, r)$ où $r$ est le reste de $a$ par $b$ ; le dernier reste non nul est le PGCD.\n- Si $d$ divise $a$ et $b$, il divise toute combinaison $ua + vb$ : c'est l'outil pour trouver les valeurs possibles d'un PGCD.\n- $PGCD(ka, kb) = k \\cdot PGCD(a, b)$.\n\n## Théorèmes de Bézout et de Gauss\n\n- **Bézout** : $a$ et $b$ sont premiers entre eux si et seulement s'il existe $u, v \\in \\mathbb{Z}$ tels que $au + bv = 1$.\n- **Gauss** : si $a$ divise $bc$ et $PGCD(a, b) = 1$, alors $a$ divise $c$.\n\n## Équation $ax + by = c$\n\nElle a des solutions entières si et seulement si $PGCD(a, b)$ divise $c$. Méthode :\n1. diviser par $d = PGCD(a, b)$ ;\n2. trouver une solution particulière $(x_0, y_0)$ ;\n3. soustraire : $a(x - x_0) = -b(y - y_0)$ et appliquer Gauss ;\n4. conclure : $x = x_0 + bk$, $y = y_0 - ak$ ($k \\in \\mathbb{Z}$), après division par $d$.\n\n## Nombres premiers\n\nTout entier $n \\geqslant 2$ se décompose de façon unique en produit de facteurs premiers. Pour tester si $n$ est premier, il suffit d'essayer les diviseurs premiers $p \\leqslant \\sqrt{n}$.",
+          "body_ar": "## القسمة الإقليدية\n\nمن أجل $a \\in \\mathbb{Z}$ و $b \\in \\mathbb{N}^*$ توجد ثنائية وحيدة $(q, r)$ بحيث $a = bq + r$ و $0 \\leqslant r < b$.\n\n## الموافقات\n\n$a \\equiv b\\,[n]$ معناه $n$ يقسم $a - b$ (نفس الباقي في القسمة على $n$). يمكن **جمع وضرب ورفع إلى قوة** موافقات لها نفس الترديد: إذا كان $a \\equiv b\\,[n]$ فإن $a^k \\equiv b^k\\,[n]$.\n\nطريقة القوى: نبحث عن أصغر $p$ بحيث $a^p \\equiv 1\\,[n]$، ثم نكتب $k = pq + r$: $a^k \\equiv a^r\\,[n]$. البواقي **دورية** ودورها $p$.\n\n## القاسم المشترك الأكبر\n\n- خوارزمية إقليدس: $PGCD(a, b) = PGCD(b, r)$ حيث $r$ باقي قسمة $a$ على $b$؛ آخر باق غير معدوم هو القاسم المشترك الأكبر.\n- إذا كان $d$ يقسم $a$ و $b$ فإنه يقسم كل عبارة $ua + vb$: هذه هي الأداة لإيجاد القيم الممكنة لقاسم مشترك أكبر.\n- $PGCD(ka, kb) = k \\cdot PGCD(a, b)$.\n\n## مبرهنتا بيزو وغوص\n\n- **بيزو**: $a$ و $b$ أوليان فيما بينهما إذا وفقط إذا وجد $u, v \\in \\mathbb{Z}$ بحيث $au + bv = 1$.\n- **غوص**: إذا كان $a$ يقسم $bc$ و $PGCD(a, b) = 1$ فإن $a$ يقسم $c$.\n\n## المعادلة $ax + by = c$\n\nتقبل حلولا صحيحة إذا وفقط إذا كان $PGCD(a, b)$ يقسم $c$. الطريقة:\n1. نقسم على $d = PGCD(a, b)$؛\n2. نجد حلا خاصا $(x_0, y_0)$؛\n3. نطرح: $a(x - x_0) = -b(y - y_0)$ ونطبق مبرهنة غوص؛\n4. نستنتج: $x = x_0 + bk$ ، $y = y_0 - ak$ ($k \\in \\mathbb{Z}$)، بعد القسمة على $d$.\n\n## الأعداد الأولية\n\nكل عدد طبيعي $n \\geqslant 2$ يحلل بكيفية وحيدة إلى جداء عوامل أولية. لمعرفة ما إذا كان $n$ أوليا يكفي تجريب القواسم الأولية $p \\leqslant \\sqrt{n}$."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Équation 7x − 5y = 3 et puissances de 2 modulo 7",
+          "title_ar": "المعادلة 7x − 5y = 3 وقوى 2 بترديد 7",
+          "points": 5,
+          "statement_fr": "1. Vérifier que $(4; 5)$ est solution de $7x - 5y = 3$, puis résoudre cette équation dans $\\mathbb{Z}^2$.\n2. Étudier les restes de la division de $2^n$ par $7$ selon les valeurs de $n$.\n3. En déduire le reste de $2^{2008}$ par $7$, puis montrer que $2^{3n} + 6$ est divisible par $7$ pour tout entier naturel $n$.",
+          "statement_ar": "1. تحقق أن $(4; 5)$ حل للمعادلة $7x - 5y = 3$، ثم حل هذه المعادلة في $\\mathbb{Z}^2$.\n2. ادرس بواقي قسمة $2^n$ على $7$ حسب قيم $n$.\n3. استنتج باقي قسمة $2^{2008}$ على $7$، ثم بيّن أن $2^{3n} + 6$ يقبل القسمة على $7$ من أجل كل عدد طبيعي $n$.",
+          "solution_fr": "1. $7 \\times 4 - 5 \\times 5 = 28 - 25 = 3$. Si $7x - 5y = 3$, en soustrayant : $7(x - 4) = 5(y - 5)$. $5$ divise $7(x - 4)$ et $PGCD(5, 7) = 1$, donc (Gauss) $5$ divise $x - 4$ : $x = 5k + 4$, puis $7 \\times 5k = 5(y - 5)$, $y = 7k + 5$. Réciproquement ces couples conviennent : $S = \\{(5k + 4; 7k + 5),\\ k \\in \\mathbb{Z}\\}$.\n\n2. $2^0 \\equiv 1$, $2^1 \\equiv 2$, $2^2 \\equiv 4$, $2^3 = 8 \\equiv 1\\,[7]$. Donc $2^{3k} \\equiv 1$, $2^{3k+1} \\equiv 2$, $2^{3k+2} \\equiv 4\\,[7]$.\n\n3. $2008 = 3 \\times 669 + 1$ : $2^{2008} \\equiv 2\\,[7]$, le reste est $2$. $2^{3n} + 6 \\equiv 1 + 6 = 7 \\equiv 0\\,[7]$.",
+          "solution_ar": "1. $7 \\times 4 - 5 \\times 5 = 28 - 25 = 3$. إذا كان $7x - 5y = 3$ فبالطرح: $7(x - 4) = 5(y - 5)$. $5$ يقسم $7(x - 4)$ و $PGCD(5, 7) = 1$ إذن (غوص) $5$ يقسم $x - 4$: $x = 5k + 4$، ثم $7 \\times 5k = 5(y - 5)$ ومنه $y = 7k + 5$. وبالعكس هذه الثنائيات حلول: $S = \\{(5k + 4; 7k + 5),\\ k \\in \\mathbb{Z}\\}$.\n\n2. $2^0 \\equiv 1$ ، $2^1 \\equiv 2$ ، $2^2 \\equiv 4$ ، $2^3 = 8 \\equiv 1\\,[7]$. إذن $2^{3k} \\equiv 1$ ، $2^{3k+1} \\equiv 2$ ، $2^{3k+2} \\equiv 4\\,[7]$.\n\n3. $2008 = 3 \\times 669 + 1$: $2^{2008} \\equiv 2\\,[7]$، الباقي هو $2$. $2^{3n} + 6 \\equiv 1 + 6 = 7 \\equiv 0\\,[7]$."
+        }
+      ]
+    }
+  ]
+}

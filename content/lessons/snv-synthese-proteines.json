@@ -1,0 +1,30 @@
+{
+  "key": "snv-synthese-proteines",
+  "subject": "SNV",
+  "streams": ["SE", "M"],
+  "chapters": [
+    {
+      "title_fr": "La synthèse des protéines",
+      "title_ar": "تركيب البروتين",
+      "lessons": [
+        {
+          "title_fr": "De l'ADN à la protéine",
+          "title_ar": "من ADN إلى البروتين",
+          "body_fr": "## L'information génétique\n\nL'information qui détermine la séquence des acides aminés d'une protéine est portée par l'**ADN**, dans le noyau, sous forme d'une suite de nucléotides (A, T, C, G). Un **gène** est un fragment d'ADN qui code une chaîne polypeptidique.\n\n## Étape 1 : la transcription (dans le noyau)\n\n- L'**ARN polymérase** se fixe sur le gène, sépare les deux brins et lit le **brin transcrit** de $3'$ vers $5'$.\n- Elle assemble un **ARN messager** (ARNm) de $5'$ vers $3'$, complémentaire du brin transcrit : $A \\to U$, $T \\to A$, $C \\to G$, $G \\to C$.\n- L'ARNm a donc la même séquence que le **brin non transcrit**, avec $U$ à la place de $T$.\n- L'ARNm quitte le noyau par les pores nucléaires.\n\n## Étape 2 : la traduction (dans le cytoplasme)\n\n- Elle a lieu sur les **ribosomes**. L'ARNm est lu par **codons** (triplets de nucléotides).\n- Chaque **ARNt** porte un acide aminé et un **anticodon** complémentaire d'un codon.\n- **Initiation** : le ribosome se place au codon initiateur **AUG** (méthionine).\n- **Élongation** : les acides aminés successifs sont reliés par des **liaisons peptidiques** ; le ribosome avance d'un codon à chaque fois.\n- **Terminaison** : à un codon **stop** (UAA, UAG, UGA), qui ne code aucun acide aminé, le polypeptide est libéré.\n\n## Le code génétique\n\n$4^3 = 64$ codons : 61 codent les 20 acides aminés et 3 sont des codons stop. Il est **universel** (le même chez presque tous les êtres vivants) et **redondant** (plusieurs codons pour un même acide aminé).\n\n## Point de méthode\n\nBrin transcrit $\\to$ (complémentarité) $\\to$ ARNm $\\to$ (tableau du code génétique, codon par codon à partir de AUG) $\\to$ séquence d'acides aminés.",
+          "body_ar": "## المعلومة الوراثية\n\nتحمل جزيئة **ADN** في النواة المعلومة التي تحدد تتابع الأحماض الأمينية في البروتين، على شكل تتابع للنيكليوتيدات (A، T، C، G). **المورثة** قطعة من ADN تشفر لسلسلة بيبتيدية.\n\n## المرحلة الأولى: الاستنساخ (في النواة)\n\n- يتثبت إنزيم **ARN بوليميراز** على المورثة ويفصل السلسلتين ويقرأ **السلسلة المستنسخة** في الاتجاه $3' \\to 5'$.\n- يركب **ARN رسول** (ARNm) في الاتجاه $5' \\to 3'$ مكمل للسلسلة المستنسخة: $A \\to U$، $T \\to A$، $C \\to G$، $G \\to C$.\n- لـ ARNm نفس تتابع **السلسلة غير المستنسخة** مع $U$ مكان $T$.\n- يغادر ARNm النواة عبر الثقوب النووية.\n\n## المرحلة الثانية: الترجمة (في الهيولى)\n\n- تتم على مستوى **الريبوزومات**، ويقرأ ARNm على شكل **رامزات** (ثلاثيات نيكليوتيدية).\n- يحمل كل **ARNt** حمضا أمينيا و**رامزة مضادة** مكملة لرامزة.\n- **البداية**: يتموضع الريبوزوم عند رامزة البداية **AUG** (الميثيونين).\n- **الاستطالة**: ترتبط الأحماض الأمينية المتتالية بـ**روابط بيبتيدية** ويتقدم الريبوزوم برامزة في كل مرة.\n- **النهاية**: عند رامزة **توقف** (UAA، UAG، UGA) لا تشفر لأي حمض أميني، تتحرر السلسلة البيبتيدية.\n\n## الشفرة الوراثية\n\n$4^3 = 64$ رامزة: 61 منها تشفر لـ 20 حمضا أمينيا و3 رامزات توقف. الشفرة **عالمية** (نفسها تقريبا عند كل الكائنات الحية) و**مترادفة** (عدة رامزات لنفس الحمض الأميني).\n\n## طريقة العمل\n\nالسلسلة المستنسخة $\\to$ (التكامل) $\\to$ ARNm $\\to$ (جدول الشفرة الوراثية، رامزة برامزة ابتداء من AUG) $\\to$ تتابع الأحماض الأمينية."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Du gène au peptide",
+          "title_ar": "من المورثة إلى البيبتيد",
+          "points": 4,
+          "statement_fr": "Voici un fragment du brin transcrit d'un gène :\n\n$3'$ — TAC AAA CCG ATT — $5'$\n\nExtrait du code génétique : AUG = Méthionine ; UUU = Phénylalanine ; GGC = Glycine ; UAA = stop.\n\n1. Écrire la séquence de l'ARNm correspondant, en précisant son orientation.\n2. Écrire la séquence du brin non transcrit.\n3. Donner la séquence d'acides aminés obtenue et expliquer pourquoi la chaîne s'arrête.\n4. Où se déroule chacune de ces deux étapes dans une cellule eucaryote ?",
+          "statement_ar": "إليك جزءا من السلسلة المستنسخة لمورثة:\n\n$3'$ — TAC AAA CCG ATT — $5'$\n\nمقتطف من جدول الشفرة الوراثية: AUG = ميثيونين؛ UUU = فينيل ألانين؛ GGC = غليسين؛ UAA = توقف.\n\n1. اكتب تتابع ARNm الموافق مع تحديد اتجاهه.\n2. اكتب تتابع السلسلة غير المستنسخة.\n3. أعط تتابع الأحماض الأمينية الناتج، وفسر سبب توقف السلسلة.\n4. أين تتم كل مرحلة من هاتين المرحلتين في الخلية حقيقية النواة؟",
+          "solution_fr": "1. ARNm : $5'$ — AUG UUU GGC UAA — $3'$ (complémentaire et antiparallèle du brin transcrit, avec U à la place de T).\n\n2. Brin non transcrit : $5'$ — ATG TTT GGC TAA — $3'$ (même séquence que l'ARNm, avec T à la place de U).\n\n3. Méthionine – Phénylalanine – Glycine. La traduction s'arrête au codon UAA, codon stop qui ne code aucun acide aminé.\n\n4. La transcription a lieu dans le noyau ; la traduction a lieu dans le cytoplasme, sur les ribosomes.",
+          "solution_ar": "1. ARNm: $5'$ — AUG UUU GGC UAA — $3'$ (مكمل للسلسلة المستنسخة ومعاكس لها في الاتجاه، مع U مكان T).\n\n2. السلسلة غير المستنسخة: $5'$ — ATG TTT GGC TAA — $3'$ (نفس تتابع ARNm مع T مكان U).\n\n3. ميثيونين – فينيل ألانين – غليسين. تتوقف الترجمة عند الرامزة UAA وهي رامزة توقف لا تشفر لأي حمض أميني.\n\n4. يتم الاستنساخ في النواة، وتتم الترجمة في الهيولى على مستوى الريبوزومات."
+        }
+      ]
+    }
+  ]
+}

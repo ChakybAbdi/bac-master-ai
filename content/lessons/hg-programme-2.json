@@ -1,0 +1,76 @@
+{
+  "key": "hg-programme-2",
+  "subject": "HG",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Histoire : la Révolution algérienne (1954-1962)",
+      "title_ar": "التاريخ: الثورة التحريرية الجزائرية (1954-1962)",
+      "lessons": [
+        {
+          "title_fr": "De novembre 1954 à l'indépendance",
+          "title_ar": "من نوفمبر 1954 إلى الاستقلال",
+          "body_fr": "## Repères essentiels\n\n| Date | Événement |\n|---|---|\n| 1er novembre 1954 | Déclenchement de la Révolution ; proclamation du **FLN** |\n| 20 août 1955 | Offensive du Nord-Constantinois |\n| 20 août 1956 | **Congrès de la Soummam** : organisation politique et militaire de la Révolution |\n| 1957 | Bataille d'Alger |\n| 19 septembre 1958 | Création du **GPRA** (Gouvernement provisoire de la République algérienne), présidé par Ferhat Abbas |\n| 11 décembre 1960 | Manifestations populaires en faveur de l'indépendance |\n| 18 mars 1962 | Signature des **accords d'Évian** ; cessez-le-feu le 19 mars |\n| 1er juillet 1962 | Référendum d'autodétermination |\n| 5 juillet 1962 | **Indépendance** de l'Algérie |\n\n## Le congrès de la Soummam\n\nIl dote la Révolution d'institutions (CNRA, CCE), découpe le territoire en **wilayas** et pose deux principes : **primauté du politique sur le militaire** et **de l'intérieur sur l'extérieur**.\n\n## L'internationalisation\n\nParticipation à la conférence de **Bandung** (1955), inscription de la question algérienne à l'**ONU**, action diplomatique du GPRA : la cause algérienne gagne le soutien du tiers-monde.\n\n## Les grandes stratégies\n\n- Militaire : lutte armée de l'ALN.\n- Politique : unification autour du FLN.\n- Diplomatique : reconnaissance internationale.\n- Populaire : mobilisation du peuple (grève des huit jours en 1957, manifestations de décembre 1960).\n\n## À l'épreuve\n\nSavoir définir les sigles (FLN, ALN, GPRA, CNRA), dater les étapes et expliquer l'importance de la Soummam et des accords d'Évian.",
+          "body_ar": "## معالم أساسية\n\n| التاريخ | الحدث |\n|---|---|\n| 1 نوفمبر 1954 | اندلاع الثورة وإعلان **جبهة التحرير الوطني** |\n| 20 أوت 1955 | هجومات الشمال القسنطيني |\n| 20 أوت 1956 | **مؤتمر الصومام**: التنظيم السياسي والعسكري للثورة |\n| 1957 | معركة الجزائر |\n| 19 سبتمبر 1958 | تأسيس **الحكومة المؤقتة للجمهورية الجزائرية** برئاسة فرحات عباس |\n| 11 ديسمبر 1960 | مظاهرات شعبية من أجل الاستقلال |\n| 18 مارس 1962 | توقيع **اتفاقيات إيفيان** ووقف إطلاق النار في 19 مارس |\n| 1 جويلية 1962 | استفتاء تقرير المصير |\n| 5 جويلية 1962 | **استقلال** الجزائر |\n\n## مؤتمر الصومام\n\nزوّد الثورة بمؤسسات (المجلس الوطني للثورة الجزائرية، لجنة التنسيق والتنفيذ)، وقسم البلاد إلى **ولايات**، وأقر مبدأين: **أولوية السياسي على العسكري** و**الداخل على الخارج**.\n\n## التدويل\n\nالمشاركة في مؤتمر **باندونغ** (1955)، تسجيل القضية الجزائرية في **الأمم المتحدة**، والنشاط الدبلوماسي للحكومة المؤقتة: كسبت القضية الجزائرية دعم العالم الثالث.\n\n## الاستراتيجيات الكبرى\n\n- العسكرية: الكفاح المسلح لجيش التحرير الوطني.\n- السياسية: التوحيد حول جبهة التحرير.\n- الدبلوماسية: الاعتراف الدولي.\n- الشعبية: تجنيد الشعب (إضراب الثمانية أيام 1957، مظاهرات ديسمبر 1960).\n\n## في الامتحان\n\nاعرف دلالة المختصرات (FLN، ALN، GPRA، CNRA)، وأرّخ المراحل، واشرح أهمية مؤتمر الصومام واتفاقيات إيفيان."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Dater et expliquer",
+          "title_ar": "أرّخ واشرح",
+          "points": 6,
+          "statement_fr": "1. Dater : déclenchement de la Révolution ; congrès de la Soummam ; création du GPRA ; indépendance.\n2. Citer les deux principes adoptés au congrès de la Soummam.\n3. Montrer en quelques lignes l'importance de la dimension diplomatique de la Révolution.",
+          "statement_ar": "1. أرّخ: اندلاع الثورة؛ مؤتمر الصومام؛ تأسيس الحكومة المؤقتة؛ الاستقلال.\n2. اذكر المبدأين اللذين أقرهما مؤتمر الصومام.\n3. بيّن في أسطر أهمية البعد الدبلوماسي للثورة.",
+          "solution_fr": "1. 1er novembre 1954 ; 20 août 1956 ; 19 septembre 1958 ; 5 juillet 1962.\n\n2. Primauté du politique sur le militaire ; primauté de l'intérieur sur l'extérieur.\n\n3. La diplomatie (Bandung 1955, ONU, action du GPRA) a fait connaître la cause algérienne, obtenu le soutien des pays du tiers-monde et isolé la France, ce qui a pesé sur les négociations jusqu'aux accords d'Évian.",
+          "solution_ar": "1. 1 نوفمبر 1954؛ 20 أوت 1956؛ 19 سبتمبر 1958؛ 5 جويلية 1962.\n\n2. أولوية السياسي على العسكري؛ أولوية الداخل على الخارج.\n\n3. عرّفت الدبلوماسية (باندونغ 1955، الأمم المتحدة، نشاط الحكومة المؤقتة) بالقضية الجزائرية، وكسبت دعم دول العالم الثالث، وعزلت فرنسا، مما أثّر على المفاوضات حتى اتفاقيات إيفيان."
+        }
+      ]
+    },
+    {
+      "title_fr": "Histoire : le tiers-monde entre bipolarité et non-alignement",
+      "title_ar": "التاريخ: العالم الثالث بين حدة الثنائية القطبية ومساعي التحرر",
+      "lessons": [
+        {
+          "title_fr": "Le mouvement des non-alignés",
+          "title_ar": "حركة عدم الانحياز",
+          "body_fr": "## Définitions\n\n- **Tiers-monde** : ensemble des pays, souvent nouvellement indépendants, d'Asie, d'Afrique et d'Amérique latine, marqués par le sous-développement et qui refusent de dépendre de l'un des deux blocs.\n- **Non-alignement** : refus d'adhérer à l'un des deux blocs et à leurs alliances militaires, pour défendre l'indépendance, la paix et le développement.\n\n## Les étapes\n\n- **1955 : conférence de Bandung** (Indonésie) : pays afro-asiatiques ; condamnation du colonialisme, soutien aux peuples colonisés (dont l'Algérie).\n- **1961 : premier sommet des non-alignés à Belgrade**.\n- **1973 : sommet d'Alger** : l'Algérie défend un **nouvel ordre économique international** (NOEI), repris par l'Assemblée générale de l'ONU en 1974.\n\n## Objectifs\n\nLiquidation du colonialisme, paix et désarmement, coexistence pacifique, développement et justice économique entre Nord et Sud.\n\n## Limites\n\nDivisions internes, pressions des deux blocs, dépendance économique persistante. Après 1991, la fin de la bipolarité pose la question de son rôle.",
+          "body_ar": "## المفاهيم\n\n- **العالم الثالث**: مجموعة الدول، المستقلة حديثا في الغالب، في آسيا وإفريقيا وأمريكا اللاتينية، تعاني من التخلف وترفض التبعية لإحدى الكتلتين.\n- **عدم الانحياز**: رفض الانضمام إلى إحدى الكتلتين وأحلافهما العسكرية، دفاعا عن الاستقلال والسلم والتنمية.\n\n## المراحل\n\n- **1955: مؤتمر باندونغ** (إندونيسيا): الدول الأفرو-آسيوية؛ إدانة الاستعمار ودعم الشعوب المستعمرة (ومنها الجزائر).\n- **1961: أول قمة لدول عدم الانحياز في بلغراد**.\n- **1973: قمة الجزائر**: دافعت الجزائر عن **نظام اقتصادي دولي جديد**، تبنته الجمعية العامة للأمم المتحدة سنة 1974.\n\n## الأهداف\n\nتصفية الاستعمار، السلم ونزع السلاح، التعايش السلمي، التنمية والعدالة الاقتصادية بين الشمال والجنوب.\n\n## الحدود\n\nالخلافات الداخلية، ضغوط الكتلتين، استمرار التبعية الاقتصادية. وبعد 1991 طرحت نهاية الثنائية القطبية مسألة دور الحركة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Définir et dater",
+          "title_ar": "عرّف وأرّخ",
+          "points": 4,
+          "statement_fr": "1. Définir : non-alignement ; tiers-monde.\n2. Dater : conférence de Bandung ; sommet des non-alignés d'Alger.\n3. Quel projet l'Algérie a-t-elle défendu au sommet d'Alger ?",
+          "statement_ar": "1. عرّف: عدم الانحياز؛ العالم الثالث.\n2. أرّخ: مؤتمر باندونغ؛ قمة عدم الانحياز بالجزائر.\n3. ما المشروع الذي دافعت عنه الجزائر في قمة الجزائر؟",
+          "solution_fr": "1. **Non-alignement** : refus d'adhérer à l'un des deux blocs pour défendre l'indépendance et la paix. **Tiers-monde** : pays d'Asie, d'Afrique et d'Amérique latine, souvent nouvellement indépendants et sous-développés.\n\n2. Bandung : 1955 ; Alger : 1973.\n\n3. Un **nouvel ordre économique international**, plus juste pour les pays du Sud.",
+          "solution_ar": "1. **عدم الانحياز**: رفض الانضمام إلى إحدى الكتلتين دفاعا عن الاستقلال والسلم. **العالم الثالث**: دول آسيا وإفريقيا وأمريكا اللاتينية، المستقلة حديثا والمتخلفة في الغالب.\n\n2. باندونغ: 1955؛ الجزائر: 1973.\n\n3. **نظام اقتصادي دولي جديد** أكثر عدلا لدول الجنوب."
+        }
+      ]
+    },
+    {
+      "title_fr": "Géographie : la mondialisation et les échanges",
+      "title_ar": "الجغرافيا: العولمة والمبادلات التجارية",
+      "lessons": [
+        {
+          "title_fr": "Les acteurs et les déséquilibres des échanges mondiaux",
+          "title_ar": "فواعل المبادلات العالمية واختلالاتها",
+          "body_fr": "## Définitions\n\n- **Mondialisation** : intensification des échanges de marchandises, de capitaux, d'informations et de personnes à l'échelle de la planète.\n- **Libre-échange** : suppression des obstacles au commerce (droits de douane, quotas). **Protectionnisme** : protection de la production nationale.\n- **Balance commerciale** : différence entre exportations et importations de marchandises.\n\n## Les organisations\n\n- **FMI** et **Banque mondiale**, créés à **Bretton Woods** (1944) : stabilité financière, prêts au développement.\n- **GATT** (1947), remplacé par l'**OMC** en **1995** : règles du commerce mondial, libéralisation.\n- **Blocs régionaux** : Union européenne, accord nord-américain, etc.\n\n## Les acteurs\n\nÉtats, **firmes multinationales** (production répartie dans plusieurs pays), places financières.\n\n## Les déséquilibres\n\n- Les pays développés (Nord) dominent les échanges de produits manufacturés et de services.\n- Beaucoup de pays du Sud exportent surtout des **matières premières** aux prix instables ; c'est le cas de l'Algérie, dont les exportations reposent très majoritairement sur les **hydrocarbures**.\n- Conséquences : dépendance, endettement, inégalités Nord-Sud.\n\n## À l'épreuve\n\nSavoir définir les notions, lire un tableau de statistiques (calcul d'un solde ou d'un taux de couverture) et expliquer les inégalités.",
+          "body_ar": "## المفاهيم\n\n- **العولمة**: تكثف مبادلات السلع ورؤوس الأموال والمعلومات والأشخاص على مستوى العالم.\n- **حرية التبادل**: إزالة العوائق أمام التجارة (الحقوق الجمركية، الحصص). **الحماية التجارية**: حماية الإنتاج الوطني.\n- **الميزان التجاري**: الفرق بين الصادرات والواردات من السلع.\n\n## المنظمات\n\n- **صندوق النقد الدولي** و**البنك العالمي**، تأسسا في **بريتون وودز** (1944): الاستقرار المالي وقروض التنمية.\n- **الغات** (1947) التي عوضتها **المنظمة العالمية للتجارة** سنة **1995**: قواعد التجارة العالمية وتحريرها.\n- **التكتلات الإقليمية**: الاتحاد الأوروبي، الاتفاق الأمريكي الشمالي، وغيرها.\n\n## الفواعل\n\nالدول، **الشركات المتعددة الجنسيات** (إنتاج موزع على عدة دول)، الأسواق المالية.\n\n## الاختلالات\n\n- تهيمن الدول المتقدمة (الشمال) على مبادلات المنتجات المصنعة والخدمات.\n- تصدر دول كثيرة من الجنوب **المواد الأولية** ذات الأسعار المتقلبة؛ وهي حال الجزائر التي تعتمد صادراتها في غالبيتها الساحقة على **المحروقات**.\n- النتائج: التبعية، المديونية، اللامساواة بين الشمال والجنوب.\n\n## في الامتحان\n\nاعرف تعريف المفاهيم، واقرأ جدولا إحصائيا (حساب رصيد أو نسبة تغطية)، وفسر الفوارق."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Solde et taux de couverture",
+          "title_ar": "الرصيد ونسبة التغطية",
+          "points": 4,
+          "statement_fr": "Un pays exporte pour $40$ milliards de dollars et importe pour $46$ milliards.\n\n1. Calculer le solde de la balance commerciale. Est-il excédentaire ou déficitaire ?\n2. Calculer le taux de couverture ($\\frac{X}{M} \\times 100$).\n3. Quelle organisation régule le commerce mondial depuis 1995 ?",
+          "statement_ar": "تصدر دولة بقيمة $40$ مليار دولار وتستورد بقيمة $46$ مليار دولار.\n\n1. احسب رصيد الميزان التجاري. هل هو فائض أم عجز؟\n2. احسب نسبة التغطية ($\\frac{X}{M} \\times 100$).\n3. ما المنظمة التي تنظم التجارة العالمية منذ 1995؟",
+          "solution_fr": "1. $40 - 46 = -6$ milliards de dollars : balance **déficitaire**.\n\n2. $\\dfrac{40}{46} \\times 100 \\approx 87\\,\\%$ : les exportations couvrent environ 87 % des importations.\n\n3. L'**OMC** (Organisation mondiale du commerce).",
+          "solution_ar": "1. $40 - 46 = -6$ مليار دولار: الميزان في حالة **عجز**.\n\n2. $\\dfrac{40}{46} \\times 100 \\approx 87\\,\\%$: الصادرات تغطي حوالي 87 % من الواردات.\n\n3. **المنظمة العالمية للتجارة**."
+        }
+      ]
+    }
+  ]
+}

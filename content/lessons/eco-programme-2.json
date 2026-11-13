@@ -1,0 +1,76 @@
+{
+  "key": "eco-programme-2",
+  "subject": "ECO",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Le chômage",
+      "title_ar": "البطالة",
+      "lessons": [
+        {
+          "title_fr": "Mesure, types, causes et politiques de l'emploi",
+          "title_ar": "قياسها، أنواعها، أسبابها وسياسات التشغيل",
+          "body_fr": "## Définitions\n\n- **Chômeur** (au sens du BIT) : personne en âge de travailler, sans emploi, disponible et qui cherche activement un travail.\n- **Population active** = actifs occupés + chômeurs.\n- **Taux de chômage** $= \\dfrac{\\text{nombre de chômeurs}}{\\text{population active}} \\times 100$.\n\n## Les types\n\n- **Frictionnel** : temps de passage d'un emploi à un autre.\n- **Saisonnier** : lié aux saisons (agriculture, tourisme).\n- **Conjoncturel** (cyclique) : baisse de l'activité économique, de la demande.\n- **Structurel** : inadéquation durable entre l'offre et la demande de travail (qualifications, régions, mutations technologiques).\n- **Technologique** : remplacement du travail par les machines.\n\n## Les effets\n\nBaisse du revenu et de la consommation, exclusion sociale, perte de compétences, coût pour l'État, émigration.\n\n## Les remèdes\n\n- Relance de l'investissement et de la demande.\n- Formation professionnelle adaptée aux besoins du marché.\n- Aide à la création d'entreprises : en Algérie, des dispositifs publics accompagnent les jeunes porteurs de projets (par exemple l'**ANADE**, qui a succédé à l'ANSEJ, et la **CNAC**).\n- Encouragement des secteurs créateurs d'emplois.",
+          "body_ar": "## المفاهيم\n\n- **البطال** (حسب المكتب الدولي للعمل): شخص في سن العمل، بدون عمل، مستعد للعمل ويبحث عنه بجدية.\n- **السكان النشطون** = المشتغلون + البطالون.\n- **معدل البطالة** $= \\dfrac{\\text{عدد البطالين}}{\\text{السكان النشطون}} \\times 100$.\n\n## الأنواع\n\n- **الاحتكاكية**: مدة الانتقال من عمل إلى آخر.\n- **الموسمية**: مرتبطة بالمواسم (الفلاحة، السياحة).\n- **الدورية** (الظرفية): تراجع النشاط الاقتصادي والطلب.\n- **الهيكلية**: عدم توافق دائم بين عرض العمل والطلب عليه (المؤهلات، المناطق، التحولات التكنولوجية).\n- **التكنولوجية**: إحلال الآلة محل العامل.\n\n## الآثار\n\nانخفاض الدخل والاستهلاك، الإقصاء الاجتماعي، فقدان المهارات، تكلفة على الدولة، الهجرة.\n\n## العلاج\n\n- إنعاش الاستثمار والطلب.\n- تكوين مهني يتلاءم مع حاجات السوق.\n- دعم إنشاء المؤسسات: في الجزائر ترافق أجهزة عمومية الشباب أصحاب المشاريع (مثل **الوكالة الوطنية لدعم وتنمية المقاولاتية ANADE** التي خلفت ANSEJ، و**الصندوق الوطني للتأمين عن البطالة CNAC**).\n- تشجيع القطاعات المنشئة لمناصب الشغل."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calculer un taux de chômage",
+          "title_ar": "حساب معدل البطالة",
+          "points": 3,
+          "statement_fr": "Dans une région, la population active est de $500\\,000$ personnes, dont $450\\,000$ actifs occupés.\n\n1. Calculer le nombre de chômeurs et le taux de chômage.\n2. Un ingénieur qui quitte son emploi et en cherche un autre pendant deux mois : de quel type de chômage s'agit-il ?\n3. Proposer deux mesures contre le chômage structurel.",
+          "statement_ar": "في منطقة ما يبلغ عدد السكان النشطين $500000$ شخص منهم $450000$ مشتغل.\n\n1. احسب عدد البطالين ومعدل البطالة.\n2. مهندس ترك عمله ويبحث عن عمل آخر لمدة شهرين: ما نوع البطالة؟\n3. اقترح إجراءين لمكافحة البطالة الهيكلية.",
+          "solution_fr": "1. Chômeurs : $500\\,000 - 450\\,000 = 50\\,000$ ; taux : $\\dfrac{50\\,000}{500\\,000} \\times 100 = 10\\,\\%$.\n\n2. Chômage **frictionnel**.\n\n3. Formation et reconversion adaptées aux besoins du marché ; aide à la mobilité ou à la création d'entreprises dans les secteurs porteurs.",
+          "solution_ar": "1. عدد البطالين: $500000 - 450000 = 50000$؛ المعدل: $\\dfrac{50000}{500000} \\times 100 = 10\\,\\%$.\n\n2. بطالة **احتكاكية**.\n\n3. التكوين وإعادة التأهيل وفق حاجات السوق؛ دعم التنقل أو إنشاء المؤسسات في القطاعات الواعدة."
+        }
+      ]
+    },
+    {
+      "title_fr": "La monnaie et les banques",
+      "title_ar": "النقود والبنوك",
+      "lessons": [
+        {
+          "title_fr": "Fonctions de la monnaie, banque centrale et banques commerciales",
+          "title_ar": "وظائف النقود، البنك المركزي والبنوك التجارية",
+          "body_fr": "## La monnaie\n\n**Fonctions** : intermédiaire des échanges, unité de compte (mesure des valeurs), réserve de valeur (épargne).\n\n**Formes** : monnaie fiduciaire (billets, pièces), monnaie scripturale (dépôts à vue, circulant par chèques, virements, cartes).\n\n**Masse monétaire** : quantité de monnaie en circulation, mesurée par des agrégats (M1 : monnaie fiduciaire + dépôts à vue ; M2 : M1 + dépôts à terme…).\n\n## La banque centrale (Banque d'Algérie)\n\n- Émission de la monnaie fiduciaire (monopole).\n- **Banque des banques** : refinancement, réserves obligatoires, contrôle.\n- **Banque de l'État** : gestion de certains comptes du Trésor, des réserves de change.\n- Conduite de la **politique monétaire** : taux directeur, réserves obligatoires, opérations d'open market.\n\n## Les banques commerciales\n\n- Collecter les dépôts, accorder des crédits, gérer les moyens de paiement.\n- **Création monétaire** : en accordant un crédit, la banque crée de la monnaie scripturale (« les crédits font les dépôts ») ; limitée par les réserves obligatoires et la demande de crédit.\n\n## Le taux d'intérêt\n\nPrix de l'argent prêté ; une hausse freine le crédit et la demande (lutte contre l'inflation), une baisse les stimule.",
+          "body_ar": "## النقود\n\n**وظائفها**: وسيط للمبادلات، وحدة للحساب (مقياس للقيم)، مخزن للقيمة (الادخار).\n\n**أشكالها**: النقود الورقية والمعدنية (القانونية)، والنقود الكتابية (الودائع الجارية، تتداول بالشيكات والتحويلات والبطاقات).\n\n**الكتلة النقدية**: كمية النقود المتداولة، وتقاس بمجمعات (M1: النقود القانونية + الودائع الجارية؛ M2: M1 + الودائع لأجل…).\n\n## البنك المركزي (بنك الجزائر)\n\n- إصدار النقود القانونية (احتكار).\n- **بنك البنوك**: إعادة التمويل، الاحتياطي الإجباري، الرقابة.\n- **بنك الدولة**: تسيير بعض حسابات الخزينة واحتياطي الصرف.\n- إدارة **السياسة النقدية**: سعر الفائدة المرجعي، الاحتياطي الإجباري، عمليات السوق المفتوحة.\n\n## البنوك التجارية\n\n- جمع الودائع، منح القروض، تسيير وسائل الدفع.\n- **خلق النقود**: عند منح قرض يخلق البنك نقودا كتابية («القروض تصنع الودائع»)، ويحدها الاحتياطي الإجباري والطلب على القروض.\n\n## سعر الفائدة\n\nثمن النقود المقرضة؛ رفعه يكبح القروض والطلب (مكافحة التضخم)، وخفضه ينشطهما."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Fonctions de la monnaie",
+          "title_ar": "وظائف النقود",
+          "points": 3,
+          "statement_fr": "1. Quelle fonction de la monnaie est illustrée dans chaque cas ? a) Un prix affiché en dinars ; b) Un salarié place une partie de son salaire sur un livret d'épargne ; c) Un client paie ses achats.\n2. Citer deux fonctions de la Banque d'Algérie.",
+          "statement_ar": "1. ما وظيفة النقود في كل حالة؟ أ) سعر معروض بالدينار؛ ب) عامل يدخر جزءا من أجره في دفتر توفير؛ ج) زبون يدفع ثمن مشترياته.\n2. اذكر وظيفتين لبنك الجزائر.",
+          "solution_fr": "1. a) Unité de compte ; b) réserve de valeur ; c) intermédiaire des échanges.\n\n2. Par exemple : émission de la monnaie ; banque des banques ; conduite de la politique monétaire.",
+          "solution_ar": "1. أ) وحدة للحساب؛ ب) مخزن للقيمة؛ ج) وسيط للمبادلات.\n\n2. مثلا: إصدار النقود؛ بنك البنوك؛ إدارة السياسة النقدية."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le commerce extérieur",
+      "title_ar": "التجارة الخارجية",
+      "lessons": [
+        {
+          "title_fr": "Balance commerciale, balance des paiements et politiques commerciales",
+          "title_ar": "الميزان التجاري، ميزان المدفوعات والسياسات التجارية",
+          "body_fr": "## Pourquoi échanger ?\n\nInégale répartition des ressources, différences de coûts de production (théories des avantages absolus d'Adam Smith et comparatifs de David Ricardo), recherche de débouchés.\n\n## Mesures\n\n- **Balance commerciale** : exportations ($X$) − importations ($M$) de marchandises. Excédentaire si $X > M$, déficitaire sinon.\n- **Taux de couverture** $= \\dfrac{X}{M} \\times 100$.\n- **Balance des paiements** : document qui enregistre l'ensemble des opérations d'un pays avec l'étranger pendant une période : compte courant (biens, services, revenus, transferts) et compte de capital et financier.\n\n## Politiques\n\n- **Libre-échange** : suppression des obstacles (droits de douane, quotas) ; favorise la concurrence et la spécialisation.\n- **Protectionnisme** : droits de douane, contingents, normes ; protège les industries naissantes et l'emploi.\n\n## Le cas algérien\n\nLes exportations reposent très majoritairement sur les **hydrocarbures** : les recettes dépendent fortement des prix mondiaux du pétrole et du gaz. D'où l'objectif de **diversification** des exportations hors hydrocarbures.",
+          "body_ar": "## لماذا التبادل؟\n\nتوزيع غير متساو للموارد، اختلاف تكاليف الإنتاج (نظرية الميزة المطلقة لآدم سميث والميزة النسبية لدافيد ريكاردو)، البحث عن الأسواق.\n\n## المقاييس\n\n- **الميزان التجاري**: الصادرات ($X$) − الواردات ($M$) من السلع. فائض إذا كان $X > M$ وعجز في الحالة المعاكسة.\n- **نسبة التغطية** $= \\dfrac{X}{M} \\times 100$.\n- **ميزان المدفوعات**: وثيقة تسجل كل عمليات البلد مع الخارج خلال فترة: الحساب الجاري (السلع، الخدمات، المداخيل، التحويلات) وحساب رأس المال والحساب المالي.\n\n## السياسات\n\n- **حرية التجارة**: إزالة العوائق (الحقوق الجمركية، الحصص)، تشجع المنافسة والتخصص.\n- **الحماية**: الحقوق الجمركية، الحصص، المعايير؛ تحمي الصناعات الناشئة ومناصب الشغل.\n\n## حالة الجزائر\n\nتعتمد الصادرات في غالبيتها الساحقة على **المحروقات**، فترتبط المداخيل بشدة بأسعار النفط والغاز العالمية، ومن هنا هدف **تنويع** الصادرات خارج المحروقات."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Lire une balance commerciale",
+          "title_ar": "قراءة الميزان التجاري",
+          "points": 3,
+          "statement_fr": "Exportations : $35$ milliards de dollars, dont $33$ milliards d'hydrocarbures. Importations : $38$ milliards de dollars.\n\n1. Calculer le solde de la balance commerciale et le taux de couverture.\n2. Calculer la part des hydrocarbures dans les exportations.\n3. Quel risque cette structure fait-elle peser sur l'économie ?",
+          "statement_ar": "الصادرات: $35$ مليار دولار منها $33$ مليار من المحروقات. الواردات: $38$ مليار دولار.\n\n1. احسب رصيد الميزان التجاري ونسبة التغطية.\n2. احسب حصة المحروقات من الصادرات.\n3. ما الخطر الذي يمثله هذا الهيكل على الاقتصاد؟",
+          "solution_fr": "1. Solde : $35 - 38 = -3$ milliards (déficit) ; couverture : $\\dfrac{35}{38} \\times 100 \\approx 92\\,\\%$.\n\n2. $\\dfrac{33}{35} \\times 100 \\approx 94\\,\\%$.\n\n3. Une forte dépendance aux prix mondiaux des hydrocarbures : une baisse des prix réduit fortement les recettes en devises.",
+          "solution_ar": "1. الرصيد: $35 - 38 = -3$ مليار (عجز)؛ نسبة التغطية: $\\dfrac{35}{38} \\times 100 \\approx 92\\,\\%$.\n\n2. $\\dfrac{33}{35} \\times 100 \\approx 94\\,\\%$.\n\n3. تبعية كبيرة لأسعار المحروقات العالمية: انخفاض الأسعار يقلص بشدة المداخيل من العملة الصعبة."
+        }
+      ]
+    }
+  ]
+}

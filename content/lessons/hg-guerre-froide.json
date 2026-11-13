@@ -1,0 +1,30 @@
+{
+  "key": "hg-guerre-froide",
+  "subject": "HG",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Histoire : le monde au temps de la bipolarité (guerre froide)",
+      "title_ar": "التاريخ: تطور العالم في ظل الثنائية القطبية (الحرب الباردة)",
+      "lessons": [
+        {
+          "title_fr": "La guerre froide, 1947-1991",
+          "title_ar": "الحرب الباردة 1947-1991",
+          "body_fr": "## Définitions\n\n- **Guerre froide** : affrontement indirect (idéologique, politique, économique, militaire par alliés interposés) entre les États-Unis et l'URSS, sans guerre directe entre eux.\n- **Bipolarité** : division du monde en deux blocs, libéral (capitaliste) et socialiste (communiste).\n- **Coexistence pacifique** : ligne proposée par Khrouchtchev en 1956 : rivalité sans affrontement direct.\n- **Détente** (الانفراج) : période de baisse des tensions et d'accords (années 1960-1970).\n\n## Repères chronologiques\n\n| Date | Événement |\n|---|---|\n| 1947 | Doctrine Truman (endiguement) et plan Marshall ; doctrine Jdanov en réponse |\n| 1948-1949 | Blocus de Berlin |\n| 1949 | Création de l'OTAN |\n| 1950-1953 | Guerre de Corée |\n| 1955 | Pacte de Varsovie |\n| 1961 | Construction du mur de Berlin |\n| 1962 | Crise des missiles de Cuba |\n| 1963 | « Téléphone rouge » entre Washington et Moscou |\n| 1979 | Intervention soviétique en Afghanistan |\n| 9 novembre 1989 | Chute du mur de Berlin |\n| Décembre 1991 | Dissolution de l'URSS : fin de la bipolarité |\n\n## Les phases\n\n1. **1947-1953 : naissance et tension maximale** — formation des blocs, crises de Berlin et de Corée.\n2. **1953-1962 : coexistence pacifique et crises** — après la mort de Staline ; course aux armements et à l'espace ; crise de Cuba.\n3. **1962-1979 : détente** — accords de limitation des armements.\n4. **1979-1991 : reprise des tensions puis effondrement du bloc de l'Est**.\n\n## Lien avec le tiers-monde\n\nLes deux blocs cherchent des alliés parmi les pays nouvellement indépendants ; en réponse naît le **mouvement des non-alignés** (Bandung 1955, Belgrade 1961), auquel l'Algérie indépendante participe activement.\n\n## Conseil pour l'épreuve\n\nApprendre les définitions mot à mot et savoir situer chaque événement dans sa phase : ce sont les questions les plus fréquentes de la partie « connaissances ».",
+          "body_ar": "## المفاهيم\n\n- **الحرب الباردة**: صراع غير مباشر (إيديولوجي، سياسي، اقتصادي، عسكري عن طريق الحلفاء) بين الولايات المتحدة والاتحاد السوفياتي دون مواجهة عسكرية مباشرة بينهما.\n- **الثنائية القطبية**: انقسام العالم إلى كتلتين: رأسمالية (ليبرالية) واشتراكية (شيوعية).\n- **التعايش السلمي**: سياسة اقترحها خروتشوف سنة 1956 تقوم على التنافس دون مواجهة مباشرة.\n- **الانفراج الدولي**: مرحلة تراجع التوتر وإبرام الاتفاقيات (الستينيات والسبعينيات).\n\n## معالم تاريخية\n\n| التاريخ | الحدث |\n|---|---|\n| 1947 | مبدأ ترومان (الاحتواء) ومشروع مارشال، ويرد عليهما مبدأ جدانوف |\n| 1948-1949 | حصار برلين |\n| 1949 | تأسيس الحلف الأطلسي |\n| 1950-1953 | الحرب الكورية |\n| 1955 | حلف وارسو |\n| 1961 | بناء جدار برلين |\n| 1962 | أزمة الصواريخ في كوبا |\n| 1963 | «الخط الأحمر» بين واشنطن وموسكو |\n| 1979 | التدخل السوفياتي في أفغانستان |\n| 9 نوفمبر 1989 | سقوط جدار برلين |\n| ديسمبر 1991 | تفكك الاتحاد السوفياتي ونهاية الثنائية القطبية |\n\n## المراحل\n\n1. **1947-1953: النشأة وذروة التوتر** — تشكل الكتلتين، أزمتا برلين وكوريا.\n2. **1953-1962: التعايش السلمي والأزمات** — بعد وفاة ستالين؛ سباق التسلح والفضاء؛ أزمة كوبا.\n3. **1962-1979: الانفراج** — اتفاقيات الحد من التسلح.\n4. **1979-1991: عودة التوتر ثم انهيار الكتلة الشرقية**.\n\n## العلاقة بالعالم الثالث\n\nسعت الكتلتان إلى كسب الدول حديثة الاستقلال، فظهرت **حركة عدم الانحياز** (باندونغ 1955، بلغراد 1961) التي شاركت فيها الجزائر المستقلة بفعالية.\n\n## نصيحة للامتحان\n\nاحفظ التعاريف بدقة، واعرف موقع كل حدث ضمن مرحلته: فهي من أكثر أسئلة الجزء المعرفي تكرارا."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Définitions et repères",
+          "title_ar": "مفاهيم ومعالم",
+          "points": 6,
+          "statement_fr": "1. Définir : bipolarité ; coexistence pacifique.\n2. Situer dans le temps : création de l'OTAN ; construction du mur de Berlin ; dissolution de l'URSS.\n3. Expliquer en quelques lignes pourquoi la crise de Cuba (1962) a conduit à la détente.",
+          "statement_ar": "1. عرّف: الثنائية القطبية؛ التعايش السلمي.\n2. أرّخ: تأسيس الحلف الأطلسي؛ بناء جدار برلين؛ تفكك الاتحاد السوفياتي.\n3. اشرح في أسطر لماذا أدت أزمة كوبا (1962) إلى الانفراج الدولي.",
+          "solution_fr": "1. **Bipolarité** : division du monde, après 1945, en deux blocs dirigés par les États-Unis et l'URSS. **Coexistence pacifique** : politique proposée par Khrouchtchev en 1956, fondée sur la rivalité sans affrontement militaire direct.\n\n2. OTAN : 1949 ; mur de Berlin : 1961 ; dissolution de l'URSS : décembre 1991.\n\n3. En 1962, l'installation de missiles soviétiques à Cuba amène le monde au bord de la guerre nucléaire. Les deux Grands mesurent le danger : ils installent le « téléphone rouge » (1963) et engagent des accords de limitation des armements, début de la détente.",
+          "solution_ar": "1. **الثنائية القطبية**: انقسام العالم بعد 1945 إلى كتلتين تتزعمهما الولايات المتحدة والاتحاد السوفياتي. **التعايش السلمي**: سياسة اقترحها خروتشوف سنة 1956 تقوم على التنافس دون مواجهة عسكرية مباشرة.\n\n2. الحلف الأطلسي: 1949؛ جدار برلين: 1961؛ تفكك الاتحاد السوفياتي: ديسمبر 1991.\n\n3. سنة 1962 أوصل نصب صواريخ سوفياتية في كوبا العالم إلى حافة حرب نووية، فأدرك العملاقان الخطر: أقاما «الخط الأحمر» (1963) وشرعا في اتفاقيات الحد من التسلح، فكانت بداية الانفراج."
+        }
+      ]
+    }
+  ]
+}

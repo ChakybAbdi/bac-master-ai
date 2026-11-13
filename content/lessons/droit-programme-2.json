@@ -1,0 +1,53 @@
+{
+  "key": "droit-programme-2",
+  "subject": "DROIT",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "La relation de travail (le contrat de travail)",
+      "title_ar": "علاقة العمل (عقد العمل)",
+      "lessons": [
+        {
+          "title_fr": "Le contrat de travail selon la loi 90-11",
+          "title_ar": "عقد العمل حسب القانون 90-11",
+          "body_fr": "## Le texte de référence\n\nLa **loi n° 90-11 du 21 avril 1990** relative aux relations de travail, modifiée et complétée.\n\n## Définition et éléments\n\nLa relation de travail lie un **travailleur** et un **employeur**. Ses éléments :\n\n1. **La prestation de travail** fournie par le travailleur.\n2. **La rémunération** (salaire) versée par l'employeur.\n3. **Le lien de subordination** : le travailleur exécute son travail sous l'autorité et le contrôle de l'employeur. C'est ce lien qui distingue le salarié de l'entrepreneur indépendant.\n\n## Types\n\n- **Contrat à durée indéterminée** (CDI) : la règle.\n- **Contrat à durée déterminée** (CDD) : seulement dans les cas prévus par la loi (travaux temporaires, remplacement d'un travailleur absent, travaux saisonniers…).\n- Une **période d'essai** peut être prévue.\n\n## Droits et obligations\n\n- **Travailleur** : droits (salaire, repos, congés, sécurité sociale, hygiène et sécurité, formation, droit syndical et de grève dans le cadre de la loi) ; obligations (exécuter le travail avec soin, respecter le règlement intérieur et les instructions, discrétion professionnelle).\n- **Employeur** : payer le salaire, assurer la sécurité, déclarer le travailleur à la sécurité sociale, respecter la durée légale du travail.\n\n## Suspension et fin\n\n**Suspension** (maladie, congé de maternité, service national…) sans rupture du contrat. **Fin** : arrivée du terme (CDD), démission, licenciement (selon les procédures légales), retraite, décès.",
+          "body_ar": "## النص المرجعي\n\n**القانون رقم 90-11 المؤرخ في 21 أفريل 1990** المتعلق بعلاقات العمل، المعدل والمتمم.\n\n## التعريف والعناصر\n\nتربط علاقة العمل بين **العامل** و**صاحب العمل**، وعناصرها:\n\n1. **أداء العمل** من طرف العامل.\n2. **الأجر** الذي يدفعه صاحب العمل.\n3. **التبعية**: ينفذ العامل عمله تحت سلطة صاحب العمل ورقابته، وهي التي تميز الأجير عن المقاول المستقل.\n\n## الأنواع\n\n- **عقد العمل غير محدد المدة**: هو الأصل.\n- **عقد العمل محدد المدة**: في الحالات التي يحددها القانون فقط (أشغال مؤقتة، استخلاف عامل غائب، أشغال موسمية…).\n- يمكن النص على **فترة تجريبية**.\n\n## الحقوق والواجبات\n\n- **العامل**: حقوقه (الأجر، الراحة، العطل، الضمان الاجتماعي، الوقاية الصحية والأمن، التكوين، الحق النقابي والإضراب في إطار القانون)؛ وواجباته (أداء العمل بعناية، احترام النظام الداخلي والتعليمات، كتمان السر المهني).\n- **صاحب العمل**: دفع الأجر، ضمان الأمن، التصريح بالعامل لدى الضمان الاجتماعي، احترام المدة القانونية للعمل.\n\n## التعليق والانتهاء\n\n**تعليق** علاقة العمل (المرض، عطلة الأمومة، الخدمة الوطنية…) دون فسخها. **الانتهاء**: انقضاء الأجل (العقد المحدد المدة)، الاستقالة، التسريح (وفق الإجراءات القانونية)، التقاعد، الوفاة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Salarié ou indépendant ?",
+          "title_ar": "أجير أم مستقل؟",
+          "points": 3,
+          "statement_fr": "Karim travaille chaque jour dans un atelier, aux horaires fixés par le propriétaire, qui lui donne des instructions et lui verse $40\\,000$ DA par mois.\n\n1. Quels sont les éléments de la relation de travail présents ici ?\n2. Quel élément permet d'affirmer que Karim est salarié ?\n3. Citer deux obligations de l'employeur.",
+          "statement_ar": "يعمل كريم يوميا في ورشة وفق مواقيت يحددها المالك الذي يعطيه التعليمات ويدفع له $40000$ دج شهريا.\n\n1. ما عناصر علاقة العمل المتوفرة هنا؟\n2. ما العنصر الذي يسمح بالقول إن كريم أجير؟\n3. اذكر التزامين لصاحب العمل.",
+          "solution_fr": "1. La prestation de travail (le travail à l'atelier), la rémunération ($40\\,000$ DA par mois) et le lien de subordination (horaires et instructions imposés).\n\n2. Le **lien de subordination**.\n\n3. Payer le salaire ; le déclarer à la sécurité sociale (aussi : assurer sa sécurité, respecter la durée légale du travail).",
+          "solution_ar": "1. أداء العمل (العمل في الورشة)، الأجر ($40000$ دج شهريا)، والتبعية (المواقيت والتعليمات المفروضة).\n\n2. عنصر **التبعية**.\n\n3. دفع الأجر؛ التصريح به لدى الضمان الاجتماعي (وكذلك: ضمان أمنه، احترام المدة القانونية للعمل)."
+        }
+      ]
+    },
+    {
+      "title_fr": "Les sociétés commerciales",
+      "title_ar": "الشركات التجارية",
+      "lessons": [
+        {
+          "title_fr": "SNC, SARL, EURL et SPA",
+          "title_ar": "شركة التضامن، ذات المسؤولية المحدودة، ذات الشخص الوحيد، والمساهمة",
+          "body_fr": "## Le contrat de société\n\nDeux ou plusieurs personnes mettent en commun des **apports** (en numéraire, en nature, en industrie) en vue de partager le **bénéfice** ou de profiter de l'économie qui en résulte, et s'engagent à contribuer aux **pertes**. La société acquiert la **personnalité morale** à son immatriculation au registre du commerce.\n\n## Sociétés de personnes\n\n**Société en nom collectif (SNC)** : les associés ont la qualité de **commerçants** et répondent **indéfiniment et solidairement** des dettes sociales ; les parts ne sont cessibles qu'avec le consentement de tous ; fondée sur la confiance personnelle (*intuitu personae*).\n\n## Sociétés à caractère mixte\n\n**Société à responsabilité limitée (SARL)** : la responsabilité des associés est **limitée à leurs apports** ; le capital est divisé en **parts sociales** dont la cession à des tiers est encadrée ; elle est dirigée par un ou plusieurs **gérants**.\n\n**EURL** : SARL constituée par une **seule personne**.\n\n## Sociétés de capitaux\n\n**Société par actions (SPA)** : capital divisé en **actions** librement négociables ; responsabilité des actionnaires limitée à leurs apports ; au moins **sept actionnaires** ; administrée par un conseil d'administration (ou un directoire et un conseil de surveillance) ; l'assemblée générale prend les grandes décisions.\n\n## Choisir une forme\n\nCritères : nombre d'associés, montant des capitaux nécessaires, degré de responsabilité accepté, facilité de cession des parts.",
+          "body_ar": "## عقد الشركة\n\nيتفق شخصان أو أكثر على تقديم **حصص** (نقدية، عينية، عمل) بهدف اقتسام **الربح** أو تحقيق اقتصاد، ويتحملون **الخسائر**. تكتسب الشركة **الشخصية المعنوية** بقيدها في السجل التجاري.\n\n## شركات الأشخاص\n\n**شركة التضامن**: للشركاء صفة **التاجر**، ويسألون **مسؤولية غير محدودة وتضامنية** عن ديون الشركة؛ لا تنتقل الحصص إلا بموافقة جميع الشركاء؛ تقوم على الاعتبار الشخصي.\n\n## الشركات المختلطة\n\n**الشركة ذات المسؤولية المحدودة**: مسؤولية الشركاء **محدودة بقيمة حصصهم**؛ رأس المال مقسم إلى **حصص** يخضع التنازل عنها للغير لشروط؛ يسيرها **مسير** أو أكثر.\n\n**المؤسسة ذات الشخص الوحيد وذات المسؤولية المحدودة**: شركة ذات مسؤولية محدودة يؤسسها **شخص واحد**.\n\n## شركات الأموال\n\n**شركة المساهمة**: رأس المال مقسم إلى **أسهم** قابلة للتداول بحرية؛ مسؤولية المساهمين محدودة بقيمة أسهمهم؛ **سبعة مساهمين** على الأقل؛ يديرها مجلس إدارة (أو مجلس مديرين ومجلس مراقبة)؛ وتتخذ الجمعية العامة القرارات الكبرى.\n\n## اختيار الشكل\n\nالمعايير: عدد الشركاء، حجم رأس المال اللازم، درجة المسؤولية المقبولة، سهولة التنازل عن الحصص."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Quelle responsabilité ?",
+          "title_ar": "أي مسؤولية؟",
+          "points": 3,
+          "statement_fr": "Une société a des dettes de $3\\,000\\,000$ DA mais ne possède que $1\\,000\\,000$ DA. Ali y a apporté $200\\,000$ DA.\n\n1. Ali risque-t-il de payer les dettes sur ses biens personnels si la société est une SNC ? Et si c'est une SARL ?\n2. Quelle forme de société exige au moins sept associés ?",
+          "statement_ar": "على شركة ديون قدرها $3000000$ دج ولا تملك إلا $1000000$ دج، وقد قدم فيها علي حصة $200000$ دج.\n\n1. هل يمكن مطالبة علي بالديون من أمواله الخاصة إذا كانت الشركة شركة تضامن؟ وإذا كانت ذات مسؤولية محدودة؟\n2. ما شكل الشركة الذي يشترط سبعة شركاء على الأقل؟",
+          "solution_fr": "1. **SNC** : oui, ses biens personnels peuvent être saisis, car les associés répondent indéfiniment et solidairement des dettes. **SARL** : non, il ne perd au plus que son apport de $200\\,000$ DA.\n\n2. La **société par actions** (SPA).",
+          "solution_ar": "1. **شركة التضامن**: نعم، يمكن التنفيذ على أمواله الخاصة لأن الشركاء مسؤولون مسؤولية غير محدودة وتضامنية. **ذات المسؤولية المحدودة**: لا، لا يخسر إلا حصته البالغة $200000$ دج.\n\n2. **شركة المساهمة**."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "gest-amortissement",
+  "subject": "GEST",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Travaux de fin d'exercice : l'amortissement linéaire",
+      "title_ar": "أعمال نهاية الدورة: الاهتلاك الثابت (الخطي)",
+      "lessons": [
+        {
+          "title_fr": "L'amortissement linéaire selon le SCF",
+          "title_ar": "الاهتلاك الخطي حسب النظام المحاسبي المالي",
+          "body_fr": "## Définition\n\nL'**amortissement** constate la consommation des avantages économiques d'une immobilisation (usure, temps, progrès technique) sur sa **durée d'utilité**. En fin d'exercice, l'entreprise enregistre une **dotation**.\n\n## Vocabulaire\n\n- **Valeur d'origine (VO)** : coût d'acquisition (prix d'achat hors taxes récupérables + frais nécessaires à la mise en service).\n- **Base amortissable** : VO diminuée de la valeur résiduelle éventuelle (souvent nulle dans les exercices).\n- **Durée d'utilité** $n$ ; **taux** $t = \\dfrac{100}{n}\\,\\%$.\n- **Annuité** : $a = \\text{base} \\times t$.\n- **Valeur nette comptable (VNC)** : $\\text{VO} - \\text{cumul des amortissements}$.\n\n## Le prorata temporis\n\nLa première année, l'annuité est calculée à partir de la date de mise en service : $a_1 = \\text{VO} \\times t \\times \\dfrac{m}{12}$, où $m$ est le nombre de mois d'utilisation dans l'exercice. La dernière annuité complète le reste.\n\n## Le plan d'amortissement\n\n| Année | Base | Annuité | Cumul | VNC |\n|---|---|---|---|---|\n\nOn le remplit ligne par ligne : cumul = cumul précédent + annuité ; VNC = VO − cumul.\n\n## L'écriture d'inventaire\n\n| Débit | Crédit | Libellé |\n|---|---|---|\n| 681 Dotations aux amortissements, provisions et pertes de valeur – actifs non courants | | |\n| | 28x Amortissement de l'immobilisation concernée (par exemple 2815 pour les installations techniques, 28182 pour le matériel de transport) | Dotation de l'exercice |\n\n## Points d'attention\n\n- Les terrains ne s'amortissent pas.\n- Le compte 28x vient en **diminution** de l'actif au bilan : on présente la VO, les amortissements cumulés et la VNC.\n- La dotation est une **charge** du compte de résultat.",
+          "body_ar": "## التعريف\n\n**الاهتلاك** هو إثبات استهلاك المنافع الاقتصادية لتثبيت (الاستعمال، الزمن، التطور التقني) على مدى **مدة منفعته**. في نهاية الدورة تسجل المؤسسة **مخصصا**.\n\n## المصطلحات\n\n- **القيمة الأصلية (VO)**: تكلفة الحيازة (ثمن الشراء خارج الرسوم القابلة للاسترجاع + المصاريف الضرورية للوضع في الخدمة).\n- **القيمة القابلة للاهتلاك**: القيمة الأصلية ناقص القيمة المتبقية إن وجدت (غالبا معدومة في التمارين).\n- **مدة المنفعة** $n$؛ **المعدل** $t = \\dfrac{100}{n}\\,\\%$.\n- **القسط السنوي**: $a = \\text{القيمة القابلة للاهتلاك} \\times t$.\n- **القيمة المحاسبية الصافية (VNC)**: القيمة الأصلية − مجموع الاهتلاكات.\n\n## قاعدة التناسب الزمني\n\nفي السنة الأولى يحسب القسط ابتداء من تاريخ الوضع في الخدمة: $a_1 = \\text{VO} \\times t \\times \\dfrac{m}{12}$ حيث $m$ عدد أشهر الاستعمال خلال الدورة، والقسط الأخير يكمل الباقي.\n\n## جدول الاهتلاك\n\n| السنة | القيمة القابلة للاهتلاك | القسط | مجموع الاهتلاكات | القيمة الصافية |\n|---|---|---|---|---|\n\nيملأ سطرا بسطر: المجموع = المجموع السابق + القسط؛ القيمة الصافية = القيمة الأصلية − المجموع.\n\n## قيد الجرد\n\n| مدين | دائن | البيان |\n|---|---|---|\n| 681 مخصصات الاهتلاكات والمؤونات وخسائر القيمة – الأصول غير الجارية | | |\n| | 28x اهتلاك التثبيت المعني (مثلا 2815 للمنشآت التقنية، 28182 لمعدات النقل) | مخصص الدورة |\n\n## ملاحظات\n\n- الأراضي لا تهتلك.\n- يظهر الحساب 28x **مطروحا** من الأصول في الميزانية: نعرض القيمة الأصلية ومجموع الاهتلاكات والقيمة الصافية.\n- المخصص **عبء** في حساب النتائج."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Plan d'amortissement d'une machine",
+          "title_ar": "جدول اهتلاك آلة",
+          "points": 5,
+          "statement_fr": "Le 1er avril 2024, une entreprise met en service une machine (installation technique) acquise pour $600\\,000$ DA hors taxes. Durée d'utilité : 5 ans, amortissement linéaire, valeur résiduelle nulle. L'exercice coïncide avec l'année civile.\n\n1. Calculer le taux et l'annuité constante.\n2. Calculer la dotation de 2024.\n3. Présenter les deux premières lignes du plan d'amortissement.\n4. Passer l'écriture d'inventaire au 31/12/2025.",
+          "statement_ar": "في 1 أفريل 2024 وضعت مؤسسة في الخدمة آلة (منشأة تقنية) اشترتها بـ $600000$ دج خارج الرسم. مدة المنفعة 5 سنوات، اهتلاك خطي، القيمة المتبقية معدومة. الدورة المحاسبية تطابق السنة المدنية.\n\n1. احسب المعدل والقسط السنوي الثابت.\n2. احسب مخصص سنة 2024.\n3. قدم السطرين الأولين من جدول الاهتلاك.\n4. سجل قيد الجرد بتاريخ 31/12/2025.",
+          "solution_fr": "1. $t = \\dfrac{100}{5} = 20\\,\\%$ ; annuité $= 600\\,000 \\times 20\\,\\% = 120\\,000$ DA.\n\n2. 2024 : 9 mois (avril à décembre) : $120\\,000 \\times \\dfrac{9}{12} = 90\\,000$ DA.\n\n3.\n\n| Année | Base | Annuité | Cumul | VNC |\n|---|---|---|---|---|\n| 2024 | 600 000 | 90 000 | 90 000 | 510 000 |\n| 2025 | 600 000 | 120 000 | 210 000 | 390 000 |\n\n4. Au 31/12/2025 : débit **681** Dotations aux amortissements… $120\\,000$ ; crédit **2815** Amortissement des installations techniques $120\\,000$.",
+          "solution_ar": "1. $t = \\dfrac{100}{5} = 20\\,\\%$؛ القسط $= 600000 \\times 20\\,\\% = 120000$ دج.\n\n2. سنة 2024: 9 أشهر (من أفريل إلى ديسمبر): $120000 \\times \\dfrac{9}{12} = 90000$ دج.\n\n3.\n\n| السنة | القيمة القابلة للاهتلاك | القسط | المجموع | القيمة الصافية |\n|---|---|---|---|---|\n| 2024 | 600000 | 90000 | 90000 | 510000 |\n| 2025 | 600000 | 120000 | 210000 | 390000 |\n\n4. بتاريخ 31/12/2025: من حـ/ **681** مخصصات الاهتلاكات... $120000$ إلى حـ/ **2815** اهتلاك المنشآت التقنية $120000$."
+        }
+      ]
+    }
+  ]
+}

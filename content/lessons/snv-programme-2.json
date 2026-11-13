@@ -1,0 +1,99 @@
+{
+  "key": "snv-programme-2",
+  "subject": "SNV",
+  "streams": ["SE", "M"],
+  "chapters": [
+    {
+      "title_fr": "Structure et fonction des protéines : l'activité enzymatique",
+      "title_ar": "العلاقة بين بنية ووظيفة البروتين: النشاط الإنزيمي",
+      "lessons": [
+        {
+          "title_fr": "Les enzymes, catalyseurs biologiques",
+          "title_ar": "الإنزيمات وسائط حيوية",
+          "body_fr": "## Structure d'une protéine\n\nUne protéine est une chaîne d'**acides aminés** liés par des liaisons peptidiques. Sa structure **tridimensionnelle** (spatiale), stabilisée par des liaisons entre les radicaux (ponts disulfure, liaisons ioniques, hydrogène, hydrophobes), conditionne sa fonction.\n\n## L'enzyme\n\n- Protéine qui **accélère** une réaction biologique sans être consommée.\n- **Site actif** : petite région de l'enzyme, de forme complémentaire au substrat, formé d'acides aminés de fixation et d'acides aminés catalytiques.\n- Formation d'un **complexe enzyme-substrat** : $E + S \\to ES \\to E + P$.\n\n## Double spécificité\n\n- **De substrat** : l'enzyme ne reconnaît qu'un substrat (complémentarité de forme).\n- **D'action** : elle catalyse un seul type de réaction.\n\n## Facteurs de l'activité\n\n- **Température** : activité maximale à la température optimale (vers $37\\,°C$ chez l'Homme) ; à basse température l'enzyme est inactivée (réversible), à haute température elle est **dénaturée** (irréversible : perte de la structure spatiale).\n- **pH** : chaque enzyme a un pH optimal (pepsine gastrique : pH acide ; amylase salivaire : pH proche de la neutralité). Un pH extrême modifie l'ionisation des radicaux du site actif.\n- **Concentration du substrat** : la vitesse initiale augmente puis atteint un plateau (saturation des sites actifs).\n\n## Méthode d'analyse de documents\n\nDécrire la courbe (valeurs chiffrées), l'interpréter (relation structure-fonction), conclure.",
+          "body_ar": "## بنية البروتين\n\nالبروتين سلسلة من **الأحماض الأمينية** مرتبطة بروابط بيبتيدية. تحدد **بنيته الفراغية** (ثلاثية الأبعاد)، التي تثبتها روابط بين الجذور (جسور ثنائية الكبريت، روابط شاردية، هيدروجينية، كارهة للماء)، وظيفته.\n\n## الإنزيم\n\n- بروتين **يسرع** تفاعلا حيويا دون أن يستهلك.\n- **الموقع الفعال**: منطقة صغيرة من الإنزيم، شكلها مكمل لشكل مادة التفاعل، تتكون من أحماض أمينية للتثبيت وأحماض أمينية للتحفيز.\n- تشكل **معقد إنزيم-مادة التفاعل**: $E + S \\to ES \\to E + P$.\n\n## التخصص المزدوج\n\n- **تجاه مادة التفاعل**: لا يتعرف الإنزيم إلا على مادة تفاعل واحدة (تكامل بنيوي).\n- **تجاه نوع التفاعل**: يحفز نوعا واحدا من التفاعلات.\n\n## العوامل المؤثرة\n\n- **درجة الحرارة**: نشاط أعظمي عند الدرجة المثلى (حوالي $37\\,°C$ عند الإنسان)؛ يتثبط الإنزيم في الحرارة المنخفضة (عكوس)، و**يتخرب** في الحرارة المرتفعة (غير عكوس: فقدان البنية الفراغية).\n- **pH**: لكل إنزيم pH أمثل (البيبسين المعدي: وسط حمضي؛ الأميلاز اللعابي: قريب من التعادل). pH متطرف يغير حالة تأين جذور الموقع الفعال.\n- **تركيز مادة التفاعل**: تزداد السرعة الابتدائية ثم تثبت (تشبع المواقع الفعالة).\n\n## طريقة تحليل الوثائق\n\nصف المنحنى (بقيم مرقمة)، فسره (العلاقة بين البنية والوظيفة)، ثم استنتج."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Effet de la température",
+          "title_ar": "تأثير درجة الحرارة",
+          "points": 4,
+          "statement_fr": "On mesure l'activité d'une enzyme digestive humaine : nulle à $0\\,°C$, maximale à $37\\,°C$, nulle à $70\\,°C$. On ramène ensuite les deux tubes à $37\\,°C$ : l'activité réapparaît dans le tube venant de $0\\,°C$, pas dans celui venant de $70\\,°C$.\n\n1. Analyser ces résultats.\n2. Expliquer la différence entre les deux tubes ramenés à $37\\,°C$.",
+          "statement_ar": "نقيس نشاط إنزيم هضمي عند الإنسان: منعدم عند $0\\,°C$، أعظمي عند $37\\,°C$، منعدم عند $70\\,°C$. نعيد بعد ذلك الأنبوبين إلى $37\\,°C$: يعود النشاط في الأنبوب القادم من $0\\,°C$ ولا يعود في القادم من $70\\,°C$.\n\n1. حلل هذه النتائج.\n2. فسر الاختلاف بين الأنبوبين المعادين إلى $37\\,°C$.",
+          "solution_fr": "1. L'activité dépend de la température : elle est maximale à la température optimale ($37\\,°C$) et nulle aux températures extrêmes.\n\n2. À $0\\,°C$, l'enzyme est seulement **inactivée** (mouvements moléculaires trop faibles pour former le complexe enzyme-substrat) : c'est réversible. À $70\\,°C$, elle est **dénaturée** : sa structure spatiale, donc la forme de son site actif, est détruite de façon irréversible.",
+          "solution_ar": "1. يتعلق النشاط بدرجة الحرارة: يكون أعظميا عند الدرجة المثلى ($37\\,°C$) ومنعدما عند الدرجات المتطرفة.\n\n2. عند $0\\,°C$ يكون الإنزيم **مثبطا** فقط (الحركة الجزيئية ضعيفة لا تسمح بتشكل معقد إنزيم-مادة التفاعل)، وهو أمر عكوس. وعند $70\\,°C$ **يتخرب** الإنزيم: تتلف بنيته الفراغية وبالتالي شكل موقعه الفعال بشكل غير عكوس."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le rôle des protéines dans la défense de l'organisme (immunité)",
+      "title_ar": "دور البروتينات في الدفاع عن الذات (المناعة)",
+      "lessons": [
+        {
+          "title_fr": "Soi, non-soi et réponses immunitaires spécifiques",
+          "title_ar": "الذات واللاذات والاستجابة المناعية النوعية",
+          "body_fr": "## Soi et non-soi\n\nLe **soi** est défini par des marqueurs membranaires, en particulier les molécules du **CMH** (HLA chez l'Homme), propres à chaque individu. Le **non-soi** porte des **antigènes** reconnus comme étrangers.\n\n## Réponse non spécifique\n\nRéaction inflammatoire et **phagocytose** (macrophages, granulocytes) : rapide, quel que soit l'antigène.\n\n## Réponse spécifique\n\n1. **Présentation** : le macrophage (cellule présentatrice) présente des fragments de l'antigène associés au CMH.\n2. **Sélection clonale** : seuls les lymphocytes portant le récepteur complémentaire de l'antigène sont activés.\n3. **Coopération** : les **LT4** activés sécrètent des **interleukines** qui stimulent la multiplication et la différenciation des LB et des LT8.\n\n**Réponse à médiation humorale** : les **LB** se différencient en **plasmocytes** qui sécrètent des **anticorps** (immunoglobulines en forme de Y, deux sites de fixation). L'anticorps se lie à l'antigène : **complexe immun**, neutralisé puis éliminé par phagocytose. Efficace contre les antigènes libres (toxines, bactéries).\n\n**Réponse à médiation cellulaire** : les **LT8** deviennent des **LTc** (cytotoxiques) qui reconnaissent les cellules infectées (antigène + CMH) et les détruisent (perforine). Efficace contre les cellules infectées par un virus et les cellules cancéreuses.\n\n## Mémoire immunitaire\n\nDes cellules mémoire (LB et LT) permettent une **réponse secondaire** plus rapide et plus intense : principe de la vaccination.\n\n## Le VIH\n\nIl infecte les LT4 ; leur diminution affaiblit les deux réponses spécifiques (SIDA).",
+          "body_ar": "## الذات واللاذات\n\nتتحدد **الذات** بمؤشرات غشائية، لا سيما جزيئات **CMH** (HLA عند الإنسان) الخاصة بكل فرد. يحمل **اللاذات** **مستضدات** يتعرف عليها الجسم كغريبة.\n\n## الاستجابة غير النوعية\n\nالتفاعل الالتهابي و**البلعمة** (البالعات الكبيرة، المحببات): سريعة ومهما كان المستضد.\n\n## الاستجابة النوعية\n\n1. **العرض**: تعرض البالعة (خلية عارضة) أجزاء من المستضد مرتبطة بـ CMH.\n2. **الانتقاء اللمي**: لا تنشط إلا اللمفاويات الحاملة للمستقبل المكمل للمستضد.\n3. **التعاون**: تفرز **LT4** المنشطة **الأنترلوكينات** التي تحفز تكاثر وتمايز LB و LT8.\n\n**الاستجابة ذات الوساطة الخلطية**: تتمايز **LB** إلى **خلايا بلازمية** تفرز **الأجسام المضادة** (غلوبيلينات مناعية على شكل Y بموقعي تثبيت). يرتبط الجسم المضاد بالمستضد مشكلا **معقدا مناعيا** يبطل مفعوله ثم يقضى عليه بالبلعمة. فعالة ضد المستضدات الحرة (السموم، البكتيريا).\n\n**الاستجابة ذات الوساطة الخلوية**: تتحول **LT8** إلى **LTc** (سامة) تتعرف على الخلايا المصابة (مستضد + CMH) وتخربها (البرفورين). فعالة ضد الخلايا المصابة بالفيروس والخلايا السرطانية.\n\n## الذاكرة المناعية\n\nتسمح خلايا الذاكرة (LB و LT) باستجابة **ثانوية** أسرع وأقوى، وهو مبدأ التلقيح.\n\n## فيروس فقدان المناعة (VIH)\n\nيصيب LT4، فيؤدي نقصها إلى إضعاف الاستجابتين النوعيتين (السيدا)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Vaccination",
+          "title_ar": "التلقيح",
+          "points": 4,
+          "statement_fr": "Après une première injection d'anatoxine tétanique, le taux d'anticorps antitétaniques s'élève faiblement après une dizaine de jours. Une seconde injection, un mois plus tard, provoque une élévation rapide et beaucoup plus forte.\n\n1. Nommer les cellules qui produisent ces anticorps.\n2. Expliquer la différence entre les deux réponses.\n3. Pourquoi le rôle des LT4 est-il indispensable ?",
+          "statement_ar": "بعد حقنة أولى بالذيفان المعدل للكزاز، يرتفع تركيز الأجسام المضادة ارتفاعا ضعيفا بعد حوالي عشرة أيام. وتؤدي حقنة ثانية بعد شهر إلى ارتفاع سريع وأقوى بكثير.\n\n1. سمّ الخلايا المنتجة لهذه الأجسام المضادة.\n2. فسر الاختلاف بين الاستجابتين.\n3. لماذا يعتبر دور LT4 ضروريا؟",
+          "solution_fr": "1. Les **plasmocytes**, issus de la différenciation des lymphocytes B sélectionnés par l'antigène.\n\n2. La première injection déclenche une réponse primaire et la formation de **LB mémoire**. Lors de la seconde, ces cellules mémoire, plus nombreuses, se différencient rapidement en plasmocytes : réponse secondaire plus rapide et plus intense.\n\n3. Les LT4 activés sécrètent les interleukines nécessaires à la multiplication et à la différenciation des LB : sans eux, la réponse humorale reste très faible.",
+          "solution_ar": "1. **الخلايا البلازمية** الناتجة عن تمايز اللمفاويات B المنتقاة من طرف المستضد.\n\n2. تؤدي الحقنة الأولى إلى استجابة أولية وتشكل **خلايا LB ذاكرة**. وعند الحقنة الثانية تتمايز هذه الخلايا الأكثر عددا بسرعة إلى خلايا بلازمية: استجابة ثانوية أسرع وأقوى.\n\n3. تفرز LT4 المنشطة الأنترلوكينات الضرورية لتكاثر وتمايز LB، وبدونها تبقى الاستجابة الخلطية ضعيفة جدا."
+        }
+      ]
+    },
+    {
+      "title_fr": "La communication nerveuse",
+      "title_ar": "الاتصال العصبي",
+      "lessons": [
+        {
+          "title_fr": "Potentiel de repos, potentiel d'action et synapse",
+          "title_ar": "كمون الراحة، كمون العمل والمشبك",
+          "body_fr": "## Potentiel de repos\n\nAu repos, la membrane du neurone est **polarisée** : environ $-70\\,mV$ (intérieur négatif). Il est dû à l'inégale répartition des ions ($Na^+$ plus concentré à l'extérieur, $K^+$ à l'intérieur), maintenue par la **pompe $Na^+/K^+$** (consomme de l'ATP), et à une perméabilité au repos surtout au $K^+$.\n\n## Potentiel d'action\n\nUne stimulation d'intensité **au moins égale au seuil** déclenche :\n\n1. **Dépolarisation** : ouverture des canaux $Na^+$ voltage-dépendants, entrée massive de $Na^+$ (jusqu'à environ $+30\\,mV$).\n2. **Repolarisation** : fermeture des canaux $Na^+$, ouverture des canaux $K^+$, sortie de $K^+$.\n3. **Hyperpolarisation** transitoire, puis retour au repos.\n\nLe potentiel d'action obéit à la **loi du tout ou rien** sur une fibre isolée : son amplitude ne dépend pas de l'intensité. L'information est codée par la **fréquence** des potentiels d'action.\n\n## La synapse chimique\n\n1. Le potentiel d'action arrive à la terminaison présynaptique : entrée de $Ca^{2+}$.\n2. **Exocytose** du neurotransmetteur (par exemple l'acétylcholine) dans la fente synaptique.\n3. Fixation sur des **récepteurs** de la membrane postsynaptique : ouverture de canaux ioniques.\n4. **PPSE** (dépolarisation, synapse excitatrice) ou **PPSI** (hyperpolarisation, synapse inhibitrice).\n5. Inactivation du neurotransmetteur (enzyme, par exemple l'acétylcholinestérase) ou recapture.\n\nLe neurone postsynaptique **intègre** les messages : sommation **spatiale** (plusieurs synapses) et **temporelle** (stimulations rapprochées). Si le potentiel global atteint le seuil, un potentiel d'action naît.\n\nCertaines substances (drogues, médicaments) agissent en mimant ou en bloquant le neurotransmetteur.",
+          "body_ar": "## كمون الراحة\n\nفي حالة الراحة يكون غشاء العصبون **مستقطبا**: حوالي $-70\\,mV$ (الداخل سالب). ويعود ذلك إلى التوزيع غير المتساوي للشوارد ($Na^+$ أكثر تركيزا في الخارج و $K^+$ في الداخل) الذي تحافظ عليه **مضخة $Na^+/K^+$** (تستهلك ATP)، وإلى نفاذية الغشاء في الراحة خاصة للـ $K^+$.\n\n## كمون العمل\n\nيؤدي تنبيه شدته **تساوي العتبة على الأقل** إلى:\n\n1. **زوال الاستقطاب**: انفتاح قنوات $Na^+$ المرتبطة بالفولطية ودخول كثيف لـ $Na^+$ (حتى حوالي $+30\\,mV$).\n2. **عودة الاستقطاب**: انغلاق قنوات $Na^+$ وانفتاح قنوات $K^+$ وخروج $K^+$.\n3. **فرط استقطاب** عابر ثم العودة إلى الراحة.\n\nيخضع كمون العمل في الليف المعزول لـ**قانون الكل أو اللاشيء**: سعته لا تتعلق بشدة التنبيه. وترمز الرسالة بـ**تواتر** كمونات العمل.\n\n## المشبك الكيميائي\n\n1. يصل كمون العمل إلى النهاية قبل المشبكية: دخول $Ca^{2+}$.\n2. **إطراح** المبلغ العصبي (مثل الأستيل كولين) في الشق المشبكي.\n3. تثبته على **مستقبلات** الغشاء بعد المشبكي: انفتاح قنوات شاردية.\n4. **PPSE** (زوال استقطاب، مشبك منبه) أو **PPSI** (فرط استقطاب، مشبك مثبط).\n5. إبطال مفعول المبلغ (إنزيم مثل الأستيل كولين أستيراز) أو استرجاعه.\n\nيقوم العصبون بعد المشبكي **بالإدماج**: تجميع **فضائي** (عدة مشابك) و**زمني** (تنبيهات متقاربة). إذا بلغ الكمون الإجمالي العتبة ينشأ كمون عمل.\n\nتؤثر بعض المواد (المخدرات، الأدوية) بمحاكاة المبلغ العصبي أو بمنع عمله."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Interpréter un potentiel d'action",
+          "title_ar": "تفسير كمون عمل",
+          "points": 4,
+          "statement_fr": "Un enregistrement sur un axone montre : $-70\\,mV$ au repos ; après stimulation, passage rapide à $+30\\,mV$, retour à $-80\\,mV$, puis à $-70\\,mV$. Avec une tétrodotoxine (TTX), qui bloque les canaux $Na^+$, aucune variation n'apparaît.\n\n1. Nommer les phases de l'enregistrement.\n2. Que montre l'expérience avec la TTX ?\n3. Que se passe-t-il si l'on double l'intensité de la stimulation (au-dessus du seuil) ?",
+          "statement_ar": "يظهر تسجيل على محور عصبي: $-70\\,mV$ في الراحة؛ بعد التنبيه انتقال سريع إلى $+30\\,mV$، ثم العودة إلى $-80\\,mV$ ثم إلى $-70\\,mV$. في وجود التيترودوتوكسين (TTX) الذي يغلق قنوات $Na^+$ لا يظهر أي تغير.\n\n1. سمّ مراحل التسجيل.\n2. ماذا تبين التجربة بـ TTX؟\n3. ماذا يحدث إذا ضاعفنا شدة التنبيه (فوق العتبة)؟",
+          "solution_fr": "1. Potentiel de repos ($-70\\,mV$), dépolarisation (jusqu'à $+30\\,mV$), repolarisation, hyperpolarisation ($-80\\,mV$), retour au repos.\n\n2. La dépolarisation est due à l'entrée de $Na^+$ par des canaux spécifiques : s'ils sont bloqués, aucun potentiel d'action ne naît.\n\n3. Sur une fibre isolée, l'amplitude reste la même (loi du tout ou rien) ; c'est la **fréquence** des potentiels d'action qui augmente pour une stimulation prolongée.",
+          "solution_ar": "1. كمون الراحة ($-70\\,mV$)، زوال الاستقطاب (حتى $+30\\,mV$)، عودة الاستقطاب، فرط الاستقطاب ($-80\\,mV$)، العودة إلى الراحة.\n\n2. ينتج زوال الاستقطاب عن دخول $Na^+$ عبر قنوات خاصة؛ عند غلقها لا ينشأ كمون عمل.\n\n3. في الليف المعزول تبقى السعة نفسها (قانون الكل أو اللاشيء)، بينما يزداد **تواتر** كمونات العمل في حالة تنبيه مستمر."
+        }
+      ]
+    },
+    {
+      "title_fr": "Les transformations énergétiques : photosynthèse et respiration",
+      "title_ar": "التحولات الطاقوية: التركيب الضوئي والتنفس",
+      "lessons": [
+        {
+          "title_fr": "De l'énergie lumineuse à l'ATP",
+          "title_ar": "من الطاقة الضوئية إلى ATP",
+          "body_fr": "## La photosynthèse (chloroplaste)\n\nBilan : $6\\,CO_2 + 12\\,H_2O \\xrightarrow{\\text{lumière}} C_6H_{12}O_6 + 6\\,O_2 + 6\\,H_2O$.\n\n**Phase claire** (membranes des **thylakoïdes**, besoin de lumière) : les pigments (chlorophylles) captent la lumière ; **photolyse de l'eau** : $2\\,H_2O \\to O_2 + 4\\,H^+ + 4\\,e^-$ (l'$O_2$ dégagé provient de l'eau) ; production d'**ATP** et de **NADPH,H⁺** (transporteur réduit).\n\n**Phase sombre** (**stroma**, n'utilise pas directement la lumière) : **cycle de Calvin** : fixation du $CO_2$ sur le **RuDP** (ribulose diphosphate) par la Rubisco, formation d'**APG**, réduction en glucides grâce à l'ATP et au NADPH,H⁺, régénération du RuDP.\n\nLes deux phases sont couplées : à l'obscurité, l'ATP et le NADPH,H⁺ s'épuisent et la fixation du $CO_2$ s'arrête.\n\n## La respiration (cytoplasme puis mitochondrie)\n\n1. **Glycolyse** (hyaloplasme) : glucose $\\to$ 2 pyruvates, gain net de 2 ATP et 2 NADH,H⁺.\n2. **Cycle de Krebs** (matrice mitochondriale) : oxydation complète du pyruvate en $CO_2$, production de transporteurs réduits.\n3. **Chaîne respiratoire** (membrane interne) : les transporteurs réduits sont réoxydés, l'$O_2$ est l'accepteur final d'électrons (formation d'eau) ; l'énergie libérée permet la synthèse de la majorité de l'ATP (phosphorylation oxydative).\n\nBilan : $C_6H_{12}O_6 + 6\\,O_2 \\to 6\\,CO_2 + 6\\,H_2O$ + environ 36 à 38 ATP.\n\n## La fermentation\n\nSans $O_2$ : glycolyse seule, puis réduction du pyruvate (fermentation alcoolique : éthanol + $CO_2$ ; lactique : acide lactique). Rendement faible : **2 ATP** par glucose.",
+          "body_ar": "## التركيب الضوئي (الصانعة الخضراء)\n\nالحصيلة: $6\\,CO_2 + 12\\,H_2O \\xrightarrow{\\text{ضوء}} C_6H_{12}O_6 + 6\\,O_2 + 6\\,H_2O$.\n\n**المرحلة الكيموضوئية** (أغشية **التيلاكويدات**، تتطلب الضوء): تلتقط الصبغات (اليخضور) الضوء؛ **التحلل الضوئي للماء**: $2\\,H_2O \\to O_2 + 4\\,H^+ + 4\\,e^-$ (مصدر $O_2$ المنطلق هو الماء)؛ إنتاج **ATP** و **NADPH,H⁺** (نواقل مرجعة).\n\n**المرحلة الكيموحيوية** (**الحشوة**، لا تستعمل الضوء مباشرة): **حلقة كالفن**: تثبيت $CO_2$ على **RuDP** (ريبولوز ثنائي الفوسفات) بواسطة الريبيسكو، تشكل **APG**، إرجاعه إلى سكريات بفضل ATP و NADPH,H⁺، وتجديد RuDP.\n\nالمرحلتان متكاملتان: في الظلام ينفد ATP و NADPH,H⁺ ويتوقف تثبيت $CO_2$.\n\n## التنفس (الهيولى ثم الميتوكوندري)\n\n1. **التحلل السكري** (الهيولى): غلوكوز $\\to$ 2 حمض البيروفيك، بربح صاف 2 ATP و 2 NADH,H⁺.\n2. **حلقة كريبس** (مادة أساس الميتوكوندري): أكسدة كلية للبيروفات إلى $CO_2$ وإنتاج نواقل مرجعة.\n3. **السلسلة التنفسية** (الغشاء الداخلي): تعاد أكسدة النواقل، و $O_2$ هو المستقبل الأخير للإلكترونات (تشكل الماء)؛ تسمح الطاقة المحررة بتركيب أغلب ATP (الفسفرة التأكسدية).\n\nالحصيلة: $C_6H_{12}O_6 + 6\\,O_2 \\to 6\\,CO_2 + 6\\,H_2O$ + حوالي 36 إلى 38 ATP.\n\n## التخمر\n\nفي غياب $O_2$: التحلل السكري فقط ثم إرجاع البيروفات (تخمر كحولي: إيثانول + $CO_2$؛ لبني: حمض اللبن). مردود ضعيف: **2 ATP** لكل جزيئة غلوكوز."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Origine de l'oxygène",
+          "title_ar": "مصدر الأكسجين",
+          "points": 3,
+          "statement_fr": "On éclaire des algues placées dans de l'eau marquée à l'oxygène 18 ($H_2{}^{18}O$) avec du $CO_2$ ordinaire : l'$O_2$ dégagé est marqué. Avec de l'eau ordinaire et du $C{}^{18}O_2$, l'$O_2$ dégagé n'est pas marqué.\n\n1. Quelle est l'origine de l'$O_2$ dégagé ?\n2. Dans quelle structure et au cours de quelle phase est-il produit ?\n3. Écrire la réaction correspondante.",
+          "statement_ar": "نضيء طحالب موضوعة في ماء موسوم بالأكسجين 18 ($H_2{}^{18}O$) مع $CO_2$ عادي: الأكسجين المنطلق موسوم. ومع ماء عادي و $C{}^{18}O_2$ لا يكون الأكسجين المنطلق موسوما.\n\n1. ما مصدر $O_2$ المنطلق؟\n2. في أي بنية وخلال أي مرحلة ينتج؟\n3. اكتب التفاعل الموافق.",
+          "solution_fr": "1. L'$O_2$ provient de l'**eau**, pas du $CO_2$.\n\n2. Dans les membranes des thylakoïdes du chloroplaste, pendant la phase claire.\n\n3. Photolyse de l'eau : $2\\,H_2O \\to O_2 + 4\\,H^+ + 4\\,e^-$.",
+          "solution_ar": "1. مصدر $O_2$ هو **الماء** وليس $CO_2$.\n\n2. في أغشية تيلاكويدات الصانعة الخضراء، خلال المرحلة الكيموضوئية.\n\n3. التحلل الضوئي للماء: $2\\,H_2O \\to O_2 + 4\\,H^+ + 4\\,e^-$."
+        }
+      ]
+    }
+  ]
+}

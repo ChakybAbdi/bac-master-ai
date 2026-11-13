@@ -1,0 +1,53 @@
+{
+  "key": "fr-programme-3",
+  "subject": "FR",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Le résumé de texte",
+      "title_ar": "تلخيص النص",
+      "lessons": [
+        {
+          "title_fr": "Réduire un texte au quart en gardant son sens",
+          "title_ar": "اختصار النص إلى ربعه مع الحفاظ على معناه",
+          "body_fr": "## Ce que l'on attend\n\nLe résumé réduit un texte (souvent au **quart** de sa longueur, avec une marge de $\\pm 10\\,\\%$) en **respectant l'ordre des idées et le système d'énonciation** de l'auteur. On ne commente pas, on ne donne pas son avis, on n'ajoute rien.\n\n## Différence avec le compte rendu\n\nDans le **compte rendu**, on rapporte le texte à la troisième personne en nommant l'auteur (« L'auteur affirme que… ») ; dans le **résumé**, on parle à la place de l'auteur (« je » s'il dit « je »).\n\n## Méthode\n\n1. **Lire** le texte plusieurs fois ; repérer le thème, la thèse, le type de texte.\n2. **Découper** en paragraphes logiques à l'aide des connecteurs (d'abord, mais, ainsi, en effet…).\n3. **Dégager l'idée essentielle** de chaque paragraphe ; supprimer les exemples, les répétitions, les citations, les détails.\n4. **Reformuler** avec ses propres mots : remplacer une énumération par un terme générique, une proposition par un nom (nominalisation).\n5. **Relier** les idées par des connecteurs qui montrent la logique du texte.\n6. **Compter** les mots et indiquer le total à la fin.\n\n## Erreurs fréquentes\n\nRecopier des phrases du texte, changer l'ordre des idées, oublier la thèse, ajouter une opinion, dépasser la longueur demandée.",
+          "body_ar": "*ملخص بالعربية؛ الدرس المرجعي باللغة الفرنسية.*\n\n## المطلوب\n\nالتلخيص (le résumé) يختصر النص (غالبا إلى **ربعه** مع هامش $\\pm 10\\,\\%$) مع **احترام ترتيب الأفكار ونظام التلفظ** عند الكاتب. لا نعلق ولا نبدي رأينا ولا نضيف شيئا.\n\n## الفرق مع المحضر (le compte rendu)\n\nفي المحضر ننقل النص بضمير الغائب مع ذكر الكاتب («يؤكد الكاتب أن...»)؛ أما في التلخيص فنتكلم مكان الكاتب (بضمير المتكلم إذا استعمله).\n\n## الطريقة\n\n1. قراءة النص عدة مرات وتحديد الموضوع والأطروحة ونمط النص.\n2. تقسيمه إلى فقرات منطقية بالاعتماد على أدوات الربط.\n3. استخراج الفكرة الأساسية لكل فقرة وحذف الأمثلة والتكرار والاستشهادات والتفاصيل.\n4. إعادة الصياغة بأسلوب شخصي: تعويض التعداد بلفظ جامع، والجملة باسم (التسمية).\n5. الربط بين الأفكار بأدوات تبرز منطق النص.\n6. عد الكلمات وكتابة العدد في آخر التلخيص.\n\n## أخطاء شائعة\n\nنسخ جمل من النص، تغيير ترتيب الأفكار، إغفال الأطروحة، إضافة رأي، تجاوز الطول المطلوب."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Résumer un paragraphe argumentatif",
+          "title_ar": "تلخيص فقرة حجاجية",
+          "points": 5,
+          "statement_fr": "Résumez le paragraphe suivant (97 mots) au quart de sa longueur (environ 25 mots) :\n\n« Beaucoup pensent que la lecture est en train de disparaître, chassée par les écrans. Pourtant, il faut nuancer ce constat. D'abord, les jeunes lisent encore, mais autrement : ils parcourent des articles, des messages, des récits publiés en ligne. Ensuite, les tablettes et les liseuses permettent d'emporter des centaines de livres partout et à moindre coût. Enfin, les réseaux sociaux eux-mêmes servent parfois à recommander des romans et à créer des clubs de lecture. Ainsi, plutôt que de condamner le numérique, l'école devrait apprendre aux élèves à en faire un véritable outil de lecture. »",
+          "statement_ar": "لخّص الفقرة التالية (97 كلمة) إلى ربع طولها، أي حوالي 25 كلمة (النص بالفرنسية):\n\n« Beaucoup pensent que la lecture est en train de disparaître, chassée par les écrans. Pourtant, il faut nuancer ce constat. D'abord, les jeunes lisent encore, mais autrement : ils parcourent des articles, des messages, des récits publiés en ligne. Ensuite, les tablettes et les liseuses permettent d'emporter des centaines de livres partout et à moindre coût. Enfin, les réseaux sociaux eux-mêmes servent parfois à recommander des romans et à créer des clubs de lecture. Ainsi, plutôt que de condamner le numérique, l'école devrait apprendre aux élèves à en faire un véritable outil de lecture. »",
+          "solution_fr": "Proposition (texte d'environ 97 mots, quart : environ 25 mots, soit 22 à 27 mots) :\n\n« On croit les écrans fatals à la lecture ; or les jeunes lisent autrement, le numérique rend les livres accessibles et partageables. L'école doit donc l'exploiter. » (27 mots)\n\nCritères : thèse réfutée puis thèse défendue conservées ; trois arguments condensés en un seul énoncé ; exemples supprimés ; ordre respecté ; conclusion logique (« donc ») ; nombre de mots indiqué.",
+          "solution_ar": "اقتراح (النص حوالي 97 كلمة، ربعه حوالي 25 كلمة أي من 22 إلى 27 كلمة):\n\n« On croit les écrans fatals à la lecture ; or les jeunes lisent autrement, le numérique rend les livres accessibles et partageables. L'école doit donc l'exploiter. » (27 mots)\n\nمعايير التقييم: الحفاظ على الأطروحة المدحوضة ثم الأطروحة المدعمة؛ تكثيف الحجج الثلاث في عبارة واحدة؛ حذف الأمثلة؛ احترام الترتيب؛ خاتمة منطقية («donc»)؛ ذكر عدد الكلمات."
+        }
+      ]
+    },
+    {
+      "title_fr": "Grammaire du texte : connecteurs logiques et modalisation",
+      "title_ar": "نحو النص: أدوات الربط المنطقية والتعديل",
+      "lessons": [
+        {
+          "title_fr": "Exprimer la cause, la conséquence, l'opposition et la concession ; marquer son point de vue",
+          "title_ar": "التعبير عن السبب والنتيجة والتعارض والتنازل؛ إبراز وجهة النظر",
+          "body_fr": "## Les rapports logiques\n\n| Rapport | Connecteurs | Mode |\n|---|---|---|\n| Cause | parce que, puisque, comme, étant donné que, car, grâce à, à cause de | indicatif |\n| Conséquence | donc, c'est pourquoi, si bien que, de sorte que, si… que, par conséquent | indicatif |\n| But | pour que, afin que, de peur que | **subjonctif** |\n| Opposition | mais, cependant, pourtant, alors que, tandis que, au contraire | indicatif |\n| Concession | bien que, quoique | **subjonctif** ; même si (indicatif) ; malgré, en dépit de (+ nom) |\n| Addition | de plus, en outre, par ailleurs | — |\n\n**Opposition** : deux faits mis en contraste (« Il travaille alors que son frère dort »). **Concession** : on admet un fait mais la conséquence attendue ne se produit pas (« Bien qu'il soit malade, il travaille »).\n\n## La modalisation\n\nLes **modalisateurs** révèlent l'attitude de l'énonciateur à l'égard de ce qu'il dit :\n- certitude : sans doute, certainement, il est évident que ;\n- doute : peut-être, il semble que, sans doute (au sens de « probablement »), le conditionnel (« le séisme aurait fait 100 victimes ») ;\n- jugement : adjectifs et adverbes appréciatifs ou dépréciatifs (« un massacre odieux », « heureusement ») ;\n- guillemets de distance, ponctuation expressive.\n\nDans un texte argumentatif ou historique, relever les modalisateurs permet de dire si l'auteur est **objectif** ou **subjectif**.",
+          "body_ar": "*ملخص بالعربية؛ الدرس المرجعي باللغة الفرنسية.*\n\n## العلاقات المنطقية\n\n- **السبب**: parce que، puisque، comme، car، grâce à، à cause de (الفعل في صيغة الإخبار).\n- **النتيجة**: donc، c'est pourquoi، si bien que، de sorte que، par conséquent.\n- **الغاية**: pour que، afin que (الفعل في صيغة **الذاتية subjonctif**).\n- **التعارض**: mais، cependant، pourtant، alors que، tandis que.\n- **التنازل**: bien que، quoique (+ subjonctif)، même si (+ indicatif)، malgré (+ اسم).\n\n**التعارض** مقابلة واقعتين؛ **التنازل** قبول واقعة دون حصول نتيجتها المتوقعة.\n\n## التعديل (la modalisation)\n\nالمعدّلات تكشف موقف المتكلم مما يقول: اليقين (certainement، il est évident que)، الشك (peut-être، il semble que، صيغة الشرط conditionnel)، الحكم (صفات وظروف تقديرية أو تحقيرية)، علامات التنصيص والترقيم التعبيري. نعتمد عليها للحكم على موضوعية الكاتب أو ذاتيته."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Connecteurs et modalisateurs",
+          "title_ar": "أدوات الربط والمعدلات",
+          "points": 4,
+          "statement_fr": "1. Compléter avec le connecteur qui convient (bien que, si bien que, alors que, afin que) et conjuguer le verbe :\n   a) ___ la pluie (tomber), le match a eu lieu.\n   b) Il a beaucoup révisé, ___ il a réussi.\n   c) Le professeur répète ___ tous les élèves (comprendre).\n   d) Le Nord est pluvieux ___ le Sud est sec.\n2. Relever et classer les modalisateurs : « Selon certaines sources, l'armée aurait incendié le village ; ce crime odieux restera sans doute impuni. »",
+          "statement_ar": "1. أكمل بأداة الربط المناسبة (bien que، si bien que، alors que، afin que) وصرّف الفعل:\n   a) ___ la pluie (tomber), le match a eu lieu.\n   b) Il a beaucoup révisé, ___ il a réussi.\n   c) Le professeur répète ___ tous les élèves (comprendre).\n   d) Le Nord est pluvieux ___ le Sud est sec.\n2. استخرج المعدلات وصنفها: « Selon certaines sources, l'armée aurait incendié le village ; ce crime odieux restera sans doute impuni. »",
+          "solution_fr": "1. a) Bien que la pluie **tombe** (ou **soit tombée**), le match a eu lieu (concession, subjonctif).\n   b) …, si bien qu'il a réussi (conséquence).\n   c) … afin que tous les élèves **comprennent** (but, subjonctif).\n   d) … alors que le Sud est sec (opposition).\n\n2. Doute / distance : « Selon certaines sources », le conditionnel « aurait incendié ». Jugement dépréciatif : « crime », « odieux ». Probabilité : « sans doute ». L'énonciateur est subjectif.",
+          "solution_ar": "1. a) Bien que la pluie **tombe** (أو **soit tombée**)، le match a eu lieu (تنازل، subjonctif).\n   b) …، si bien qu'il a réussi (نتيجة).\n   c) … afin que tous les élèves **comprennent** (غاية، subjonctif).\n   d) … alors que le Sud est sec (تعارض).\n\n2. الشك / المسافة: «Selon certaines sources»، صيغة الشرط «aurait incendié». الحكم التحقيري: «crime»، «odieux». الاحتمال: «sans doute». المتكلم ذاتي."
+        }
+      ]
+    }
+  ]
+}

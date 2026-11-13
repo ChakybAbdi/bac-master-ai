@@ -1,0 +1,99 @@
+{
+  "key": "phys-programme-2",
+  "subject": "PHYS",
+  "streams": ["M", "SE", "TM"],
+  "chapters": [
+    {
+      "title_fr": "Suivi temporel d'une transformation chimique",
+      "title_ar": "المتابعة الزمنية لتحول كيميائي",
+      "lessons": [
+        {
+          "title_fr": "Avancement, vitesse et temps de demi-réaction",
+          "title_ar": "التقدم، السرعة وزمن نصف التفاعل",
+          "body_fr": "## Tableau d'avancement\n\nOn décrit l'évolution par l'**avancement** $x$ (en mol). L'avancement maximal $x_{max}$ correspond à la disparition du **réactif limitant**.\n\n## Méthodes de suivi\n\nDosage de prélèvements (après trempe), mesure de **conductance**, de **pH**, de **pression** ou de **volume** de gaz : on relie la grandeur mesurée à $x(t)$.\n\n## Vitesse\n\n- **Vitesse volumique de réaction** : $v = \\dfrac{1}{V}\\dfrac{dx}{dt}$ (mol·L⁻¹·s⁻¹). Graphiquement : coefficient directeur de la tangente à la courbe $x(t)$, divisé par $V$.\n- Elle **diminue** au cours du temps car les concentrations des réactifs diminuent.\n- Vitesse de disparition d'un réactif : $-\\dfrac{d[A]}{dt}$ ; d'apparition d'un produit : $\\dfrac{d[P]}{dt}$.\n\n## Temps de demi-réaction\n\n$t_{1/2}$ est la durée au bout de laquelle $x = \\dfrac{x_f}{2}$ (pour une réaction totale, $x_f = x_{max}$). On le lit sur la courbe $x(t)$.\n\n## Facteurs cinétiques\n\nLa **température** (agitation des molécules, chocs plus efficaces), la **concentration initiale** des réactifs et le **catalyseur** (accélère sans être consommé et sans changer l'état final).",
+          "body_ar": "## جدول التقدم\n\nنصف تطور الجملة بـ**التقدم** $x$ (بالمول). يوافق التقدم الأعظمي $x_{max}$ اختفاء **المتفاعل المحد**.\n\n## طرق المتابعة\n\nمعايرة عينات (بعد السقي)، قياس **الناقلية**، **pH**، **الضغط** أو **حجم** الغاز: نربط المقدار المقاس بـ $x(t)$.\n\n## السرعة\n\n- **السرعة الحجمية للتفاعل**: $v = \\dfrac{1}{V}\\dfrac{dx}{dt}$ (mol·L⁻¹·s⁻¹). بيانيا: معامل توجيه المماس للمنحنى $x(t)$ مقسوما على $V$.\n- **تتناقص** مع الزمن لأن تراكيز المتفاعلات تتناقص.\n- سرعة اختفاء متفاعل: $-\\dfrac{d[A]}{dt}$؛ سرعة تشكل ناتج: $\\dfrac{d[P]}{dt}$.\n\n## زمن نصف التفاعل\n\n$t_{1/2}$ هو المدة اللازمة لبلوغ التقدم $x = \\dfrac{x_f}{2}$ (في التفاعل التام $x_f = x_{max}$)، ويقرأ على المنحنى $x(t)$.\n\n## العوامل الحركية\n\n**درجة الحرارة** (زيادة الحركة والتصادمات الفعالة)، **التركيز الابتدائي** للمتفاعلات، و**الوسيط** (يسرع التفاعل دون أن يستهلك ودون أن يغير الحالة النهائية)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Lire une courbe x(t)",
+          "title_ar": "قراءة منحنى x(t)",
+          "points": 3,
+          "statement_fr": "Une réaction totale dans $V = 100\\,mL$ a pour avancement maximal $x_{max} = 4{,}0 \\times 10^{-3}$ mol. La courbe $x(t)$ montre que $x = 2{,}0 \\times 10^{-3}$ mol à $t = 6$ min, et la tangente à l'origine passe par le point $(4\\ min;\\ 3{,}0 \\times 10^{-3}\\ mol)$.\n\n1. Donner $t_{1/2}$.\n2. Calculer la vitesse volumique initiale.\n3. Comment évolue la vitesse ? Pourquoi ?",
+          "statement_ar": "تفاعل تام في حجم $V = 100\\,mL$ تقدمه الأعظمي $x_{max} = 4.0 \\times 10^{-3}$ mol. يبين المنحنى $x(t)$ أن $x = 2.0 \\times 10^{-3}$ mol عند $t = 6$ min، والمماس عند المبدأ يمر بالنقطة $(4\\ min;\\ 3.0 \\times 10^{-3}\\ mol)$.\n\n1. أعط $t_{1/2}$.\n2. احسب السرعة الحجمية الابتدائية.\n3. كيف تتطور السرعة؟ ولماذا؟",
+          "solution_fr": "1. $x_f/2 = 2{,}0 \\times 10^{-3}$ mol est atteint à $t_{1/2} = 6$ min.\n\n2. Pente à l'origine : $\\dfrac{3{,}0 \\times 10^{-3}}{4} = 7{,}5 \\times 10^{-4}$ mol/min ; $v_0 = \\dfrac{7{,}5 \\times 10^{-4}}{0{,}100} = 7{,}5 \\times 10^{-3}$ mol·L⁻¹·min⁻¹.\n\n3. Elle diminue, car les concentrations des réactifs diminuent au cours du temps.",
+          "solution_ar": "1. يبلغ $x_f/2 = 2.0 \\times 10^{-3}$ mol عند $t_{1/2} = 6$ min.\n\n2. ميل المماس عند المبدأ: $\\dfrac{3.0 \\times 10^{-3}}{4} = 7.5 \\times 10^{-4}$ mol/min؛ $v_0 = \\dfrac{7.5 \\times 10^{-4}}{0.100} = 7.5 \\times 10^{-3}$ mol·L⁻¹·min⁻¹.\n\n3. تتناقص لأن تراكيز المتفاعلات تتناقص مع الزمن."
+        }
+      ]
+    },
+    {
+      "title_fr": "Évolution d'un système électrique (dipôles RC et RL)",
+      "title_ar": "تطور جملة كهربائية (ثنائيا القطب RC و RL)",
+      "lessons": [
+        {
+          "title_fr": "Charge et décharge d'un condensateur, établissement du courant dans une bobine",
+          "title_ar": "شحن وتفريغ مكثفة، تأسيس التيار في وشيعة",
+          "body_fr": "## Le condensateur\n\n$q = C\\,u_C$ ; $i = \\dfrac{dq}{dt} = C\\dfrac{du_C}{dt}$ ; énergie stockée $E_C = \\frac{1}{2}C u_C^2$. La tension $u_C$ est **continue** (elle ne peut pas varier brusquement).\n\n## Charge sous tension $E$ (dipôle RC)\n\nLoi d'additivité : $RC\\dfrac{du_C}{dt} + u_C = E$. Solution : $u_C(t) = E\\left(1 - e^{-t/\\tau}\\right)$ avec $\\tau = RC$ (en s).\n\n- À $t = \\tau$ : $u_C = 0{,}63\\,E$ ; à $t = 5\\tau$ : charge pratiquement terminée.\n- Graphiquement, la tangente à l'origine coupe l'asymptote $u_C = E$ à $t = \\tau$.\n- $i(t) = \\dfrac{E}{R}e^{-t/\\tau}$.\n\n## Décharge\n\n$RC\\dfrac{du_C}{dt} + u_C = 0$ ; $u_C(t) = E\\,e^{-t/\\tau}$ ; à $t = \\tau$ : $u_C = 0{,}37\\,E$.\n\n## La bobine (dipôle RL)\n\n$u_L = L\\dfrac{di}{dt} + r\\,i$. Le **courant** est continu dans une bobine. Établissement : $i(t) = I_0\\left(1 - e^{-t/\\tau}\\right)$ avec $I_0 = \\dfrac{E}{R_{tot}}$ et $\\tau = \\dfrac{L}{R_{tot}}$. Énergie : $E_L = \\frac{1}{2}L i^2$.\n\n## Méthode\n\nÉcrire la loi des tensions, obtenir l'équation différentielle, vérifier la solution proposée en la remplaçant, puis identifier les constantes avec les conditions initiales.",
+          "body_ar": "## المكثفة\n\n$q = C\\,u_C$؛ $i = \\dfrac{dq}{dt} = C\\dfrac{du_C}{dt}$؛ الطاقة المخزنة $E_C = \\frac{1}{2}C u_C^2$. التوتر $u_C$ **مستمر** (لا يتغير فجأة).\n\n## الشحن تحت توتر $E$ (ثنائي القطب RC)\n\nقانون جمع التوترات: $RC\\dfrac{du_C}{dt} + u_C = E$. الحل: $u_C(t) = E\\left(1 - e^{-t/\\tau}\\right)$ حيث $\\tau = RC$ (بالثانية).\n\n- عند $t = \\tau$: $u_C = 0.63\\,E$؛ عند $t = 5\\tau$ ينتهي الشحن عمليا.\n- بيانيا: يقطع المماس عند المبدأ المستقيم المقارب $u_C = E$ عند $t = \\tau$.\n- $i(t) = \\dfrac{E}{R}e^{-t/\\tau}$.\n\n## التفريغ\n\n$RC\\dfrac{du_C}{dt} + u_C = 0$؛ $u_C(t) = E\\,e^{-t/\\tau}$؛ عند $t = \\tau$: $u_C = 0.37\\,E$.\n\n## الوشيعة (ثنائي القطب RL)\n\n$u_L = L\\dfrac{di}{dt} + r\\,i$. **التيار** مستمر في الوشيعة. التأسيس: $i(t) = I_0\\left(1 - e^{-t/\\tau}\\right)$ مع $I_0 = \\dfrac{E}{R_{tot}}$ و $\\tau = \\dfrac{L}{R_{tot}}$. الطاقة: $E_L = \\frac{1}{2}L i^2$.\n\n## الطريقة\n\nاكتب قانون جمع التوترات، استخرج المعادلة التفاضلية، تحقق من الحل المقترح بالتعويض، ثم عيّن الثوابت بالشروط الابتدائية."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Constante de temps d'un circuit RC",
+          "title_ar": "ثابت الزمن لدارة RC",
+          "points": 4,
+          "statement_fr": "Un condensateur de capacité $C = 10\\,\\mu F$ est chargé à travers $R = 2\\,k\\Omega$ sous $E = 12\\,V$.\n\n1. Calculer $\\tau$.\n2. Quelle est la tension $u_C$ à $t = \\tau$ ?\n3. Calculer l'énergie stockée en fin de charge.",
+          "statement_ar": "تشحن مكثفة سعتها $C = 10\\,\\mu F$ عبر ناقل أومي $R = 2\\,k\\Omega$ تحت توتر $E = 12\\,V$.\n\n1. احسب $\\tau$.\n2. ما هي قيمة $u_C$ عند $t = \\tau$؟\n3. احسب الطاقة المخزنة في نهاية الشحن.",
+          "solution_fr": "1. $\\tau = RC = 2 \\times 10^3 \\times 10 \\times 10^{-6} = 2 \\times 10^{-2}\\,s = 20\\,ms$.\n\n2. $u_C(\\tau) = 0{,}63 \\times 12 \\approx 7{,}6\\,V$.\n\n3. $E_C = \\frac{1}{2}CE^2 = \\frac{1}{2} \\times 10^{-5} \\times 144 = 7{,}2 \\times 10^{-4}\\,J$.",
+          "solution_ar": "1. $\\tau = RC = 2 \\times 10^3 \\times 10 \\times 10^{-6} = 2 \\times 10^{-2}\\,s = 20\\,ms$.\n\n2. $u_C(\\tau) = 0.63 \\times 12 \\approx 7.6\\,V$.\n\n3. $E_C = \\frac{1}{2}CE^2 = \\frac{1}{2} \\times 10^{-5} \\times 144 = 7.2 \\times 10^{-4}\\,J$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Évolution d'un système mécanique : lois de Newton",
+      "title_ar": "تطور جملة ميكانيكية: قوانين نيوتن",
+      "lessons": [
+        {
+          "title_fr": "Deuxième loi de Newton, chute verticale et satellites",
+          "title_ar": "القانون الثاني لنيوتن، السقوط الشاقولي والأقمار الاصطناعية",
+          "body_fr": "## Deuxième loi de Newton\n\nDans un référentiel galiléen : $\\sum \\vec{F}_{ext} = m\\,\\vec{a}_G$. Méthode : système, référentiel, bilan des forces, projection sur un axe.\n\n## Chute verticale avec frottement\n\nForces : poids $m\\vec{g}$, frottement $\\vec{f}$ opposé à la vitesse (souvent $f = kv$), poussée d'Archimède $\\pi = \\rho_{fluide} V g$ (souvent négligée dans l'air).\n\nAvec $f = kv$ et sans poussée : $m\\dfrac{dv}{dt} = mg - kv$, soit $\\dfrac{dv}{dt} + \\dfrac{k}{m}v = g$.\n\n- **Vitesse limite** : $\\dfrac{dv}{dt} = 0 \\Rightarrow v_{lim} = \\dfrac{mg}{k}$.\n- Solution : $v(t) = v_{lim}\\left(1 - e^{-t/\\tau}\\right)$, $\\tau = \\dfrac{m}{k}$.\n- Deux régimes : transitoire puis permanent.\n\n**Chute libre** (seul le poids) : $a = g$, $v = gt$, $z = \\frac{1}{2}gt^2$.\n\n## Satellites (orbite circulaire)\n\nForce de gravitation $F = G\\dfrac{Mm}{r^2}$, dirigée vers le centre de la Terre ; le mouvement est circulaire uniforme :\n\n- $v = \\sqrt{\\dfrac{GM}{r}}$ ; période $T = \\dfrac{2\\pi r}{v} = 2\\pi\\sqrt{\\dfrac{r^3}{GM}}$.\n- **Troisième loi de Kepler** : $\\dfrac{T^2}{r^3} = \\dfrac{4\\pi^2}{GM}$ (même valeur pour tous les satellites d'un même astre).\n- Satellite **géostationnaire** : orbite équatoriale, $T$ égale à la période de rotation de la Terre (environ $24\\,h$).\n\nAvec $r = R_T + h$ (altitude $h$).",
+          "body_ar": "## القانون الثاني لنيوتن\n\nفي مرجع غاليلي: $\\sum \\vec{F}_{ext} = m\\,\\vec{a}_G$. الطريقة: الجملة، المرجع، جرد القوى، الإسقاط على محور.\n\n## السقوط الشاقولي مع احتكاك\n\nالقوى: الثقل $m\\vec{g}$، قوة الاحتكاك $\\vec{f}$ عكس جهة السرعة (غالبا $f = kv$)، دافعة أرخميدس $\\pi = \\rho_{fluide} V g$ (تهمل غالبا في الهواء).\n\nمع $f = kv$ وبدون دافعة: $m\\dfrac{dv}{dt} = mg - kv$ أي $\\dfrac{dv}{dt} + \\dfrac{k}{m}v = g$.\n\n- **السرعة الحدية**: $\\dfrac{dv}{dt} = 0 \\Rightarrow v_{lim} = \\dfrac{mg}{k}$.\n- الحل: $v(t) = v_{lim}\\left(1 - e^{-t/\\tau}\\right)$ مع $\\tau = \\dfrac{m}{k}$.\n- نظامان: انتقالي ثم دائم.\n\n**السقوط الحر** (الثقل فقط): $a = g$، $v = gt$، $z = \\frac{1}{2}gt^2$.\n\n## الأقمار الاصطناعية (مدار دائري)\n\nقوة الجذب $F = G\\dfrac{Mm}{r^2}$ نحو مركز الأرض، والحركة دائرية منتظمة:\n\n- $v = \\sqrt{\\dfrac{GM}{r}}$؛ الدور $T = \\dfrac{2\\pi r}{v} = 2\\pi\\sqrt{\\dfrac{r^3}{GM}}$.\n- **القانون الثالث لكبلر**: $\\dfrac{T^2}{r^3} = \\dfrac{4\\pi^2}{GM}$ (نفس القيمة لكل أقمار نفس الكوكب).\n- القمر **الجيومستقر**: مداره في مستوي خط الاستواء ودوره يساوي دور دوران الأرض (حوالي $24\\,h$).\n\nمع $r = R_T + h$ ($h$ الارتفاع)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Vitesse limite d'une bille",
+          "title_ar": "السرعة الحدية لكرية",
+          "points": 4,
+          "statement_fr": "Une bille de masse $m = 20\\,g$ tombe verticalement dans un liquide. On néglige la poussée d'Archimède ; le frottement est $f = kv$ avec $k = 0{,}5\\,kg/s$. On prend $g = 10\\,m/s^2$.\n\n1. Établir l'équation différentielle vérifiée par $v$.\n2. Calculer la vitesse limite et la constante de temps.\n3. Quelle est l'accélération au départ ($v = 0$) ?",
+          "statement_ar": "تسقط كرية كتلتها $m = 20\\,g$ شاقوليا في سائل. نهمل دافعة أرخميدس، وقوة الاحتكاك $f = kv$ مع $k = 0.5\\,kg/s$. نأخذ $g = 10\\,m/s^2$.\n\n1. أوجد المعادلة التفاضلية التي تحققها $v$.\n2. احسب السرعة الحدية وثابت الزمن.\n3. ما هو التسارع عند الانطلاق ($v = 0$)؟",
+          "solution_fr": "1. $m\\dfrac{dv}{dt} = mg - kv \\Rightarrow \\dfrac{dv}{dt} + 25v = 10$ (car $\\frac{k}{m} = \\frac{0{,}5}{0{,}02} = 25\\,s^{-1}$).\n\n2. $v_{lim} = \\dfrac{mg}{k} = \\dfrac{0{,}02 \\times 10}{0{,}5} = 0{,}4\\,m/s$ ; $\\tau = \\dfrac{m}{k} = 0{,}04\\,s$.\n\n3. À $v = 0$ : $a_0 = g = 10\\,m/s^2$.",
+          "solution_ar": "1. $m\\dfrac{dv}{dt} = mg - kv \\Rightarrow \\dfrac{dv}{dt} + 25v = 10$ (لأن $\\frac{k}{m} = \\frac{0.5}{0.02} = 25\\,s^{-1}$).\n\n2. $v_{lim} = \\dfrac{mg}{k} = \\dfrac{0.02 \\times 10}{0.5} = 0.4\\,m/s$؛ $\\tau = \\dfrac{m}{k} = 0.04\\,s$.\n\n3. عند $v = 0$: $a_0 = g = 10\\,m/s^2$."
+        }
+      ]
+    },
+    {
+      "title_fr": "Évolution d'un système chimique vers l'équilibre : acides et bases",
+      "title_ar": "تطور جملة كيميائية نحو حالة التوازن: الأحماض والأسس",
+      "lessons": [
+        {
+          "title_fr": "pH, constante d'acidité et titrage",
+          "title_ar": "pH، ثابت الحموضة والمعايرة",
+          "body_fr": "## pH\n\n$pH = -\\log[H_3O^+]$, soit $[H_3O^+] = 10^{-pH}$. Produit ionique de l'eau à $25\\,°C$ : $K_e = [H_3O^+][HO^-] = 10^{-14}$.\n\n## Avancement final\n\nTaux d'avancement final $\\tau_f = \\dfrac{x_f}{x_{max}}$. Si $\\tau_f < 1$, la réaction est **limitée** : un état d'équilibre est atteint. Un acide **fort** réagit totalement avec l'eau ($pH = -\\log C$) ; un acide **faible**, partiellement.\n\n## Quotient de réaction et constante d'équilibre\n\nPour $AH + H_2O \\rightleftharpoons A^- + H_3O^+$ :\n\n$K_a = \\dfrac{[A^-]_{éq}[H_3O^+]_{éq}}{[AH]_{éq}}$, $pK_a = -\\log K_a$, et $pH = pK_a + \\log\\dfrac{[A^-]}{[AH]}$.\n\n**Domaines de prédominance** : si $pH < pK_a$, $AH$ prédomine ; si $pH > pK_a$, $A^-$ prédomine.\n\n## Titrage acido-basique\n\n- À l'**équivalence** : $C_a V_a = C_b V_{bE}$ (réactifs dans les proportions stœchiométriques).\n- Méthode des tangentes parallèles ou dérivée $\\dfrac{dpH}{dV}$ maximale pour repérer $V_{bE}$.\n- À la **demi-équivalence** d'un acide faible par une base forte : $pH = pK_a$.\n- Choix de l'indicateur coloré : sa zone de virage doit contenir le $pH$ à l'équivalence.",
+          "body_ar": "## pH\n\n$pH = -\\log[H_3O^+]$ أي $[H_3O^+] = 10^{-pH}$. الجداء الشاردي للماء عند $25\\,°C$: $K_e = [H_3O^+][HO^-] = 10^{-14}$.\n\n## التقدم النهائي\n\nنسبة التقدم النهائي $\\tau_f = \\dfrac{x_f}{x_{max}}$. إذا كان $\\tau_f < 1$ فالتفاعل **محدود** وتبلغ الجملة حالة توازن. الحمض **القوي** يتفاعل كليا مع الماء ($pH = -\\log C$)، و**الضعيف** جزئيا.\n\n## كسر التفاعل وثابت التوازن\n\nمن أجل $AH + H_2O \\rightleftharpoons A^- + H_3O^+$:\n\n$K_a = \\dfrac{[A^-]_{éq}[H_3O^+]_{éq}}{[AH]_{éq}}$، $pK_a = -\\log K_a$، و $pH = pK_a + \\log\\dfrac{[A^-]}{[AH]}$.\n\n**مجالات التغلب**: إذا كان $pH < pK_a$ يتغلب $AH$، وإذا كان $pH > pK_a$ يتغلب $A^-$.\n\n## المعايرة حمض-أساس\n\n- عند **التكافؤ**: $C_a V_a = C_b V_{bE}$ (المتفاعلات بالنسب الستوكيومترية).\n- طريقة المماسين المتوازيين أو القيمة العظمى للمشتقة $\\dfrac{dpH}{dV}$ لتحديد $V_{bE}$.\n- عند **نصف التكافؤ** (حمض ضعيف بأساس قوي): $pH = pK_a$.\n- اختيار الكاشف الملون: مجال تغيره اللوني يجب أن يحتوي pH التكافؤ."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Titrage de l'acide éthanoïque",
+          "title_ar": "معايرة حمض الإيثانويك",
+          "points": 4,
+          "statement_fr": "On titre $V_a = 20\\,mL$ d'acide éthanoïque par une solution de soude de concentration $C_b = 0{,}10\\,mol/L$. L'équivalence est obtenue pour $V_{bE} = 16\\,mL$, et à $V_b = 8\\,mL$ on lit $pH = 4{,}8$.\n\n1. Calculer la concentration $C_a$ de l'acide.\n2. En déduire le $pK_a$ du couple $CH_3COOH/CH_3COO^-$. Justifier.\n3. Quelle espèce prédomine à $pH = 6$ ?",
+          "statement_ar": "نعاير $V_a = 20\\,mL$ من حمض الإيثانويك بمحلول هيدروكسيد الصوديوم تركيزه $C_b = 0.10\\,mol/L$. نحصل على التكافؤ عند $V_{bE} = 16\\,mL$، وعند $V_b = 8\\,mL$ نقرأ $pH = 4.8$.\n\n1. احسب التركيز $C_a$ للحمض.\n2. استنتج $pK_a$ للثنائية $CH_3COOH/CH_3COO^-$. علل.\n3. ما هو النوع الكيميائي المتغلب عند $pH = 6$؟",
+          "solution_fr": "1. $C_a = \\dfrac{C_b V_{bE}}{V_a} = \\dfrac{0{,}10 \\times 16}{20} = 0{,}08\\,mol/L$.\n\n2. $V_b = 8\\,mL = \\frac{V_{bE}}{2}$ : demi-équivalence, où $[CH_3COOH] = [CH_3COO^-]$, donc $pH = pK_a = 4{,}8$.\n\n3. $pH = 6 > pK_a$ : l'ion éthanoate $CH_3COO^-$ prédomine.",
+          "solution_ar": "1. $C_a = \\dfrac{C_b V_{bE}}{V_a} = \\dfrac{0.10 \\times 16}{20} = 0.08\\,mol/L$.\n\n2. $V_b = 8\\,mL = \\frac{V_{bE}}{2}$: نصف التكافؤ حيث $[CH_3COOH] = [CH_3COO^-]$، إذن $pH = pK_a = 4.8$.\n\n3. $pH = 6 > pK_a$: تتغلب شاردة الإيثانوات $CH_3COO^-$."
+        }
+      ]
+    }
+  ]
+}

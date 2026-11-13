@@ -1,0 +1,30 @@
+{
+  "key": "math-statistiques-ge",
+  "subject": "MATH",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Statistiques à deux variables : ajustement linéaire",
+      "title_ar": "الإحصاء لمتغيرين: التعديل الخطي",
+      "lessons": [
+        {
+          "title_fr": "Nuage de points, point moyen et droite des moindres carrés",
+          "title_ar": "سحابة النقط، النقطة المتوسطة ومستقيم المربعات الدنيا",
+          "body_fr": "## Nuage de points et point moyen\n\nUne série $(x_i; y_i)$, $1 \\leqslant i \\leqslant n$, se représente par le nuage des points $M_i(x_i; y_i)$. Son **point moyen** est $G(\\bar{x}; \\bar{y})$ avec $\\bar{x} = \\dfrac{1}{n}\\sum x_i$ et $\\bar{y} = \\dfrac{1}{n}\\sum y_i$.\n\n## Variance et covariance\n\n$V(x) = \\dfrac{1}{n}\\sum(x_i - \\bar{x})^2 = \\dfrac{1}{n}\\sum x_i^2 - \\bar{x}^2$ ; $\\mathrm{cov}(x, y) = \\dfrac{1}{n}\\sum(x_i - \\bar{x})(y_i - \\bar{y}) = \\dfrac{1}{n}\\sum x_iy_i - \\bar{x}\\bar{y}$.\n\n## Droite de régression de $y$ en $x$ (moindres carrés)\n\n$$y = ax + b \\quad\\text{avec}\\quad a = \\dfrac{\\mathrm{cov}(x, y)}{V(x)}, \\quad b = \\bar{y} - a\\bar{x}.$$\nElle passe toujours par $G$.\n\n## Coefficient de corrélation linéaire\n\n$r = \\dfrac{\\mathrm{cov}(x, y)}{\\sigma_x\\sigma_y}$, avec $-1 \\leqslant r \\leqslant 1$. Si $|r|$ est proche de $1$ (en pratique $|r| \\geqslant 0{,}87$), l'ajustement affine est justifié.\n\n## Méthode de Mayer\n\nOn partage le nuage (rangé par $x$ croissants) en deux groupes de même effectif, on calcule les points moyens $G_1$ et $G_2$ : la droite $(G_1G_2)$ est la droite de Mayer ; elle passe aussi par $G$.\n\n## Prévision\n\nPour estimer $y$ à une valeur $x_0$ (par exemple le rang d'une année future), on calcule $ax_0 + b$. Pour savoir **à partir de quand** $y$ dépasse un seuil $s$, on résout $ax + b > s$ et on prend le premier rang entier qui convient.",
+          "body_ar": "## سحابة النقط والنقطة المتوسطة\n\nتمثل سلسلة $(x_i; y_i)$ ، $1 \\leqslant i \\leqslant n$ بسحابة النقط $M_i(x_i; y_i)$. **نقطتها المتوسطة** هي $G(\\bar{x}; \\bar{y})$ حيث $\\bar{x} = \\dfrac{1}{n}\\sum x_i$ و $\\bar{y} = \\dfrac{1}{n}\\sum y_i$.\n\n## التباين والتغاير\n\n$V(x) = \\dfrac{1}{n}\\sum(x_i - \\bar{x})^2 = \\dfrac{1}{n}\\sum x_i^2 - \\bar{x}^2$ ؛ $\\mathrm{cov}(x, y) = \\dfrac{1}{n}\\sum(x_i - \\bar{x})(y_i - \\bar{y}) = \\dfrac{1}{n}\\sum x_iy_i - \\bar{x}\\bar{y}$.\n\n## مستقيم انحدار $y$ بدلالة $x$ (المربعات الدنيا)\n\n$$y = ax + b \\quad\\text{حيث}\\quad a = \\dfrac{\\mathrm{cov}(x, y)}{V(x)}, \\quad b = \\bar{y} - a\\bar{x}.$$\nيشمل دائما النقطة $G$.\n\n## معامل الارتباط الخطي\n\n$r = \\dfrac{\\mathrm{cov}(x, y)}{\\sigma_x\\sigma_y}$ مع $-1 \\leqslant r \\leqslant 1$. إذا كان $|r|$ قريبا من $1$ (عمليا $|r| \\geqslant 0.87$) فإن التعديل الخطي مبرر.\n\n## طريقة ماير\n\nنقسم السحابة (مرتبة حسب $x$ تصاعديا) إلى مجموعتين لهما نفس العدد، ونحسب النقطتين المتوسطتين $G_1$ و $G_2$: المستقيم $(G_1G_2)$ هو مستقيم ماير؛ ويشمل أيضا $G$.\n\n## التقدير\n\nلتقدير $y$ عند قيمة $x_0$ (مثلا رتبة سنة مستقبلية) نحسب $ax_0 + b$. ولمعرفة **ابتداء من متى** يتجاوز $y$ عتبة $s$ نحل $ax + b > s$ ونأخذ أول رتبة صحيحة مناسبة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Chiffre d'affaires d'une entreprise",
+          "title_ar": "رقم أعمال مؤسسة",
+          "points": 5,
+          "statement_fr": "Le chiffre d'affaires $y_i$ (en millions de DA) d'une entreprise selon le rang $x_i$ de l'année :\n\n| $x_i$ | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| $y_i$ | 2 | 3 | 5 | 6 | 9 |\n\n1. Calculer les coordonnées du point moyen $G$.\n2. Déterminer une équation de la droite de régression de $y$ en $x$ par la méthode des moindres carrés.\n3. Estimer le chiffre d'affaires de l'année de rang $8$.\n4. À partir de quel rang le chiffre d'affaires estimé dépassera-t-il $15$ millions de DA ?",
+          "statement_ar": "رقم أعمال مؤسسة $y_i$ (بملايين الدنانير) حسب رتبة السنة $x_i$:\n\n| $x_i$ | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| $y_i$ | 2 | 3 | 5 | 6 | 9 |\n\n1. احسب إحداثيي النقطة المتوسطة $G$.\n2. عيّن معادلة مستقيم انحدار $y$ بدلالة $x$ بطريقة المربعات الدنيا.\n3. قدّر رقم الأعمال في السنة ذات الرتبة $8$.\n4. ابتداء من أي رتبة يتجاوز رقم الأعمال المقدر $15$ مليون دينار؟",
+          "solution_fr": "1. $\\bar{x} = \\frac{15}{5} = 3$, $\\bar{y} = \\frac{25}{5} = 5$ : $G(3; 5)$.\n\n2. Écarts $x_i - \\bar{x}$ : $-2, -1, 0, 1, 2$ ; $y_i - \\bar{y}$ : $-3, -2, 0, 1, 4$. $\\sum(x_i - \\bar{x})(y_i - \\bar{y}) = 6 + 2 + 0 + 1 + 8 = 17$ et $\\sum(x_i - \\bar{x})^2 = 10$. $a = \\frac{17}{10} = 1{,}7$ ; $b = 5 - 1{,}7 \\times 3 = -0{,}1$. Droite : $y = 1{,}7x - 0{,}1$.\n\n3. $x = 8$ : $y = 13{,}6 - 0{,}1 = 13{,}5$ millions de DA.\n\n4. $1{,}7x - 0{,}1 > 15 \\iff x > \\frac{15{,}1}{1{,}7} \\approx 8{,}88$ : à partir du rang $9$.",
+          "solution_ar": "1. $\\bar{x} = \\frac{15}{5} = 3$ ، $\\bar{y} = \\frac{25}{5} = 5$: $G(3; 5)$.\n\n2. الانحرافات $x_i - \\bar{x}$: $-2, -1, 0, 1, 2$ ؛ $y_i - \\bar{y}$: $-3, -2, 0, 1, 4$. $\\sum(x_i - \\bar{x})(y_i - \\bar{y}) = 6 + 2 + 0 + 1 + 8 = 17$ و $\\sum(x_i - \\bar{x})^2 = 10$. $a = \\frac{17}{10} = 1.7$ ؛ $b = 5 - 1.7 \\times 3 = -0.1$. المستقيم: $y = 1.7x - 0.1$.\n\n3. $x = 8$: $y = 13.6 - 0.1 = 13.5$ مليون دينار.\n\n4. $1.7x - 0.1 > 15 \\iff x > \\frac{15.1}{1.7} \\approx 8.88$: ابتداء من الرتبة $9$."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "arab-jumal-mahal",
+  "subject": "ARAB",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Grammaire : les phrases et leur fonction (الجمل وإعرابها)",
+      "title_ar": "قواعد اللغة: الجمل التي لها محل من الإعراب والتي لا محل لها",
+      "lessons": [
+        {
+          "title_fr": "Phrases ayant ou non une place dans l'analyse grammaticale",
+          "title_ar": "الجمل التي لها محل من الإعراب والجمل التي لا محل لها",
+          "body_fr": "Cette leçon porte sur la grammaire arabe ; les exemples restent en arabe.\n\n## Principe\n\nUne phrase « a une place dans l'analyse » (لها محل من الإعراب) quand elle peut être remplacée par un mot unique (مفرد) qui aurait une fonction : elle prend alors le cas de ce mot.\n\n## Les phrases qui ont une place (لها محل)\n\n1. **Prédicat** (خبر) : en position de nominatif — « العلمُ **يرفعُ صاحبَه** ».\n2. **Complément d'état** (حال) : accusatif — « جاء الطالبُ **يحملُ كتابَه** ».\n3. **Complément d'objet**, surtout après le verbe قال (مقول القول) : accusatif — « قال المعلّمُ: **العملُ مفتاحُ النجاح** ».\n4. **Complément du nom** (مضاف إليه), après إذ، إذا، حيث : génitif — « اجلسْ حيثُ **يجلسُ العلماءُ** ».\n5. **Réponse d'une condition apocopante** introduite par الفاء ou إذا الفجائية : apocopé (جزم) — « إنْ تجتهدْ **فأنتَ ناجحٌ** ».\n6. **Qualificatif d'un nom indéfini** (نعت) : même cas que le nom — « رأيتُ طالبًا **يقرأُ** ».\n7. **Phrase coordonnée à une phrase qui a une place** : même cas.\n\n**Règle utile** : الجمل بعد النكرات صفات، وبعد المعارف أحوال.\n\n## Les phrases sans place (لا محل لها)\n\nInitiale (الابتدائية), reprise (الاستئنافية), relative après un relatif (صلة الموصول), incise (الاعتراضية), explicative (التفسيرية), réponse du serment (جواب القسم), réponse d'une condition non apocopante ou apocopante sans الفاء ni إذا, et phrase coordonnée à une phrase sans place.\n\n## Méthode d'analyse\n\nRepérer la phrase, se demander ce qu'elle remplace (un prédicat ? un état ?), puis écrire : « الجملة الفعلية (يحمل كتابه) في محل نصب حال ».",
+          "body_ar": "## القاعدة العامة\n\nتكون للجملة **محل من الإعراب** إذا أمكن أن يحل محلها مفرد له وظيفة إعرابية، فتأخذ حكمه الإعرابي.\n\n## الجمل التي لها محل من الإعراب\n\n1. **الواقعة خبرا**: في محل رفع — «العلمُ **يرفعُ صاحبَه**».\n2. **الواقعة حالا**: في محل نصب — «جاء الطالبُ **يحملُ كتابَه**».\n3. **الواقعة مفعولا به** (ولا سيما مقول القول): في محل نصب — «قال المعلّمُ: **العملُ مفتاحُ النجاح**».\n4. **الواقعة مضافا إليه** (بعد إذ، إذا، حيث): في محل جر — «اجلسْ حيثُ **يجلسُ العلماءُ**».\n5. **الواقعة جوابا لشرط جازم مقترنة بالفاء أو بإذا الفجائية**: في محل جزم — «إنْ تجتهدْ **فأنتَ ناجحٌ**».\n6. **الواقعة نعتا لنكرة**: تتبع المنعوت في إعرابه — «رأيتُ طالبًا **يقرأُ**».\n7. **التابعة لجملة لها محل من الإعراب**: تأخذ حكمها.\n\n**قاعدة مفيدة**: الجمل بعد النكرات صفات، وبعد المعارف أحوال.\n\n## الجمل التي لا محل لها من الإعراب\n\nالابتدائية، الاستئنافية، صلة الموصول، الاعتراضية، التفسيرية، جواب القسم، جواب الشرط غير الجازم أو الجازم غير المقترن بالفاء ولا بإذا الفجائية، والتابعة لجملة لا محل لها.\n\n## طريقة الإعراب\n\nحدّد الجملة، ثم اسأل: ما المفرد الذي يمكن أن يحل محلها (خبر؟ حال؟...)، ثم اكتب مثلا: «الجملة الفعلية (يحمل كتابه) في محل نصب حال»."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Analyser des phrases",
+          "title_ar": "إعراب الجمل",
+          "points": 4,
+          "statement_fr": "Donner la fonction (avec ou sans place dans l'analyse) des phrases en gras :\n\n1. الوطنُ **يحتاجُ إلى سواعدِ أبنائه**.\n2. عاد المجاهدُ **وقد تحقّق النصرُ**.\n3. قرأتُ قصيدةً **تمجّدُ الثورةَ**.\n4. جاء **الذي نجحَ** في الامتحان.",
+          "statement_ar": "بيّن إعراب الجمل المكتوبة بخط غليظ (لها محل أو لا محل لها):\n\n1. الوطنُ **يحتاجُ إلى سواعدِ أبنائه**.\n2. عاد المجاهدُ **وقد تحقّق النصرُ**.\n3. قرأتُ قصيدةً **تمجّدُ الثورةَ**.\n4. جاء الذي **نجحَ في الامتحان**.",
+          "solution_fr": "1. Phrase verbale en position de nominatif, **prédicat** de الوطن (في محل رفع خبر).\n2. Phrase en position d'accusatif, **complément d'état** (في محل نصب حال) : elle suit un nom défini, المجاهد, et la و est واو الحال.\n3. Phrase en position d'accusatif, **qualificatif** de قصيدةً, nom indéfini à l'accusatif (في محل نصب نعت).\n4. Phrase **relative** (صلة الموصول) : sans place dans l'analyse (لا محل لها من الإعراب).",
+          "solution_ar": "1. الجملة الفعلية (يحتاج إلى سواعد أبنائه) في محل رفع **خبر** للمبتدأ «الوطن».\n2. الجملة (وقد تحقق النصر) في محل نصب **حال**؛ لأنها جاءت بعد معرفة «المجاهد»، والواو واو الحال.\n3. الجملة الفعلية (تمجّد الثورة) في محل نصب **نعت** لـ«قصيدةً» لأنها جاءت بعد نكرة منصوبة.\n4. الجملة الفعلية (نجح في الامتحان) **صلة الموصول** لا محل لها من الإعراب."
+        }
+      ]
+    }
+  ]
+}

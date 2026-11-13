@@ -1,0 +1,53 @@
+{
+  "key": "eco-programme-3",
+  "subject": "ECO",
+  "streams": ["GE"],
+  "chapters": [
+    {
+      "title_fr": "Le marché et la formation des prix",
+      "title_ar": "السوق وتكوين الأسعار",
+      "lessons": [
+        {
+          "title_fr": "Offre, demande, prix d'équilibre et types de marché",
+          "title_ar": "العرض، الطلب، سعر التوازن وأنواع الأسواق",
+          "body_fr": "## Le marché\n\nLieu, réel ou virtuel, de rencontre entre l'offre et la demande d'un bien ou d'un service, où se forme un prix.\n\n## La demande et l'offre\n\n- **Loi de la demande** : toutes choses égales par ailleurs, la quantité demandée **diminue** quand le prix augmente. Autres facteurs : revenu, goûts, prix des autres biens.\n- **Loi de l'offre** : la quantité offerte **augmente** quand le prix augmente. Autres facteurs : coûts de production, technique, nombre de producteurs.\n\n## Le prix d'équilibre\n\nC'est le prix pour lequel **quantité offerte = quantité demandée**. Au-dessus, il y a excédent d'offre (le prix baisse) ; au-dessous, pénurie (le prix monte).\n\n## Les structures de marché\n\n- **Concurrence pure et parfaite** : atomicité (nombreux vendeurs et acheteurs), homogénéité des produits, libre entrée et sortie, transparence de l'information, mobilité des facteurs. Le prix s'impose à tous.\n- **Monopole** : un seul vendeur face à de nombreux acheteurs ; il fixe le prix ou la quantité.\n- **Oligopole** : quelques vendeurs, interdépendants (téléphonie mobile, carburants).\n- **Monopsone** : un seul acheteur.\n\n## L'intervention de l'État\n\n- **Prix plafond** (maximum) pour protéger le consommateur : risque de pénurie et de marché noir.\n- **Prix plancher** (minimum) pour protéger le producteur ou le salarié (salaire minimum) : risque d'excédent.\n- **Soutien des prix** (subventions des produits de large consommation en Algérie : pain, lait, huile, sucre).\n- Le **Conseil de la concurrence** sanctionne les ententes et les abus de position dominante.",
+          "body_ar": "## السوق\n\nمكان حقيقي أو افتراضي يلتقي فيه العرض والطلب على سلعة أو خدمة، ويتحدد فيه السعر.\n\n## الطلب والعرض\n\n- **قانون الطلب**: مع بقاء العوامل الأخرى ثابتة، **تنخفض** الكمية المطلوبة عندما يرتفع السعر. عوامل أخرى: الدخل، الأذواق، أسعار السلع الأخرى.\n- **قانون العرض**: **ترتفع** الكمية المعروضة عندما يرتفع السعر. عوامل أخرى: تكاليف الإنتاج، التقنية، عدد المنتجين.\n\n## سعر التوازن\n\nهو السعر الذي تكون عنده **الكمية المعروضة = الكمية المطلوبة**. فوقه يوجد فائض في العرض (ينخفض السعر)؛ وتحته ندرة (يرتفع السعر).\n\n## أنواع الأسواق\n\n- **المنافسة التامة**: كثرة البائعين والمشترين، تجانس السلع، حرية الدخول والخروج، شفافية المعلومات، حرية تنقل عوامل الإنتاج. السعر مفروض على الجميع.\n- **الاحتكار**: بائع واحد أمام مشترين كثر؛ يحدد السعر أو الكمية.\n- **احتكار القلة**: عدد قليل من البائعين المترابطين (الهاتف النقال، الوقود).\n- **احتكار الشراء**: مشتر واحد.\n\n## تدخل الدولة\n\n- **السعر الأقصى** لحماية المستهلك: خطر الندرة والسوق السوداء.\n- **السعر الأدنى** لحماية المنتج أو الأجير (الأجر الوطني الأدنى المضمون): خطر الفائض.\n- **دعم الأسعار** (دعم المواد واسعة الاستهلاك في الجزائر: الخبز، الحليب، الزيت، السكر).\n- **مجلس المنافسة** يعاقب الاتفاقات والتعسف في وضعية الهيمنة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Calcul du prix d'équilibre",
+          "title_ar": "حساب سعر التوازن",
+          "points": 6,
+          "statement_fr": "Sur un marché, la demande est $Q_d = 100 - 2P$ et l'offre $Q_o = 20 + 2P$ ($P$ en DA, $Q$ en milliers d'unités).\n\n1. Calculer le prix et la quantité d'équilibre.\n2. L'État fixe un prix maximum de $15$ DA. Calculer les quantités offertes et demandées. Quelle situation apparaît ?\n3. Citer deux conséquences possibles de cette situation.\n4. Ce marché est-il en concurrence parfaite si un seul producteur le contrôle ? Justifier.",
+          "statement_ar": "في سوق ما، الطلب $Q_d = 100 - 2P$ والعرض $Q_o = 20 + 2P$ ($P$ بالدينار، $Q$ بآلاف الوحدات).\n\n1. احسب سعر التوازن وكمية التوازن.\n2. تحدد الدولة سعرا أقصى قدره $15$ دج. احسب الكميتين المعروضة والمطلوبة. ما الوضعية التي تظهر؟\n3. اذكر نتيجتين محتملتين لهذه الوضعية.\n4. هل تكون هذه السوق سوق منافسة تامة إذا سيطر عليها منتج واحد؟ علل.",
+          "solution_fr": "1. $100 - 2P = 20 + 2P \\iff 4P = 80 \\iff P = 20$ DA ; $Q = 100 - 40 = 60$ milliers d'unités.\n\n2. À $P = 15$ : $Q_d = 70$, $Q_o = 50$ : **pénurie** (excès de demande) de $20$ milliers d'unités.\n\n3. Files d'attente et rationnement ; apparition d'un marché noir à un prix supérieur ; baisse de la qualité (deux au choix).\n\n4. Non : c'est un **monopole** ; la condition d'atomicité (nombreux vendeurs) n'est pas respectée, le producteur peut influencer le prix.",
+          "solution_ar": "1. $100 - 2P = 20 + 2P \\iff 4P = 80 \\iff P = 20$ دج؛ $Q = 100 - 40 = 60$ ألف وحدة.\n\n2. عند $P = 15$: $Q_d = 70$ و $Q_o = 50$: **ندرة** (فائض في الطلب) قدرها $20$ ألف وحدة.\n\n3. الطوابير والتقنين؛ ظهور سوق سوداء بسعر أعلى؛ تدهور النوعية (اثنتان منها).\n\n4. لا: إنها سوق **احتكار**؛ شرط الذرية (كثرة البائعين) غير محقق، والمنتج يستطيع التأثير في السعر."
+        }
+      ]
+    },
+    {
+      "title_fr": "Le change et les taux de change",
+      "title_ar": "الصرف وأسعار الصرف",
+      "lessons": [
+        {
+          "title_fr": "Marché des changes, régimes de change, dévaluation",
+          "title_ar": "سوق الصرف، أنظمة الصرف، تخفيض قيمة العملة",
+          "body_fr": "## Définitions\n\n- **Change** : opération d'échange d'une monnaie nationale contre une monnaie étrangère (devise).\n- **Taux de change** : prix d'une monnaie exprimé dans une autre. Cotation à l'incertain : $1\\,€ = 150\\,DA$ ; cotation au certain : $1\\,DA = \\frac{1}{150}\\,€$.\n- **Marché des changes** : lieu où se rencontrent l'offre et la demande de devises.\n\n## Offre et demande de devises\n\n- **Demande de devises** (offre de dinars) : importations, sorties de capitaux, voyages à l'étranger.\n- **Offre de devises** : exportations (hydrocarbures pour l'Algérie), investissements étrangers, transferts des émigrés.\n\n## Régimes de change\n\n- **Change fixe** : la banque centrale maintient le taux à une valeur fixée.\n- **Change flottant** : le taux varie librement selon l'offre et la demande.\n- **Flottement dirigé** : la banque centrale intervient pour limiter les variations (cas de l'Algérie, où la Banque d'Algérie gère le dinar par rapport à un panier de devises).\n\n## Dévaluation et réévaluation\n\n- **Dévaluation** : baisse **décidée** de la valeur de la monnaie nationale (en change fixe) ; **dépréciation** si la baisse résulte du marché.\n- **Effets d'une dévaluation** : les exportations deviennent moins chères pour l'étranger (plus compétitives), les importations plus chères ; objectif : réduire le déficit commercial. Risques : inflation importée, alourdissement de la dette en devises.\n- **Réévaluation** : hausse décidée de la valeur de la monnaie, effets inverses.\n\n## Le marché parallèle\n\nEn Algérie, l'écart entre le taux officiel et le taux du marché parallèle (informel) reflète la rareté des devises et les restrictions de change.",
+          "body_ar": "## تعاريف\n\n- **الصرف**: عملية مبادلة عملة وطنية بعملة أجنبية.\n- **سعر الصرف**: ثمن عملة معبرا عنه بعملة أخرى. التسعير غير المباشر: $1\\,€ = 150\\,DA$؛ التسعير المباشر: $1\\,DA = \\frac{1}{150}\\,€$.\n- **سوق الصرف**: المكان الذي يلتقي فيه عرض العملات الأجنبية والطلب عليها.\n\n## عرض العملات الأجنبية والطلب عليها\n\n- **الطلب على العملة الأجنبية** (عرض الدينار): الواردات، خروج رؤوس الأموال، السفر إلى الخارج.\n- **عرض العملة الأجنبية**: الصادرات (المحروقات بالنسبة للجزائر)، الاستثمارات الأجنبية، تحويلات المهاجرين.\n\n## أنظمة الصرف\n\n- **الصرف الثابت**: يحافظ البنك المركزي على سعر محدد.\n- **الصرف العائم**: يتغير السعر بحرية حسب العرض والطلب.\n- **التعويم الموجه**: يتدخل البنك المركزي للحد من التقلبات (حالة الجزائر، حيث يسير بنك الجزائر الدينار بالنسبة إلى سلة عملات).\n\n## تخفيض قيمة العملة ورفعها\n\n- **التخفيض**: خفض **مقرر** لقيمة العملة الوطنية (في الصرف الثابت)؛ ونتحدث عن **انخفاض** القيمة إذا كان ناتجا عن السوق.\n- **آثار التخفيض**: تصبح الصادرات أرخص للأجانب (أكثر تنافسية) والواردات أغلى؛ الهدف: تقليص العجز التجاري. المخاطر: التضخم المستورد، ثقل الديون بالعملة الأجنبية.\n- **رفع القيمة**: آثار معاكسة.\n\n## السوق الموازية\n\nفي الجزائر يعكس الفارق بين السعر الرسمي وسعر السوق الموازية ندرة العملة الأجنبية وقيود الصرف."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Effets d'une dépréciation du dinar",
+          "title_ar": "آثار انخفاض قيمة الدينار",
+          "points": 6,
+          "statement_fr": "Le taux de change passe de $1\\,€ = 150\\,DA$ à $1\\,€ = 165\\,DA$.\n\n1. Le dinar s'est-il apprécié ou déprécié ? De quel pourcentage l'euro a-t-il augmenté ?\n2. Une entreprise algérienne importe une machine de $1\\,000\\,€$. Calculer son coût en DA avant et après.\n3. Un produit algérien est vendu $1\\,650\\,000\\,DA$. Calculer son prix en euros avant et après.\n4. En déduire l'effet attendu sur la balance commerciale, et un risque.",
+          "statement_ar": "انتقل سعر الصرف من $1\\,€ = 150\\,DA$ إلى $1\\,€ = 165\\,DA$.\n\n1. هل ارتفعت قيمة الدينار أم انخفضت؟ بأي نسبة ارتفع الأورو؟\n2. مؤسسة جزائرية تستورد آلة بـ $1\\,000\\,€$. احسب تكلفتها بالدينار قبل وبعد.\n3. منتوج جزائري يباع بـ $1\\,650\\,000\\,DA$. احسب سعره بالأورو قبل وبعد.\n4. استنتج الأثر المنتظر على الميزان التجاري، وخطرا واحدا.",
+          "solution_fr": "1. Il faut plus de dinars pour un euro : le dinar s'est **déprécié**. Hausse de l'euro : $\\frac{165 - 150}{150} = 10\\,\\%$.\n\n2. Avant : $150\\,000\\,DA$ ; après : $165\\,000\\,DA$ (importation plus chère).\n\n3. Avant : $\\frac{1\\,650\\,000}{150} = 11\\,000\\,€$ ; après : $\\frac{1\\,650\\,000}{165} = 10\\,000\\,€$ (exportation plus compétitive).\n\n4. Les exportations sont encouragées et les importations freinées : amélioration attendue de la balance commerciale (si les quantités réagissent). Risque : **inflation importée** (hausse du prix des biens importés), ou alourdissement de la dette extérieure.",
+          "solution_ar": "1. أصبح الأورو يتطلب دنانير أكثر: **انخفضت** قيمة الدينار. ارتفاع الأورو: $\\frac{165 - 150}{150} = 10\\,\\%$.\n\n2. قبل: $150\\,000\\,DA$؛ بعد: $165\\,000\\,DA$ (استيراد أغلى).\n\n3. قبل: $\\frac{1\\,650\\,000}{150} = 11\\,000\\,€$؛ بعد: $\\frac{1\\,650\\,000}{165} = 10\\,000\\,€$ (تصدير أكثر تنافسية).\n\n4. تشجيع الصادرات وكبح الواردات: تحسن منتظر للميزان التجاري (إذا استجابت الكميات). الخطر: **التضخم المستورد** (ارتفاع أسعار السلع المستوردة) أو ثقل الدين الخارجي."
+        }
+      ]
+    }
+  ]
+}

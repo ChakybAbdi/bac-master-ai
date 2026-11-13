@@ -1,0 +1,30 @@
+{
+  "key": "phys-oscillations",
+  "subject": "PHYS",
+  "streams": ["M", "TM"],
+  "chapters": [
+    {
+      "title_fr": "Oscillations mécaniques libres : le pendule élastique",
+      "title_ar": "الاهتزازات الميكانيكية الحرة: النواس المرن",
+      "lessons": [
+        {
+          "title_fr": "Oscillateur non amorti, période propre et énergie",
+          "title_ar": "الهزاز غير المتخامد، الدور الذاتي والطاقة",
+          "body_fr": "## Le système\n\nUn solide de masse $m$ accroché à un ressort de raideur $k$, se déplaçant sans frottement sur un plan horizontal. L'abscisse $x$ est repérée à partir de la position d'équilibre.\n\n## Équation différentielle\n\nLa force de rappel du ressort est $\\vec{F} = -kx\\,\\vec{i}$. La deuxième loi de Newton donne :\n$$m\\ddot{x} = -kx \\iff \\ddot{x} + \\dfrac{k}{m}x = 0.$$\n\n## Solution\n\n$x(t) = X_m\\cos\\left(\\omega_0 t + \\varphi\\right)$, avec la pulsation propre $\\omega_0 = \\sqrt{\\dfrac{k}{m}}$ et la **période propre**\n$$T_0 = 2\\pi\\sqrt{\\dfrac{m}{k}}.$$\n$X_m$ (amplitude) et $\\varphi$ (phase à l'origine) se déterminent par les conditions initiales $x(0)$ et $v(0)$. La vitesse est $v(t) = -X_m\\omega_0\\sin(\\omega_0 t + \\varphi)$, de valeur maximale $X_m\\omega_0$.\n\n## Énergie\n\n- Énergie cinétique : $E_c = \\frac{1}{2}mv^2$ ; énergie potentielle élastique : $E_{pe} = \\frac{1}{2}kx^2$.\n- Sans frottement, l'énergie mécanique se conserve : $E = \\frac{1}{2}kX_m^2 = \\frac{1}{2}mv_{max}^2$. Il y a un échange permanent entre $E_c$ et $E_{pe}$, qui varient avec la période $\\frac{T_0}{2}$.\n\n## Amortissement\n\nAvec frottement, l'amplitude diminue : régime **pseudo-périodique** (frottement faible, pseudo-période $T \\approx T_0$) ou **apériodique** (frottement fort, pas d'oscillation). L'énergie mécanique diminue et se transforme en chaleur.\n\n## Pendule simple (petites oscillations)\n\n$T_0 = 2\\pi\\sqrt{\\dfrac{\\ell}{g}}$ : la période ne dépend ni de la masse ni de l'amplitude (pour de petits angles).",
+          "body_ar": "## الجملة\n\nجسم صلب كتلته $m$ مثبت بنابض ثابت مرونته $k$، يتحرك دون احتكاك على مستو أفقي. تقاس الفاصلة $x$ انطلاقا من وضع التوازن.\n\n## المعادلة التفاضلية\n\nقوة إرجاع النابض $\\vec{F} = -kx\\,\\vec{i}$. يعطي القانون الثاني لنيوتن:\n$$m\\ddot{x} = -kx \\iff \\ddot{x} + \\dfrac{k}{m}x = 0.$$\n\n## الحل\n\n$x(t) = X_m\\cos\\left(\\omega_0 t + \\varphi\\right)$ ، حيث النبض الذاتي $\\omega_0 = \\sqrt{\\dfrac{k}{m}}$ و**الدور الذاتي**\n$$T_0 = 2\\pi\\sqrt{\\dfrac{m}{k}}.$$\nتعين $X_m$ (السعة) و $\\varphi$ (الصفحة الابتدائية) بالشروط الابتدائية $x(0)$ و $v(0)$. السرعة $v(t) = -X_m\\omega_0\\sin(\\omega_0 t + \\varphi)$ وقيمتها العظمى $X_m\\omega_0$.\n\n## الطاقة\n\n- الطاقة الحركية: $E_c = \\frac{1}{2}mv^2$ ؛ الطاقة الكامنة المرونية: $E_{pe} = \\frac{1}{2}kx^2$.\n- في غياب الاحتكاك تنحفظ الطاقة الميكانيكية: $E = \\frac{1}{2}kX_m^2 = \\frac{1}{2}mv_{max}^2$. يحدث تبادل دائم بين $E_c$ و $E_{pe}$ اللتين تتغيران بدور $\\frac{T_0}{2}$.\n\n## التخامد\n\nمع الاحتكاك تتناقص السعة: نظام **شبه دوري** (احتكاك ضعيف، شبه الدور $T \\approx T_0$) أو **لادوري** (احتكاك قوي، لا اهتزاز). تتناقص الطاقة الميكانيكية وتتحول إلى حرارة.\n\n## النواس البسيط (اهتزازات صغيرة)\n\n$T_0 = 2\\pi\\sqrt{\\dfrac{\\ell}{g}}$: الدور لا يتعلق بالكتلة ولا بالسعة (من أجل زوايا صغيرة)."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Pendule élastique horizontal",
+          "title_ar": "نواس مرن أفقي",
+          "points": 5,
+          "statement_fr": "Un solide de masse $m = 200\\,g$ est fixé à un ressort de raideur $k = 20\\,N \\cdot m^{-1}$. On l'écarte de $5\\,cm$ de sa position d'équilibre puis on le lâche sans vitesse à $t = 0$. Frottements négligés.\n\n1. Établir l'équation différentielle du mouvement.\n2. Calculer la pulsation propre et la période propre.\n3. Écrire l'équation horaire $x(t)$.\n4. Calculer l'énergie mécanique et la vitesse maximale.",
+          "statement_ar": "جسم صلب كتلته $m = 200\\,g$ مثبت بنابض ثابت مرونته $k = 20\\,N \\cdot m^{-1}$. نزيحه بـ $5\\,cm$ عن وضع توازنه ثم نتركه دون سرعة عند $t = 0$. نهمل الاحتكاكات.\n\n1. أوجد المعادلة التفاضلية للحركة.\n2. احسب النبض الذاتي والدور الذاتي.\n3. اكتب المعادلة الزمنية $x(t)$.\n4. احسب الطاقة الميكانيكية والسرعة العظمى.",
+          "solution_fr": "1. $m\\ddot{x} = -kx$, soit $\\ddot{x} + \\dfrac{k}{m}x = 0$, c'est-à-dire $\\ddot{x} + 100x = 0$.\n\n2. $\\omega_0 = \\sqrt{\\dfrac{20}{0{,}2}} = 10\\,rad \\cdot s^{-1}$ ; $T_0 = \\dfrac{2\\pi}{\\omega_0} \\approx 0{,}63\\,s$.\n\n3. $x(0) = X_m\\cos\\varphi = 0{,}05$ et $v(0) = -X_m\\omega_0\\sin\\varphi = 0$ donnent $\\varphi = 0$ et $X_m = 0{,}05\\,m$ : $x(t) = 0{,}05\\cos(10t)$ (en m).\n\n4. $E = \\frac{1}{2}kX_m^2 = \\frac{1}{2} \\times 20 \\times 0{,}05^2 = 0{,}025\\,J$ ; $v_{max} = X_m\\omega_0 = 0{,}5\\,m \\cdot s^{-1}$ (vérification : $\\frac{1}{2} \\times 0{,}2 \\times 0{,}5^2 = 0{,}025\\,J$).",
+          "solution_ar": "1. $m\\ddot{x} = -kx$ أي $\\ddot{x} + \\dfrac{k}{m}x = 0$، يعني $\\ddot{x} + 100x = 0$.\n\n2. $\\omega_0 = \\sqrt{\\dfrac{20}{0.2}} = 10\\,rad \\cdot s^{-1}$ ؛ $T_0 = \\dfrac{2\\pi}{\\omega_0} \\approx 0.63\\,s$.\n\n3. $x(0) = X_m\\cos\\varphi = 0.05$ و $v(0) = -X_m\\omega_0\\sin\\varphi = 0$ يعطيان $\\varphi = 0$ و $X_m = 0.05\\,m$: $x(t) = 0.05\\cos(10t)$ (بالمتر).\n\n4. $E = \\frac{1}{2}kX_m^2 = \\frac{1}{2} \\times 20 \\times 0.05^2 = 0.025\\,J$ ؛ $v_{max} = X_m\\omega_0 = 0.5\\,m \\cdot s^{-1}$ (تحقق: $\\frac{1}{2} \\times 0.2 \\times 0.5^2 = 0.025\\,J$)."
+        }
+      ]
+    }
+  ]
+}

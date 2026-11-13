@@ -1,0 +1,76 @@
+{
+  "key": "arab-programme-2",
+  "subject": "ARAB",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Rhétorique : comparaison, métaphore et métonymie (البلاغة)",
+      "title_ar": "البلاغة: التشبيه والاستعارة والكناية",
+      "lessons": [
+        {
+          "title_fr": "Reconnaître et commenter les images",
+          "title_ar": "تحديد الصور البيانية وشرحها",
+          "body_fr": "Leçon de rhétorique arabe ; les termes techniques et les exemples restent en arabe.\n\n## La comparaison (التشبيه)\n\nQuatre éléments : المشبه، المشبه به، أداة التشبيه، وجه الشبه. Exemple : « العلمُ كالنورِ في الهداية ».\n\nTypes : مرسل (avec outil), مؤكد (sans outil), مجمل (sans point commun), مفصل, **بليغ** (sans outil ni point commun : « العلمُ نورٌ »), تمثيلي (image composée).\n\n## La métaphore (الاستعارة)\n\nUne comparaison dont on a supprimé l'un des deux termes principaux :\n\n- **تصريحية** : le comparant (المشبه به) est exprimé — « رأيتُ أسدًا يخطب » (l'orateur courageux).\n- **مكنية** : le comparant est supprimé, un de ses attributs reste — « أنشبت المنيّةُ أظفارَها » (la mort comparée à une bête féroce).\n\n## La métonymie (الكناية)\n\nUne expression dont on veut le sens implicite, tout en admettant le sens propre : « فلانٌ كثيرُ الرماد » = généreux. On distingue كناية عن صفة، عن موصوف، عن نسبة.\n\n## L'intérêt (الأثر البلاغي)\n\nÀ l'épreuve, il faut toujours ajouter l'effet : rendre l'idée concrète (التجسيد/التشخيص), la renforcer, la rendre plus belle, avec la preuve (الكناية تأتي بالمعنى مصحوبا بالدليل).",
+          "body_ar": "## التشبيه\n\nأركانه أربعة: المشبه، المشبه به، أداة التشبيه، وجه الشبه. مثال: «العلمُ كالنورِ في الهداية».\n\nأنواعه: المرسل (ذكرت الأداة)، المؤكد (حذفت الأداة)، المجمل (حذف وجه الشبه)، المفصل (ذكر وجه الشبه)، **البليغ** (حذفت الأداة ووجه الشبه: «العلمُ نورٌ»)، والتمثيلي (وجه الشبه صورة منتزعة من متعدد).\n\n## الاستعارة\n\nتشبيه حذف أحد طرفيه:\n\n- **التصريحية**: صرح فيها بالمشبه به — «رأيتُ أسدًا يخطب» (الخطيب الشجاع).\n- **المكنية**: حذف المشبه به وبقي شيء من لوازمه — «أنشبت المنيّةُ أظفارَها» (شبه المنية بحيوان مفترس).\n\n## الكناية\n\nلفظ أطلق وأريد به لازم معناه مع جواز إرادة المعنى الأصلي: «فلانٌ كثيرُ الرماد» كناية عن الكرم. وأنواعها: كناية عن صفة، عن موصوف، عن نسبة.\n\n## الأثر البلاغي\n\nفي الامتحان أضف دائما أثر الصورة: التجسيد أو التشخيص، تقوية المعنى وتوضيحه، التأثير في المتلقي؛ والكناية تأتي بالمعنى مصحوبا بالدليل في إيجاز."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Identifier les images",
+          "title_ar": "استخراج الصور البيانية",
+          "points": 3,
+          "statement_fr": "Identifier l'image et en préciser le type :\n\n1. « الوطنُ أمٌّ حنون ».\n2. « بكت السماءُ على الشهداء ».\n3. « هو نظيفُ اليد ».",
+          "statement_ar": "حدد الصورة البيانية ونوعها:\n\n1. «الوطنُ أمٌّ حنون».\n2. «بكت السماءُ على الشهداء».\n3. «هو نظيفُ اليد».",
+          "solution_fr": "1. **Comparaison éloquente** (تشبيه بليغ) : الوطن (comparé) et أم (comparant), sans outil ni point commun ; effet : tendresse et protection.\n\n2. **Métaphore implicite** (استعارة مكنية) : le ciel comparé à un être humain qui pleure ; le comparant est supprimé, on garde son attribut « بكت » ; effet : personnification (تشخيص) et émotion.\n\n3. **Métonymie d'une qualité** (كناية عن صفة) : l'honnêteté et l'intégrité.",
+          "solution_ar": "1. **تشبيه بليغ**: شبه الوطن بالأم، حذفت الأداة ووجه الشبه؛ أثره: إبراز الحنان والرعاية.\n\n2. **استعارة مكنية**: شبه السماء بإنسان يبكي، حذف المشبه به وترك لازمة من لوازمه «بكت»؛ أثرها: التشخيص وإثارة العاطفة.\n\n3. **كناية عن صفة**: الأمانة والنزاهة."
+        }
+      ]
+    },
+    {
+      "title_fr": "Littérature : le mouvement de la Renaissance (الإحياء)",
+      "title_ar": "الأدب: حركة الإحياء والبعث في الشعر",
+      "lessons": [
+        {
+          "title_fr": "Les poètes de la Renaissance et leurs caractéristiques",
+          "title_ar": "شعراء الإحياء وخصائص شعرهم",
+          "body_fr": "## Contexte\n\nAprès la période de décadence, la poésie arabe renaît à la fin du XIXe siècle : imprimerie, presse, contact avec l'Occident, retour aux grands textes anciens.\n\n## Les figures\n\n- **محمود سامي البارودي** : pionnier du mouvement ; il a imité les grands poètes classiques et redonné à la langue sa force.\n- **أحمد شوقي** : surnommé « أمير الشعراء » ; poésie de circonstance, patriotique, et premières pièces de théâtre en vers.\n- **حافظ إبراهيم** : « شاعر النيل », poète social et patriotique.\n- En Algérie, **محمد العيد آل خليفة** relève de cette veine réformiste.\n\n## Caractéristiques\n\n- Imitation des anciens (**المحاكاة** et **المعارضات** : reprendre le mètre et la rime d'un poème célèbre).\n- Langue solide et expressions fortes (جزالة الألفاظ وفخامة العبارة).\n- Unité du vers (وحدة البيت), mètre et rime uniques.\n- Thèmes anciens (éloge, élégie, description) et thèmes nouveaux (patriotisme, réforme sociale, événements de l'époque).\n\n## À l'épreuve\n\nOn demande souvent de relever des caractéristiques du mouvement dans un texte, en justifiant par des exemples tirés du texte.",
+          "body_ar": "## السياق\n\nبعد عصر الضعف بعث الشعر العربي في أواخر القرن التاسع عشر بفضل الطباعة والصحافة والاحتكاك بالغرب والعودة إلى أمهات الكتب القديمة.\n\n## الأعلام\n\n- **محمود سامي البارودي**: رائد الحركة؛ حاكى فحول الشعراء القدامى وأعاد للغة قوتها.\n- **أحمد شوقي**: لقب بـ«أمير الشعراء»؛ له شعر المناسبات والشعر الوطني، وكتب المسرحية الشعرية.\n- **حافظ إبراهيم**: «شاعر النيل»، شاعر اجتماعي ووطني.\n- وفي الجزائر يمثل **محمد العيد آل خليفة** هذا الاتجاه الإصلاحي.\n\n## الخصائص\n\n- محاكاة القدماء (**المعارضات**: النظم على وزن قصيدة مشهورة وقافيتها).\n- جزالة الألفاظ وفخامة العبارة.\n- وحدة البيت، ووحدة الوزن والقافية.\n- أغراض قديمة (المدح، الرثاء، الوصف) وأغراض جديدة (الوطنية، الإصلاح الاجتماعي، أحداث العصر).\n\n## في الامتحان\n\nيطلب غالبا استخراج خصائص الحركة من النص مع التمثيل لها من النص نفسه."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Qu'est-ce qu'une mu'âraḍa ?",
+          "title_ar": "ما المعارضة الشعرية؟",
+          "points": 2,
+          "statement_fr": "1. Définir la mu'âraḍa (المعارضة).\n2. Citer deux caractéristiques de la poésie de la Renaissance et un poète représentatif.",
+          "statement_ar": "1. عرّف المعارضة الشعرية.\n2. اذكر خاصيتين من خصائص شعر الإحياء وشاعرا يمثله.",
+          "solution_fr": "1. Composer un poème sur le **même mètre et la même rime** qu'un poème célèbre, en général sur un thème proche, pour rivaliser avec lui.\n\n2. Par exemple : imitation des anciens ; solidité de la langue ; unité du vers. Poète : البارودي (pionnier) ou أحمد شوقي.",
+          "solution_ar": "1. أن ينظم الشاعر قصيدة على **وزن وقافية** قصيدة مشهورة، وغالبا في موضوع قريب منها، محاولا مجاراتها أو التفوق عليها.\n\n2. مثلا: محاكاة القدماء؛ جزالة الألفاظ؛ وحدة البيت. الشاعر: البارودي (رائد الحركة) أو أحمد شوقي."
+        }
+      ]
+    },
+    {
+      "title_fr": "Littérature : la poésie de la révolution algérienne",
+      "title_ar": "الأدب: شعر الثورة التحريرية الجزائرية",
+      "lessons": [
+        {
+          "title_fr": "Le poète engagé : Moufdi Zakaria",
+          "title_ar": "الشعر الملتزم: مفدي زكريا",
+          "body_fr": "## L'engagement (الالتزام)\n\nLe poète met son art au service de la cause de son peuple : la libération nationale. La poésie de la révolution (1954-1962) accompagne le combat, appelle à la résistance et glorifie les martyrs.\n\n## Moufdi Zakaria (مفدي زكريا)\n\nSurnommé « شاعر الثورة », il est l'auteur de l'**hymne national** « قسما », écrit pendant sa détention à la prison de Barberousse (Serkadji). Ses recueils les plus connus : **« اللهب المقدس »** et **« إلياذة الجزائر »**.\n\n## Caractéristiques de cette poésie\n\n- **Réalisme** : elle décrit la lutte, la prison, le sacrifice.\n- Lexique de la **révolution** : الثورة، الشهيد، الكفاح، الحرية، الاستقلال.\n- Ton **épique** et exaltant ; usage du **symbole** (le sang, le feu, l'aube).\n- **Optimisme** et certitude de la victoire.\n- Langue solide, souvent sur la forme classique (mètre et rime).\n\n## À l'épreuve\n\nOn demande de relever les marques de l'engagement, de dégager le ton et de commenter une image en lien avec la révolution.",
+          "body_ar": "## الالتزام\n\nأن يضع الشاعر فنه في خدمة قضية شعبه: التحرر الوطني. رافق شعر الثورة (1954-1962) الكفاح المسلح ودعا إلى الصمود ومجّد الشهداء.\n\n## مفدي زكريا\n\nلقب بـ«شاعر الثورة»، وهو صاحب **النشيد الوطني** «قسما» الذي كتبه وهو معتقل في سجن بربروس (سركاجي). من أشهر دواوينه: **«اللهب المقدس»** و**«إلياذة الجزائر»**.\n\n## خصائص هذا الشعر\n\n- **الواقعية**: تصوير الكفاح والسجن والتضحية.\n- معجم **الثورة**: الثورة، الشهيد، الكفاح، الحرية، الاستقلال.\n- النبرة **الحماسية**، وتوظيف **الرمز** (الدم، النار، الفجر).\n- **التفاؤل** واليقين بالنصر.\n- جزالة اللغة والمحافظة غالبا على الشكل العمودي (الوزن والقافية).\n\n## في الامتحان\n\nيطلب استخراج مظاهر الالتزام، وتحديد النبرة، وشرح صورة بيانية ذات صلة بالثورة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Les marques de l'engagement",
+          "title_ar": "مظاهر الالتزام",
+          "points": 3,
+          "statement_fr": "1. Qu'est-ce que la poésie engagée ?\n2. Citer trois caractéristiques de la poésie de la révolution algérienne.\n3. Quel est le célèbre texte de Moufdi Zakaria devenu l'hymne national ?",
+          "statement_ar": "1. ما المقصود بالشعر الملتزم؟\n2. اذكر ثلاث خصائص لشعر الثورة الجزائرية.\n3. ما هو النص الشهير لمفدي زكريا الذي أصبح النشيد الوطني؟",
+          "solution_fr": "1. Une poésie où le poète met son art au service d'une cause, ici la libération du peuple algérien.\n\n2. Par exemple : réalisme ; lexique de la révolution ; ton épique ; symbolisme ; optimisme.\n\n3. « قسما ».",
+          "solution_ar": "1. شعر يضع فيه الشاعر فنه في خدمة قضية، وهي هنا تحرير الشعب الجزائري.\n\n2. مثلا: الواقعية؛ معجم الثورة؛ النبرة الحماسية؛ الرمز؛ التفاؤل.\n\n3. «قسما»."
+        }
+      ]
+    }
+  ]
+}

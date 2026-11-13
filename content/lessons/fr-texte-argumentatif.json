@@ -1,0 +1,30 @@
+{
+  "key": "fr-texte-argumentatif",
+  "subject": "FR",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Le texte argumentatif",
+      "title_ar": "النص الحجاجي (اللغة الفرنسية)",
+      "lessons": [
+        {
+          "title_fr": "Thèse, arguments et connecteurs",
+          "title_ar": "الأطروحة والحجج وأدوات الربط",
+          "body_fr": "## Le vocabulaire de l'argumentation\n\n- **Thème** : ce dont on parle (par exemple, le travail des jeunes).\n- **Thèse** : l'opinion défendue par l'auteur sur ce thème.\n- **Antithèse** (thèse adverse) : l'opinion que l'auteur rejette.\n- **Argument** : raison qui justifie la thèse.\n- **Exemple** : fait concret qui illustre un argument.\n\n## Les connecteurs logiques\n\n| Rapport | Connecteurs |\n|---|---|\n| Addition | de plus, en outre, par ailleurs, d'abord… ensuite… enfin |\n| Cause | car, parce que, puisque, en effet |\n| Conséquence | donc, ainsi, c'est pourquoi, par conséquent |\n| Opposition | mais, cependant, pourtant, en revanche, toutefois |\n| Concession | certes… mais, bien que (+ subjonctif), même si |\n| Illustration | par exemple, ainsi, notamment |\n| Conclusion | en somme, en définitive, bref |\n\n## Repérer la thèse\n\nElle apparaît souvent au début ou à la fin du texte. Indices : verbes d'opinion (*je pense que, il me semble que*), modalisateurs (*sans doute, il faut*), vocabulaire valorisant ou dévalorisant.\n\n## Les procédés pour convaincre et persuader\n\n- Convaincre (raison) : arguments logiques, chiffres, exemples, citations.\n- Persuader (sentiments) : interrogation rhétorique, exclamation, interpellation du lecteur (*vous*), énumération, répétition.\n\n## Le plan d'un texte argumentatif\n\n1. **Introduction** : présentation du thème et de la thèse.\n2. **Développement** : arguments hiérarchisés (du moins fort au plus fort), chacun illustré par un exemple, parfois une concession.\n3. **Conclusion** : reformulation de la thèse, ouverture.\n\n## À l'épreuve\n\nLes questions demandent souvent : relever la thèse, identifier un connecteur et le rapport logique qu'il exprime, remplacer un connecteur par un autre de même valeur, faire le **compte rendu** du texte (réduction au tiers environ, sans « je », en gardant l'ordre des idées).",
+          "body_ar": "هذا الدرس خاص بمادة اللغة الفرنسية، وتبقى الأمثلة بالفرنسية.\n\n## مصطلحات الحجاج\n\n- **الموضوع** (Thème): ما يتحدث عنه النص.\n- **الأطروحة** (Thèse): الرأي الذي يدافع عنه الكاتب.\n- **الأطروحة المضادة** (Antithèse): الرأي الذي يرفضه الكاتب.\n- **الحجة** (Argument): سبب يبرر الأطروحة.\n- **المثال** (Exemple): واقعة ملموسة توضح الحجة.\n\n## أدوات الربط المنطقية\n\n| العلاقة | الأدوات |\n|---|---|\n| الإضافة | de plus, en outre, par ailleurs, d'abord… ensuite… enfin |\n| السبب | car, parce que, puisque, en effet |\n| النتيجة | donc, ainsi, c'est pourquoi, par conséquent |\n| التعارض | mais, cependant, pourtant, en revanche, toutefois |\n| التنازل | certes… mais, bien que, même si |\n| التمثيل | par exemple, ainsi, notamment |\n| الخلاصة | en somme, en définitive, bref |\n\n## كيف نحدد الأطروحة؟\n\nتظهر غالبا في بداية النص أو نهايته. من مؤشراتها: أفعال الرأي (*je pense que, il me semble que*)، وعبارات التوجيه (*sans doute, il faut*)، والمعجم التقييمي.\n\n## أساليب الإقناع والتأثير\n\n- الإقناع (العقل): حجج منطقية، أرقام، أمثلة، استشهادات.\n- التأثير (العاطفة): الاستفهام البلاغي، التعجب، مخاطبة القارئ (*vous*)، التعداد، التكرار.\n\n## مخطط النص الحجاجي\n\n1. **المقدمة**: تقديم الموضوع والأطروحة.\n2. **العرض**: حجج مرتبة (من الأضعف إلى الأقوى)، لكل منها مثال، وأحيانا تنازل.\n3. **الخاتمة**: إعادة صياغة الأطروحة وفتح آفاق.\n\n## في الامتحان\n\nكثيرا ما يطلب: استخراج الأطروحة، تحديد أداة ربط والعلاقة المنطقية التي تعبر عنها، تعويض أداة بأخرى لها نفس القيمة، وإنجاز **الملخص** (compte rendu) في حدود ثلث النص تقريبا، دون «je»، مع احترام ترتيب الأفكار."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Analyser un paragraphe argumentatif",
+          "title_ar": "تحليل فقرة حجاجية",
+          "points": 5,
+          "statement_fr": "Lisez le paragraphe suivant :\n\n> « Certes, Internet fait gagner du temps aux élèves. Pourtant, il ne remplace pas le livre. En effet, la lecture d'un livre exige une attention continue, alors que l'écran disperse l'esprit. C'est pourquoi l'école doit continuer à former des lecteurs. »\n\n1. Quelle est la thèse défendue ?\n2. Relevez le connecteur qui introduit une concession, puis celui qui introduit une cause.\n3. Quel rapport logique exprime « C'est pourquoi » ? Remplacez-le par un connecteur équivalent.",
+          "statement_ar": "اقرأ الفقرة التالية (بالفرنسية):\n\n> « Certes, Internet fait gagner du temps aux élèves. Pourtant, il ne remplace pas le livre. En effet, la lecture d'un livre exige une attention continue, alors que l'écran disperse l'esprit. C'est pourquoi l'école doit continuer à former des lecteurs. »\n\n1. ما هي الأطروحة المدافع عنها؟\n2. استخرج أداة الربط التي تعبر عن التنازل، ثم التي تعبر عن السبب.\n3. ما العلاقة المنطقية التي تعبر عنها « C'est pourquoi »؟ عوّضها بأداة مكافئة.",
+          "solution_fr": "1. Thèse : Internet ne remplace pas le livre ; l'école doit continuer à former des lecteurs.\n\n2. Concession : « Certes » (suivi de l'opposition « Pourtant »). Cause : « En effet ».\n\n3. « C'est pourquoi » exprime la **conséquence** ; on peut le remplacer par « donc », « ainsi » ou « par conséquent ».",
+          "solution_ar": "1. الأطروحة: الإنترنت لا يعوض الكتاب، وعلى المدرسة أن تواصل تكوين القراء.\n\n2. التنازل: « Certes » (يليه التعارض « Pourtant »). السبب: « En effet ».\n\n3. تعبر « C'est pourquoi » عن **النتيجة**، ويمكن تعويضها بـ « donc » أو « ainsi » أو « par conséquent »."
+        }
+      ]
+    }
+  ]
+}

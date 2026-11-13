@@ -1,0 +1,76 @@
+{
+  "key": "en-programme-2",
+  "subject": "EN",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Grammar: conditional sentences",
+      "title_ar": "القواعد: الجمل الشرطية (Conditionals)",
+      "lessons": [
+        {
+          "title_fr": "Les phrases conditionnelles en anglais",
+          "title_ar": "الجمل الشرطية في اللغة الإنجليزية",
+          "body_fr": "Exemples en anglais, comme à l'épreuve.\n\n| Type | If-clause | Main clause | Sens |\n|---|---|---|---|\n| 0 | present simple | present simple | vérité générale : *If you heat ice, it melts.* |\n| 1 | present simple | will + verbe | réel, possible : *If you study, you will pass.* |\n| 2 | past simple | would + verbe | irréel présent / peu probable : *If I had time, I would travel.* |\n| 3 | past perfect | would have + participe passé | irréel passé : *If she had revised, she would have succeeded.* |\n\n## Points d'attention\n\n- Avec *be* au type 2, on utilise souvent **were** pour toutes les personnes : *If I were you, I would apologise.*\n- **unless** = *if… not* : *You will fail unless you work* (= if you don't work).\n- *Wish* : *I wish I had more time* (regret présent) ; *I wish I had listened* (regret passé).\n- On peut inverser les propositions ; la virgule suit la *if-clause* quand elle est en tête.",
+          "body_ar": "الأمثلة بالإنجليزية كما في الامتحان.\n\n| النوع | جملة الشرط | جواب الشرط | المعنى |\n|---|---|---|---|\n| 0 | present simple | present simple | حقيقة عامة: *If you heat ice, it melts.* |\n| 1 | present simple | will + فعل | واقعي ممكن: *If you study, you will pass.* |\n| 2 | past simple | would + فعل | غير واقعي في الحاضر أو قليل الاحتمال: *If I had time, I would travel.* |\n| 3 | past perfect | would have + اسم مفعول | غير واقعي في الماضي: *If she had revised, she would have succeeded.* |\n\n## ملاحظات\n\n- مع *be* في النوع الثاني نستعمل غالبا **were** مع كل الضمائر: *If I were you, I would apologise.*\n- **unless** = *if… not*: *You will fail unless you work* (= if you don't work).\n- *Wish*: *I wish I had more time* (تمنٍّ في الحاضر)؛ *I wish I had listened* (ندم على الماضي).\n- يمكن تقديم جواب الشرط؛ وتأتي الفاصلة بعد جملة الشرط إذا تقدمت."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Compléter avec le bon temps",
+          "title_ar": "أكمل بالزمن المناسب",
+          "points": 3,
+          "statement_fr": "Mettez le verbe entre parenthèses à la bonne forme :\n\n1. If it (rain) tomorrow, we (stay) at home.\n2. If I (be) the minister, I (build) more libraries.\n3. If they (leave) earlier, they (not miss) the train.\n4. You won't improve (unless / if) you practise.",
+          "statement_ar": "ضع الفعل بين قوسين في الصيغة المناسبة:\n\n1. If it (rain) tomorrow, we (stay) at home.\n2. If I (be) the minister, I (build) more libraries.\n3. If they (leave) earlier, they (not miss) the train.\n4. You won't improve (unless / if) you practise.",
+          "solution_fr": "1. If it **rains** tomorrow, we **will stay** at home. (type 1)\n2. If I **were** the minister, I **would build** more libraries. (type 2)\n3. If they **had left** earlier, they **would not have missed** the train. (type 3)\n4. You won't improve **unless** you practise.",
+          "solution_ar": "1. If it **rains** tomorrow, we **will stay** at home. (النوع 1)\n2. If I **were** the minister, I **would build** more libraries. (النوع 2)\n3. If they **had left** earlier, they **would not have missed** the train. (النوع 3)\n4. You won't improve **unless** you practise."
+        }
+      ]
+    },
+    {
+      "title_fr": "Grammar: the passive voice",
+      "title_ar": "القواعد: المبني للمجهول (Passive voice)",
+      "lessons": [
+        {
+          "title_fr": "Former et utiliser le passif",
+          "title_ar": "تكوين واستعمال المبني للمجهول",
+          "body_fr": "## Formation\n\n**be** (au temps de la phrase active) + **participe passé**. Le complément d'objet actif devient sujet ; l'agent est introduit par **by** s'il est utile.\n\n| Temps | Actif | Passif |\n|---|---|---|\n| present simple | They **build** houses. | Houses **are built**. |\n| past simple | They **built** the pyramids. | The pyramids **were built**. |\n| present perfect | They **have found** a cure. | A cure **has been found**. |\n| future | They **will open** a school. | A school **will be opened**. |\n| modal | You **must respect** the rules. | The rules **must be respected**. |\n| continuous | They **are repairing** the road. | The road **is being repaired**. |\n\n## Emploi\n\nOn utilise le passif quand l'agent est inconnu, évident ou sans importance, ou pour mettre l'action en valeur (textes scientifiques, historiques, journalistiques : *Ancient civilisations* — *The city was founded in…*).\n\n## Tournures utiles\n\n*It is said that… / He is said to be…* ; *It is believed that…*",
+          "body_ar": "## التكوين\n\n**be** (في زمن الجملة المبنية للمعلوم) + **اسم المفعول** (past participle). يصبح المفعول به فاعلا، ويقدم الفاعل الأصلي بـ **by** إذا كان مفيدا.\n\n| الزمن | المبني للمعلوم | المبني للمجهول |\n|---|---|---|\n| present simple | They **build** houses. | Houses **are built**. |\n| past simple | They **built** the pyramids. | The pyramids **were built**. |\n| present perfect | They **have found** a cure. | A cure **has been found**. |\n| future | They **will open** a school. | A school **will be opened**. |\n| modal | You **must respect** the rules. | The rules **must be respected**. |\n| continuous | They **are repairing** the road. | The road **is being repaired**. |\n\n## الاستعمال\n\nنستعمل المبني للمجهول عندما يكون الفاعل مجهولا أو واضحا أو غير مهم، أو لإبراز الحدث (النصوص العلمية والتاريخية والصحفية: *The city was founded in…*).\n\n## عبارات مفيدة\n\n*It is said that… / He is said to be…*؛ *It is believed that…*"
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Mettre au passif",
+          "title_ar": "حوّل إلى المبني للمجهول",
+          "points": 3,
+          "statement_fr": "Mettez au passif :\n\n1. The Phoenicians founded many cities.\n2. Scientists have discovered a new planet.\n3. The government will build a new hospital.\n4. People must protect the environment.",
+          "statement_ar": "حوّل إلى المبني للمجهول:\n\n1. The Phoenicians founded many cities.\n2. Scientists have discovered a new planet.\n3. The government will build a new hospital.\n4. People must protect the environment.",
+          "solution_fr": "1. Many cities **were founded** by the Phoenicians.\n2. A new planet **has been discovered** (by scientists).\n3. A new hospital **will be built** (by the government).\n4. The environment **must be protected**.",
+          "solution_ar": "1. Many cities **were founded** by the Phoenicians.\n2. A new planet **has been discovered** (by scientists).\n3. A new hospital **will be built** (by the government).\n4. The environment **must be protected**."
+        }
+      ]
+    },
+    {
+      "title_fr": "Grammar: relative clauses",
+      "title_ar": "القواعد: الجمل الموصولة (Relative clauses)",
+      "lessons": [
+        {
+          "title_fr": "Les pronoms relatifs",
+          "title_ar": "أسماء الموصول",
+          "body_fr": "| Pronom | Antécédent | Exemple |\n|---|---|---|\n| **who** | personne (sujet) | *The man who invented the telephone was Bell.* |\n| **whom** | personne (complément, style soutenu) | *The teacher whom I met was kind.* |\n| **which** | chose, animal | *The book which I read was useful.* |\n| **that** | personne ou chose (proposition déterminative) | *The car that he bought is new.* |\n| **whose** | possession | *The student whose bag was lost is here.* |\n| **where** | lieu | *The town where I was born is small.* |\n| **when** | temps | *I remember the day when we met.* |\n\n## Déterminative ou explicative\n\n- **Déterminative** (defining) : indispensable au sens, sans virgules ; *that* possible ; le pronom complément peut être omis (*The book (that) I read*).\n- **Explicative** (non-defining) : information supplémentaire, entre **virgules** ; jamais *that*, jamais d'omission : *Algiers, which is the capital, is on the coast.*\n\n## Combiner deux phrases\n\n*I met a girl. Her father is a doctor.* → *I met a girl whose father is a doctor.*",
+          "body_ar": "| الضمير | السابق | مثال |\n|---|---|---|\n| **who** | شخص (فاعل) | *The man who invented the telephone was Bell.* |\n| **whom** | شخص (مفعول، أسلوب رسمي) | *The teacher whom I met was kind.* |\n| **which** | شيء أو حيوان | *The book which I read was useful.* |\n| **that** | شخص أو شيء (جملة محددة) | *The car that he bought is new.* |\n| **whose** | الملكية | *The student whose bag was lost is here.* |\n| **where** | المكان | *The town where I was born is small.* |\n| **when** | الزمان | *I remember the day when we met.* |\n\n## محددة أم إضافية\n\n- **المحددة** (defining): ضرورية للمعنى، بدون فواصل؛ يمكن استعمال *that*؛ ويمكن حذف ضمير المفعول (*The book (that) I read*).\n- **الإضافية** (non-defining): معلومة إضافية بين **فاصلتين**؛ لا نستعمل *that* ولا نحذف الضمير: *Algiers, which is the capital, is on the coast.*\n\n## ربط جملتين\n\n*I met a girl. Her father is a doctor.* → *I met a girl whose father is a doctor.*"
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Relier les phrases",
+          "title_ar": "اربط الجمل",
+          "points": 3,
+          "statement_fr": "Reliez avec un pronom relatif :\n\n1. Ibn Khaldoun was a historian. He wrote the Muqaddimah.\n2. This is the school. I studied there.\n3. The scientist received a prize. Her research saves lives.",
+          "statement_ar": "اربط بضمير موصول:\n\n1. Ibn Khaldoun was a historian. He wrote the Muqaddimah.\n2. This is the school. I studied there.\n3. The scientist received a prize. Her research saves lives.",
+          "solution_fr": "1. Ibn Khaldoun was a historian **who** wrote the Muqaddimah.\n2. This is the school **where** I studied.\n3. The scientist **whose** research saves lives received a prize.",
+          "solution_ar": "1. Ibn Khaldoun was a historian **who** wrote the Muqaddimah.\n2. This is the school **where** I studied.\n3. The scientist **whose** research saves lives received a prize."
+        }
+      ]
+    }
+  ]
+}

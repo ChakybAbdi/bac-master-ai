@@ -1,0 +1,30 @@
+{
+  "key": "math-complexes",
+  "subject": "MATH",
+  "streams": ["M", "SE", "TM"],
+  "chapters": [
+    {
+      "title_fr": "Nombres complexes et transformations",
+      "title_ar": "الأعداد المركبة والتحويلات النقطية",
+      "lessons": [
+        {
+          "title_fr": "Formes d'un complexe et interprétation géométrique",
+          "title_ar": "أشكال العدد المركب وتفسيرها الهندسي",
+          "body_fr": "## Les trois formes\n\n- **Algébrique** : $z = a + ib$, avec $a = \\text{Re}(z)$, $b = \\text{Im}(z)$, $i^2 = -1$. Conjugué : $\\bar{z} = a - ib$.\n- **Trigonométrique** : $z = r(\\cos\\theta + i\\sin\\theta)$ avec $r = |z| = \\sqrt{a^2 + b^2}$ et $\\theta = \\arg z\\ [2\\pi]$.\n- **Exponentielle** : $z = re^{i\\theta}$.\n\nRègles : $|zz'| = |z||z'|$, $\\arg(zz') = \\arg z + \\arg z'$, $\\arg\\dfrac{z}{z'} = \\arg z - \\arg z'$, $\\arg z^n = n\\arg z$.\n\n## Équation du second degré à coefficients réels\n\n$az^2 + bz + c = 0$, $\\Delta = b^2 - 4ac$. Si $\\Delta < 0$ : $z = \\dfrac{-b \\pm i\\sqrt{-\\Delta}}{2a}$ (solutions conjuguées).\n\n## Géométrie\n\nPour $A$, $B$, $C$, $D$ d'affixes $z_A$, … :\n\n- $AB = |z_B - z_A|$ ; $(\\vec{u}, \\overrightarrow{AB}) = \\arg(z_B - z_A)$.\n- $\\left(\\overrightarrow{AB}, \\overrightarrow{CD}\\right) = \\arg\\dfrac{z_D - z_C}{z_B - z_A}$.\n- $\\dfrac{z_C - z_A}{z_B - z_A} = i$ : triangle $ABC$ rectangle isocèle en $A$ ; $= e^{i\\frac{\\pi}{3}}$ : triangle équilatéral.\n- Réel : points alignés ; imaginaire pur : droites perpendiculaires.\n\n## Transformations\n\n| Écriture | Transformation |\n|---|---|\n| $z' = z + b$ | translation de vecteur d'affixe $b$ |\n| $z' - \\omega = k(z - \\omega)$, $k$ réel | homothétie de centre $\\Omega$, de rapport $k$ |\n| $z' - \\omega = e^{i\\theta}(z - \\omega)$ | rotation de centre $\\Omega$, d'angle $\\theta$ |\n| $z' = az + b$, $a \\neq 1$ | similitude directe : rapport $|a|$, angle $\\arg a$, centre $\\omega = \\dfrac{b}{1 - a}$ |",
+          "body_ar": "## الأشكال الثلاثة\n\n- **الجبري**: $z = a + ib$ حيث $a = \\text{Re}(z)$، $b = \\text{Im}(z)$، $i^2 = -1$. المرافق: $\\bar{z} = a - ib$.\n- **المثلثي**: $z = r(\\cos\\theta + i\\sin\\theta)$ مع $r = |z| = \\sqrt{a^2 + b^2}$ و $\\theta = \\arg z\\ [2\\pi]$.\n- **الأسي**: $z = re^{i\\theta}$.\n\nقواعد: $|zz'| = |z||z'|$، $\\arg(zz') = \\arg z + \\arg z'$، $\\arg\\dfrac{z}{z'} = \\arg z - \\arg z'$، $\\arg z^n = n\\arg z$.\n\n## معادلة من الدرجة الثانية بمعاملات حقيقية\n\n$az^2 + bz + c = 0$، $\\Delta = b^2 - 4ac$. إذا كان $\\Delta < 0$: $z = \\dfrac{-b \\pm i\\sqrt{-\\Delta}}{2a}$ (حلان مترافقان).\n\n## التفسير الهندسي\n\nمن أجل النقط $A$، $B$، $C$، $D$ ذات اللواحق $z_A$، …:\n\n- $AB = |z_B - z_A|$؛ $(\\vec{u}, \\overrightarrow{AB}) = \\arg(z_B - z_A)$.\n- $\\left(\\overrightarrow{AB}, \\overrightarrow{CD}\\right) = \\arg\\dfrac{z_D - z_C}{z_B - z_A}$.\n- $\\dfrac{z_C - z_A}{z_B - z_A} = i$: المثلث $ABC$ قائم ومتساوي الساقين في $A$؛ $= e^{i\\frac{\\pi}{3}}$: متقايس الأضلاع.\n- حقيقي: النقط في استقامية؛ تخيلي صرف: مستقيمان متعامدان.\n\n## التحويلات\n\n| الكتابة | التحويل |\n|---|---|\n| $z' = z + b$ | انسحاب شعاعه لاحقته $b$ |\n| $z' - \\omega = k(z - \\omega)$، $k$ حقيقي | تحاك مركزه $\\Omega$ ونسبته $k$ |\n| $z' - \\omega = e^{i\\theta}(z - \\omega)$ | دوران مركزه $\\Omega$ وزاويته $\\theta$ |\n| $z' = az + b$، $a \\neq 1$ | تشابه مباشر: نسبته $|a|$، زاويته $\\arg a$، مركزه $\\omega = \\dfrac{b}{1 - a}$ |"
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Équation et triangle",
+          "title_ar": "معادلة ومثلث",
+          "points": 5,
+          "statement_fr": "1. Résoudre dans $\\mathbb{C}$ : $z^2 - 2z + 2 = 0$.\n2. On note $A$ et $B$ les points d'affixes $z_A = 1 + i$ et $z_B = 1 - i$, et $O$ l'origine. Écrire $z_A$ sous forme exponentielle.\n3. Calculer $\\dfrac{z_B}{z_A}$ et en déduire la nature du triangle $OAB$.",
+          "statement_ar": "1. حل في $\\mathbb{C}$: $z^2 - 2z + 2 = 0$.\n2. نرمز بـ $A$ و $B$ للنقطتين ذواتي اللاحقتين $z_A = 1 + i$ و $z_B = 1 - i$، و $O$ المبدأ. اكتب $z_A$ على الشكل الأسي.\n3. احسب $\\dfrac{z_B}{z_A}$ واستنتج طبيعة المثلث $OAB$.",
+          "solution_fr": "1. $\\Delta = 4 - 8 = -4 = (2i)^2$ : $z = 1 + i$ ou $z = 1 - i$.\n\n2. $|z_A| = \\sqrt{2}$, $\\arg z_A = \\frac{\\pi}{4}$ : $z_A = \\sqrt{2}\\,e^{i\\frac{\\pi}{4}}$.\n\n3. $\\dfrac{z_B}{z_A} = \\dfrac{1 - i}{1 + i} = \\dfrac{(1 - i)^2}{2} = -i = e^{-i\\frac{\\pi}{2}}$. Donc $OB = OA$ et $(\\overrightarrow{OA}, \\overrightarrow{OB}) = -\\frac{\\pi}{2}$ : $OAB$ est rectangle isocèle en $O$.",
+          "solution_ar": "1. $\\Delta = 4 - 8 = -4 = (2i)^2$: $z = 1 + i$ أو $z = 1 - i$.\n\n2. $|z_A| = \\sqrt{2}$ و $\\arg z_A = \\frac{\\pi}{4}$: $z_A = \\sqrt{2}\\,e^{i\\frac{\\pi}{4}}$.\n\n3. $\\dfrac{z_B}{z_A} = \\dfrac{1 - i}{1 + i} = \\dfrac{(1 - i)^2}{2} = -i = e^{-i\\frac{\\pi}{2}}$. إذن $OB = OA$ و $(\\overrightarrow{OA}, \\overrightarrow{OB}) = -\\frac{\\pi}{2}$: المثلث $OAB$ قائم ومتساوي الساقين في $O$."
+        }
+      ]
+    }
+  ]
+}

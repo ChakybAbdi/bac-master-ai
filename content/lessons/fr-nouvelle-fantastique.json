@@ -1,0 +1,30 @@
+{
+  "key": "fr-nouvelle-fantastique",
+  "subject": "FR",
+  "streams": ["LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "La nouvelle fantastique",
+      "title_ar": "القصة القصيرة العجائبية",
+      "lessons": [
+        {
+          "title_fr": "Structure, hésitation et procédés du fantastique",
+          "title_ar": "البنية، التردد وأساليب العجائبي",
+          "body_fr": "## Définition\n\nLa **nouvelle** est un récit bref, centré sur un événement, avec peu de personnages et une chute souvent surprenante. Le **fantastique** naît de l'irruption d'un phénomène inexplicable dans un cadre réaliste : le personnage (et le lecteur) **hésite** entre une explication rationnelle (rêve, folie, hallucination) et une explication surnaturelle. Si le surnaturel est accepté, on passe au **merveilleux** ; s'il est expliqué, à l'**étrange**.\n\n## Le schéma narratif\n\n1. **Situation initiale** réaliste (lieu, époque, personnages ordinaires).\n2. **Élément perturbateur** : premier phénomène étrange.\n3. **Péripéties** : les phénomènes se multiplient, l'angoisse monte.\n4. **Dénouement**.\n5. **Situation finale**, souvent ouverte : le doute persiste.\n\n## Les procédés d'écriture\n\n- **Narration à la première personne** : le lecteur partage les doutes du narrateur, témoin unique.\n- **Modalisateurs** du doute : « il me sembla », « je crus voir », « peut-être », le conditionnel.\n- **Champ lexical de la peur** et de l'étrange : frisson, effroi, terreur, ombre, silence.\n- **Cadre propice** : nuit, orage, lieu isolé, maison ancienne, miroir, portrait, objet animé.\n- **Temps** : passé simple pour les actions, imparfait pour les descriptions et les états.\n- **Gradation** de l'angoisse et **fin ouverte**.\n\n## Auteurs\n\nGuy de Maupassant (*Le Horla*, *La Main*), Prosper Mérimée (*La Vénus d'Ille*), Théophile Gautier (*La Morte amoureuse*), Edgar Allan Poe.",
+          "body_ar": "*ملخص بالعربية؛ الدرس المرجعي باللغة الفرنسية.*\n\n## التعريف\n\nالقصة القصيرة (la nouvelle) حكاية موجزة تتمحور حول حدث واحد، بشخصيات قليلة ونهاية مفاجئة غالبا. أما **العجائبي** (le fantastique) فينشأ من اقتحام ظاهرة غير قابلة للتفسير لإطار واقعي، فيتردد الشخص (والقارئ) بين تفسير عقلاني (حلم، جنون، هلوسة) وتفسير خارق. إذا قبل الخارق صار النص **عجيبا** (merveilleux)، وإذا فسر صار **غريبا** (étrange).\n\n## البنية\n\nوضعية بداية واقعية ← عنصر مخل (ظاهرة غريبة أولى) ← أحداث يتصاعد فيها القلق ← الحل ← وضعية ختامية مفتوحة غالبا.\n\n## الأساليب\n\nالسرد بضمير المتكلم، معدلات الشك (il me sembla، je crus voir، صيغة الشرط)، الحقل المعجمي للخوف، الإطار المناسب (الليل، العاصفة، المكان المعزول)، الماضي البسيط للأحداث والماضي الناقص للوصف، تدرج القلق والنهاية المفتوحة.\n\n## من أعلامها\n\nموباسان (Le Horla)، ميريمي (La Vénus d'Ille)، غوتييه، إدغار آلان بو."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Analyser un extrait fantastique",
+          "title_ar": "تحليل مقطع عجائبي",
+          "points": 5,
+          "statement_fr": "Extrait (texte écrit pour l'exercice) :\n\n« Cette nuit-là, l'orage grondait sur le vieux manoir. Je lisais près du feu quand il me sembla entendre des pas dans le couloir. Pourtant, j'étais seul. Je levai les yeux : la porte s'ouvrait lentement, sans un bruit. Un frisson glacé me parcourut. Était-ce le vent ? Je n'osais le croire. »\n\n1. Quel est le point de vue narratif ? Quel est son effet ?\n2. Relevez deux éléments du cadre qui préparent le fantastique.\n3. Relevez deux modalisateurs du doute.\n4. Relevez le champ lexical de la peur.\n5. Montrez que le narrateur hésite entre deux explications.",
+          "statement_ar": "مقطع (نص كتب لهذا التمرين):\n\n« Cette nuit-là, l'orage grondait sur le vieux manoir. Je lisais près du feu quand il me sembla entendre des pas dans le couloir. Pourtant, j'étais seul. Je levai les yeux : la porte s'ouvrait lentement, sans un bruit. Un frisson glacé me parcourut. Était-ce le vent ? Je n'osais le croire. »\n\n1. ما وجهة النظر السردية؟ وما أثرها؟\n2. استخرج عنصرين من الإطار يمهدان للعجائبي.\n3. استخرج معدّلين للشك.\n4. استخرج الحقل المعجمي للخوف.\n5. بيّن أن السارد يتردد بين تفسيرين.",
+          "solution_fr": "1. Narrateur-personnage (première personne, focalisation interne) : le lecteur ne sait que ce que sait le narrateur et partage son incertitude.\n2. La nuit, l'orage, le vieux manoir (deux au choix) ; la solitude du narrateur.\n3. « il me sembla », « Je n'osais le croire », l'interrogation « Était-ce le vent ? ».\n4. « frisson glacé », « n'osais » (et l'atmosphère : orage, silence).\n5. Explication rationnelle : le vent a ouvert la porte ; explication surnaturelle : une présence invisible marche dans le couloir. La question sans réponse maintient l'hésitation, propre au fantastique.",
+          "solution_ar": "1. سارد مشارك (ضمير المتكلم، تبئير داخلي): لا يعرف القارئ إلا ما يعرفه السارد فيشاركه حيرته.\n2. الليل، العاصفة، القصر القديم (اثنان منها)؛ عزلة السارد.\n3. «il me sembla»، «Je n'osais le croire»، والاستفهام «Était-ce le vent ?».\n4. «frisson glacé»، «n'osais» (والجو العام: العاصفة، الصمت).\n5. تفسير عقلاني: الريح فتحت الباب؛ تفسير خارق: حضور غير مرئي يمشي في الرواق. السؤال الذي يبقى دون جواب يحافظ على التردد الخاص بالعجائبي."
+        }
+      ]
+    }
+  ]
+}

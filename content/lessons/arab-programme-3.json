@@ -1,0 +1,99 @@
+{
+  "key": "arab-programme-3",
+  "subject": "ARAB",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Littérature : la poésie de l'émigration (أدب المهجر)",
+      "title_ar": "الأدب: شعر المهجر",
+      "lessons": [
+        {
+          "title_fr": "Les écoles de l'émigration et leurs caractéristiques",
+          "title_ar": "مدارس المهجر وخصائصها",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\n## Contexte\n\nÀ la fin du XIXe siècle, de nombreux Syro-Libanais émigrent vers les Amériques pour fuir la pauvreté et l'oppression ottomane. Là, au contact des littératures occidentales, des poètes renouvellent la poésie arabe.\n\n## Deux écoles\n\n- **Al-Rabita al-Qalamiyya** (La Ligue de la plume), New York, 1920 : Gibran Khalil Gibran (président), Mikhaïl Naïmy, Ilya Abou Madi, Nassib Arida.\n- **Al-Usba al-Andalusiyya** (La Ligue andalouse), São Paulo, 1932 : Michel Maalouf, Rachid Salim al-Khoury (« le poète villageois »), Ilyas Farhat. Plus attachée à la forme classique.\n\n## Caractéristiques\n\n- **Thèmes** : nostalgie de la patrie (al-hanîn), dimension humaniste, méditation sur l'existence et la mort, inquiétude métaphysique, amour de la nature, critique du matérialisme.\n- **Forme** : liberté vis-à-vis du mètre unique et de la rime unique (strophes, rimes variées), unité organique du poème, langue simple et « murmurée » (al-hams), images neuves, symbolisme.\n\n## Méthode pour le BAC\n\nDans un texte, relever les indices de chaque caractéristique (champ lexical de la nostalgie, interrogations philosophiques, personnification de la nature…), puis les classer en fond et forme.",
+          "body_ar": "## السياق\n\nفي أواخر القرن التاسع عشر هاجر كثير من أبناء الشام إلى الأمريكيتين هربا من الفقر والظلم العثماني. وهناك، باحتكاكهم بالآداب الغربية، جدد شعراء المهجر الشعر العربي.\n\n## مدرستان\n\n- **الرابطة القلمية** في نيويورك سنة 1920: جبران خليل جبران (رئيسها)، ميخائيل نعيمة، إيليا أبو ماضي، نسيب عريضة.\n- **العصبة الأندلسية** في ساو باولو سنة 1932: ميشال معلوف، رشيد سليم الخوري (الشاعر القروي)، إلياس فرحات. وكانت أكثر تمسكا بالشكل التقليدي.\n\n## الخصائص\n\n**من حيث المضمون:**\n- الحنين إلى الوطن والأهل؛\n- النزعة الإنسانية والدعوة إلى المحبة والإخاء؛\n- التأمل في الوجود والحياة والموت، والقلق الميتافيزيقي (طلاسم أبي ماضي)؛\n- الالتحام بالطبيعة وتشخيصها؛\n- نقد المادية وحياة المدينة.\n\n**من حيث الشكل:**\n- التحرر من وحدة الوزن والقافية (المقطوعات، تنويع القوافي)؛\n- الوحدة العضوية للقصيدة؛\n- اللغة السهلة والأدب المهموس؛\n- الصور الجديدة والرمز.\n\n## منهجية في البكالوريا\n\nفي النص نستخرج مؤشرات كل خاصية (الحقل المعجمي للحنين، الأسئلة الفلسفية، تشخيص الطبيعة...) ثم نصنفها إلى مضمون وشكل، مع الاستشهاد من النص."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Reconnaître un texte de l'émigration",
+          "title_ar": "التعرف على نص مهجري",
+          "points": 4,
+          "statement_fr": "1. Où et quand la Ligue de la plume a-t-elle été fondée ? Citer trois de ses membres.\n2. Citer trois caractéristiques de contenu et deux caractéristiques de forme de la poésie de l'émigration.\n3. Pourquoi parle-t-on de « littérature murmurée » (al-adab al-mahmous) ?",
+          "statement_ar": "1. أين ومتى تأسست الرابطة القلمية؟ اذكر ثلاثة من أعضائها.\n2. اذكر ثلاث خصائص مضمونية وخاصيتين شكليتين لشعر المهجر.\n3. لماذا يوصف أدب المهجر بـ«الأدب المهموس»؟",
+          "solution_fr": "1. À New York en 1920 ; membres : Gibran Khalil Gibran, Mikhaïl Naïmy, Ilya Abou Madi (ou Nassib Arida).\n\n2. Contenu : nostalgie de la patrie, humanisme, méditation sur l'existence, amour de la nature (trois au choix). Forme : variété des rimes et des strophes, unité organique, langue simple, symbolisme (deux au choix).\n\n3. Parce que le poète s'y exprime d'une voix intime et douce, loin de la rhétorique sonore de l'éloge et de l'éloquence officielle : il confie ses sentiments au lecteur comme un murmure.",
+          "solution_ar": "1. في نيويورك سنة 1920؛ من أعضائها: جبران خليل جبران، ميخائيل نعيمة، إيليا أبو ماضي (أو نسيب عريضة).\n\n2. المضمون: الحنين إلى الوطن، النزعة الإنسانية، التأمل في الوجود، حب الطبيعة (ثلاث منها). الشكل: تنويع القوافي والمقطوعات، الوحدة العضوية، سهولة اللغة، الرمز (اثنتان منها).\n\n3. لأن الشاعر يعبر فيه بصوت هادئ حميم بعيد عن الخطابة والجلجلة اللفظية في شعر المدح والمناسبات، فيبوح بمشاعره للقارئ كأنه يهمس."
+        }
+      ]
+    },
+    {
+      "title_fr": "Littérature : le poème libre (الشعر الحر)",
+      "title_ar": "الأدب: الشعر الحر",
+      "lessons": [
+        {
+          "title_fr": "Naissance et caractéristiques du vers libre arabe",
+          "title_ar": "نشأة الشعر الحر وخصائصه",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\n## Naissance\n\nEn 1947, en Irak, Nazik al-Malaïka (« al-Kûlîrâ », Le choléra) et Badr Chakir al-Sayyab (« Hal kâna hubban ? ») publient les premiers poèmes fondés sur la **taf'ila** (pied métrique) au lieu du vers classique à deux hémistiches. Suivent Abd al-Wahhab al-Bayati, Salah Abd al-Sabour, Nizar Qabbani… En Algérie, Abou al-Qasim Saadallah publie « Tarîqî » (Mon chemin) en 1955.\n\n## Causes\n\nVolonté de liberté après la Seconde Guerre mondiale, influence des littératures occidentales, besoin d'exprimer des réalités nouvelles (révolutions, questions sociales).\n\n## Caractéristiques\n\n- **Forme** : unité de la taf'ila au lieu du vers ; longueur des lignes variable ; rimes variées ou absentes ; unité organique ; enjambements.\n- **Contenu** : engagement dans les causes nationales et humaines (Palestine, révolution algérienne, liberté), symbole et mythe (Tammouz, Sisyphe, Sindbad), langue proche du quotidien, ton tragique ou révolté.",
+          "body_ar": "## النشأة\n\nسنة 1947 في العراق نشرت نازك الملائكة قصيدتها «الكوليرا» ونشر بدر شاكر السياب «هل كان حبا؟»، وهما أولى القصائد القائمة على **التفعيلة** بدل البيت ذي الشطرين. وتبعهما عبد الوهاب البياتي وصلاح عبد الصبور ونزار قباني وغيرهم. وفي الجزائر نشر أبو القاسم سعد الله قصيدته «طريقي» سنة 1955.\n\n## الأسباب\n\nالرغبة في التحرر بعد الحرب العالمية الثانية، تأثر الشعراء بالآداب الغربية، الحاجة إلى التعبير عن واقع جديد (الثورات، القضايا الاجتماعية).\n\n## الخصائص\n\n**من حيث الشكل:**\n- وحدة التفعيلة بدل وحدة البيت؛\n- تفاوت طول الأسطر الشعرية؛\n- تنويع القافية أو التحرر منها؛\n- الوحدة العضوية والتدوير.\n\n**من حيث المضمون:**\n- الالتزام بالقضايا الوطنية والإنسانية (فلسطين، الثورة الجزائرية، الحرية)؛\n- توظيف الرمز والأسطورة (تموز، سيزيف، السندباد)؛\n- لغة قريبة من الحياة اليومية؛\n- النبرة المأساوية أو الثائرة.\n\n## التقطيع العروضي\n\nفي الشعر الحر نقطع **السطر** ونحدد التفعيلة المتكررة (مثل «فاعلاتن» في الرمل، «مستفعلن» في الرجز، «فعولن» في المتقارب)، ثم نسمي البحر."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Comparer poème classique et poème libre",
+          "title_ar": "الموازنة بين القصيدة العمودية والقصيدة الحرة",
+          "points": 4,
+          "statement_fr": "1. Qui sont les pionniers du vers libre arabe ? En quelle année ?\n2. Dresser un tableau comparant le poème classique (al-'amûdî) et le poème libre selon : l'unité de base, la rime, la longueur des vers, l'unité du poème.\n3. Pourquoi les poètes du vers libre recourent-ils au symbole et au mythe ?",
+          "statement_ar": "1. من هم رواد الشعر الحر؟ وفي أي سنة؟\n2. وازن في جدول بين القصيدة العمودية والقصيدة الحرة من حيث: الوحدة الأساسية، القافية، طول الأبيات، وحدة القصيدة.\n3. لماذا لجأ شعراء الشعر الحر إلى الرمز والأسطورة؟",
+          "solution_fr": "1. Nazik al-Malaïka et Badr Chakir al-Sayyab, en 1947 (Irak).\n\n2. Unité de base : le vers à deux hémistiches / la taf'ila. Rime : unique / variée ou absente. Longueur : égale / variable. Unité : souvent unité du vers / unité organique du poème.\n\n3. Pour dire indirectement ce que la censure ou la pudeur interdit, donner une portée universelle à une expérience particulière, et enrichir le texte de significations multiples (ex. Tammouz, symbole de renaissance après la mort).",
+          "solution_ar": "1. نازك الملائكة وبدر شاكر السياب سنة 1947 (العراق).\n\n2. الوحدة الأساسية: البيت ذو الشطرين / التفعيلة. القافية: موحدة / متنوعة أو منعدمة. الطول: متساو / متفاوت. الوحدة: غالبا وحدة البيت / الوحدة العضوية للقصيدة.\n\n3. للتعبير غير المباشر عما تمنعه الرقابة أو الحياء، ولإعطاء التجربة الخاصة بعدا إنسانيا عاما، ولإثراء النص بدلالات متعددة (مثل تموز رمز البعث بعد الموت)."
+        }
+      ]
+    },
+    {
+      "title_fr": "Rhétorique : figures d'embellissement et métonymie (المجاز المرسل والمحسنات البديعية)",
+      "title_ar": "البلاغة: المجاز المرسل والمحسنات البديعية",
+      "lessons": [
+        {
+          "title_fr": "Le majâz mursal et ses relations ; antithèse, opposition, paronomase, prose rimée",
+          "title_ar": "المجاز المرسل وعلاقاته؛ الطباق، المقابلة، الجناس، السجع",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\n## Le majâz mursal\n\nMot employé dans un sens autre que son sens propre, avec une relation **autre que la ressemblance** (sinon c'est une métaphore). Relations : partie (le tout désigné par une partie), totalité, cause, effet, lieu, contenu (état), ce qui fut, ce qui sera.\n\n## Figures d'embellissement (al-badî')\n\n- **Tibâq** (antithèse) : réunir deux contraires ; positif (jour/nuit) ou négatif (savent / ne savent pas).\n- **Muqâbala** (opposition) : deux idées ou plus face à leurs contraires, dans l'ordre.\n- **Jinâs** (paronomase) : deux mots semblables à la prononciation, de sens différents ; complet ou incomplet.\n- **Saj'** (prose rimée) : accord des fins de phrases sur la même lettre.\n\nL'effet de ces figures : renforcer et éclairer le sens par le contraste, créer une musique, retenir l'attention.",
+          "body_ar": "## المجاز المرسل\n\nكلمة استعملت في غير معناها الأصلي لعلاقة **غير المشابهة** (وإلا كانت استعارة)، مع قرينة مانعة من إرادة المعنى الأصلي. من علاقاته:\n- **الجزئية**: ذكر الجزء وإرادة الكل: ﴿فَتَحْرِيرُ رَقَبَةٍ﴾ (أي عبد).\n- **الكلية**: ذكر الكل وإرادة الجزء: ﴿يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم﴾ (أي أطراف أصابعهم).\n- **المسببية**: ذكر المسبب وإرادة السبب: ﴿وَيُنَزِّلُ لَكُم مِّنَ السَّمَاءِ رِزْقًا﴾ (أي مطرا سببا للرزق).\n- **السببية**: ذكر السبب وإرادة المسبب: «رعت الماشية الغيث» (أي النبات).\n- **المحلية**: ذكر المكان وإرادة من فيه: ﴿وَاسْأَلِ الْقَرْيَةَ﴾.\n- **الحالية**: ذكر الحال وإرادة المحل: ﴿فَفِي رَحْمَةِ اللَّهِ هُمْ فِيهَا خَالِدُونَ﴾ (أي الجنة).\n- **اعتبار ما كان**: ﴿وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ﴾ (كانوا يتامى).\n- **اعتبار ما سيكون**: ﴿إِنِّي أَرَانِي أَعْصِرُ خَمْرًا﴾ (عنبا سيصير خمرا).\n\n## المحسنات البديعية\n\n- **الطباق**: الجمع بين الكلمة وضدها؛ طباق إيجاب: ﴿وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ﴾، وطباق سلب: ﴿قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ﴾.\n- **المقابلة**: أن يؤتى بمعنيين أو أكثر ثم بما يقابلها على الترتيب: ﴿فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا﴾.\n- **الجناس**: تشابه لفظين في النطق واختلافهما في المعنى؛ تام: ﴿وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ﴾، وناقص إذا اختلفا في نوع الحروف أو عددها أو ترتيبها أو حركاتها.\n- **السجع**: توافق الفاصلتين في الحرف الأخير، ويكثر في النثر.\n\n**أثرها**: توضيح المعنى وتقويته بالتضاد، إحداث جرس موسيقي، شد انتباه السامع."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Identifier les figures",
+          "title_ar": "استخراج الصور البيانية والمحسنات",
+          "points": 4,
+          "statement_fr": "Pour chaque exemple, nommer la figure et, s'il s'agit d'un majâz mursal, sa relation :\n1. ﴿وَاسْأَلِ الْقَرْيَةَ﴾\n2. ﴿فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا﴾\n3. ﴿إِنِّي أَرَانِي أَعْصِرُ خَمْرًا﴾\n4. ﴿وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ﴾\n5. ﴿وَيُنَزِّلُ لَكُم مِّنَ السَّمَاءِ رِزْقًا﴾",
+          "statement_ar": "سمّ الصورة أو المحسن في كل مثال، واذكر العلاقة إن كان مجازا مرسلا:\n1. ﴿وَاسْأَلِ الْقَرْيَةَ﴾\n2. ﴿فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا﴾\n3. ﴿إِنِّي أَرَانِي أَعْصِرُ خَمْرًا﴾\n4. ﴿وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ﴾\n5. ﴿وَيُنَزِّلُ لَكُم مِّنَ السَّمَاءِ رِزْقًا﴾",
+          "solution_fr": "1. Majâz mursal, relation de lieu (on interroge les habitants du village).\n2. Muqâbala : rire/pleurer et peu/beaucoup.\n3. Majâz mursal, relation « ce qui sera » (le raisin qui deviendra vin).\n4. Tibâq positif : éveillés / endormis.\n5. Majâz mursal, relation d'effet (on nomme la subsistance, effet de la pluie, pour désigner la pluie).",
+          "solution_ar": "1. مجاز مرسل علاقته المحلية (المقصود أهل القرية).\n2. مقابلة: يضحكوا/يبكوا، قليلا/كثيرا.\n3. مجاز مرسل علاقته اعتبار ما سيكون (العنب الذي سيصير خمرا).\n4. طباق إيجاب: أيقاظا / رقود.\n5. مجاز مرسل علاقته المسببية (ذكر الرزق وهو مسبب عن المطر، وأراد المطر)."
+        }
+      ]
+    },
+    {
+      "title_fr": "Grammaire : le nombre et son complément (العدد وتمييزه)",
+      "title_ar": "القواعد: العدد وتمييزه",
+      "lessons": [
+        {
+          "title_fr": "Accord du nombre avec le nom compté",
+          "title_ar": "مطابقة العدد للمعدود ومخالفته",
+          "body_fr": "*Résumé en français ; le cours de référence est en arabe.*\n\n- **1 et 2** : s'accordent en genre avec le nom compté et se placent après lui (adjectifs).\n- **3 à 10** : genre **opposé** à celui du singulier du nom compté ; complément au pluriel, au génitif.\n- **11 et 12** : les deux parties s'accordent avec le nom compté ; complément au singulier, à l'accusatif.\n- **13 à 19** : l'unité est de genre opposé, la dizaine (عشر/عشرة) s'accorde ; complément singulier à l'accusatif.\n- **Dizaines (20 à 90)** : forme invariable en genre ; complément singulier à l'accusatif.\n- **100 et 1000** : invariables en genre ; complément singulier au génitif.",
+          "body_ar": "## الأعداد 1 و 2\n\nتطابق المعدود في التذكير والتأنيث وتأتي بعده نعتا: «جاء طالب واحد، وطالبتان اثنتان».\n\n## الأعداد من 3 إلى 10\n\nتخالف المعدود (باعتبار مفرده) في التذكير والتأنيث، وتمييزها جمع مجرور: «قرأت ثلاثة كتب، وثلاث قصص». والعدد 10 إذا كان مفردا يخالف المعدود.\n\n## العددان 11 و 12\n\nيطابق جزآهما المعدود، وتمييزهما مفرد منصوب: «أحد عشر كوكبا، إحدى عشرة شجرة، اثنا عشر شهرا، اثنتا عشرة عينا».\n\n## الأعداد من 13 إلى 19\n\nيخالف الجزء الأول المعدود ويطابقه الجزء الثاني (عشر/عشرة)، وتمييزها مفرد منصوب: «ثلاثة عشر طالبا، خمس عشرة طالبة». وهي مبنية على فتح الجزأين.\n\n## ألفاظ العقود (20 إلى 90)\n\nتلزم صورة واحدة مع المذكر والمؤنث، وتعرب إعراب جمع المذكر السالم، وتمييزها مفرد منصوب: «عشرون كتابا، ثلاثون طالبة».\n\n## الأعداد المعطوفة (21 إلى 99)\n\nالمعطوف (العقد) يلزم صورة واحدة، والمعطوف عليه يخضع لحكمه (1-2 يطابق، 3-9 يخالف)، والتمييز مفرد منصوب: «خمسة وعشرون رجلا، خمس وعشرون امرأة».\n\n## المئة والألف\n\nتلزمان صورة واحدة، وتمييزهما مفرد مجرور بالإضافة: «مئة طالب، ألف طالبة».\n\n## العدد الترتيبي\n\nعلى وزن «فاعل» ويطابق المعدود دائما: «الدرس الثالث، الحصة الثالثة»."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Corriger les nombres",
+          "title_ar": "تصويب الأعداد",
+          "points": 4,
+          "statement_fr": "Corriger si nécessaire et justifier :\n1. قرأتُ ثلاث كتبٍ.\n2. في القسم خمسة عشر طالبةً.\n3. حضر اثنا عشر طالبا.\n4. اشتريت عشرين قلما.\n5. في المكتبة مئة كتبٍ.",
+          "statement_ar": "صوّب الخطأ إن وجد مع التعليل:\n1. قرأتُ ثلاث كتبٍ.\n2. في القسم خمسة عشر طالبةً.\n3. حضر اثنا عشر طالبا.\n4. اشتريت عشرين قلما.\n5. في المكتبة مئة كتبٍ.",
+          "solution_fr": "1. ثلاثة كتب : 3 à 10 ont le genre opposé au singulier « كتاب » (masculin).\n2. خمس عشرة طالبة : l'unité s'oppose au nom (féminin), la dizaine s'accorde.\n3. Correct : 11 et 12 s'accordent, complément singulier à l'accusatif.\n4. Correct : dizaine à l'accusatif (complément d'objet, forme en ـين), complément singulier à l'accusatif.\n5. مئة كتابٍ : complément de 100 au singulier génitif.",
+          "solution_ar": "1. «ثلاثةَ كتبٍ»: الأعداد من 3 إلى 10 تخالف المعدود ومفرده «كتاب» مذكر.\n2. «خمسَ عشرةَ طالبةً»: الجزء الأول يخالف المعدود المؤنث والجزء الثاني يطابقه.\n3. صحيحة: العدد 12 يطابق المعدود في جزأيه وتمييزه مفرد منصوب.\n4. صحيحة: «عشرين» مفعول به منصوب بالياء لأنه ملحق بجمع المذكر السالم، وتمييزه مفرد منصوب.\n5. «مئةُ كتابٍ»: تمييز المئة مفرد مجرور بالإضافة."
+        }
+      ]
+    }
+  ]
+}

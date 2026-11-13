@@ -1,0 +1,30 @@
+{
+  "key": "phys-radioactivite",
+  "subject": "PHYS",
+  "streams": ["M", "SE", "TM"],
+  "chapters": [
+    {
+      "title_fr": "Transformations nucléaires : la décroissance radioactive",
+      "title_ar": "التحولات النووية: التناقص الإشعاعي",
+      "lessons": [
+        {
+          "title_fr": "L'essentiel sur la radioactivité",
+          "title_ar": "أساسيات النشاط الإشعاعي",
+          "body_fr": "## Le noyau\n\nUn noyau se note ${}^{A}_{Z}X$ : $Z$ est le nombre de protons (numéro atomique), $A$ le nombre de nucléons. Des **isotopes** ont le même $Z$ et des $A$ différents.\n\n## Les désintégrations\n\nUn noyau instable se désintègre spontanément, de façon aléatoire :\n\n- **$\\alpha$** : émission d'un noyau d'hélium ${}^{4}_{2}He$.\n- **$\\beta^-$** : émission d'un électron ${}^{0}_{-1}e$ (un neutron se transforme en proton).\n- **$\\beta^+$** : émission d'un positon ${}^{0}_{+1}e$ (un proton se transforme en neutron).\n- **$\\gamma$** : émission d'un rayonnement électromagnétique par un noyau excité.\n\n**Lois de conservation (Soddy)** : le nombre de nucléons $A$ et le nombre de charge $Z$ se conservent. Exemple : ${}^{226}_{88}Ra \\to {}^{222}_{86}Rn + {}^{4}_{2}He$.\n\n## Loi de décroissance\n\nLe nombre de noyaux non désintégrés suit $\\dfrac{dN}{dt} = -\\lambda N$, d'où\n\n$$N(t) = N_0\\, e^{-\\lambda t}$$\n\n- $\\lambda$ : constante radioactive (en $s^{-1}$) ; $\\tau = \\dfrac{1}{\\lambda}$ : constante de temps.\n- **Demi-vie** $t_{1/2}$ : durée au bout de laquelle la moitié des noyaux s'est désintégrée : $t_{1/2} = \\dfrac{\\ln 2}{\\lambda}$.\n- Après $n$ demi-vies : $N = \\dfrac{N_0}{2^n}$.\n\n## Activité\n\n$A(t) = -\\dfrac{dN}{dt} = \\lambda N(t) = A_0\\, e^{-\\lambda t}$, en becquerels (Bq, une désintégration par seconde).\n\n## Méthode type\n\nPour trouver la date où $A = p \\cdot A_0$ : $e^{-\\lambda t} = p \\Rightarrow t = \\dfrac{-\\ln p}{\\lambda} = \\dfrac{t_{1/2}\\,\\ln(1/p)}{\\ln 2}$.\n\nApplication classique : la **datation au carbone 14** ($t_{1/2} \\approx 5730$ ans) compare l'activité d'un échantillon ancien à celle d'un échantillon vivant.",
+          "body_ar": "## النواة\n\nيرمز للنواة بـ ${}^{A}_{Z}X$ حيث $Z$ عدد البروتونات (العدد الشحني) و $A$ عدد النويات. **النظائر** أنوية لها نفس $Z$ وتختلف في $A$.\n\n## التفككات\n\nتتفكك النواة غير المستقرة تلقائيا وبشكل عشوائي:\n\n- **$\\alpha$**: إصدار نواة الهيليوم ${}^{4}_{2}He$.\n- **$\\beta^-$**: إصدار إلكترون ${}^{0}_{-1}e$ (تحول نيترون إلى بروتون).\n- **$\\beta^+$**: إصدار بوزيترون ${}^{0}_{+1}e$ (تحول بروتون إلى نيترون).\n- **$\\gamma$**: إصدار إشعاع كهرومغناطيسي من نواة مثارة.\n\n**قانونا الانحفاظ (صودي)**: ينحفظ العدد الكتلي $A$ والعدد الشحني $Z$. مثال: ${}^{226}_{88}Ra \\to {}^{222}_{86}Rn + {}^{4}_{2}He$.\n\n## قانون التناقص الإشعاعي\n\nعدد الأنوية غير المتفككة يحقق $\\dfrac{dN}{dt} = -\\lambda N$، ومنه\n\n$$N(t) = N_0\\, e^{-\\lambda t}$$\n\n- $\\lambda$: ثابت النشاط الإشعاعي (بـ $s^{-1}$)؛ $\\tau = \\dfrac{1}{\\lambda}$: ثابت الزمن.\n- **زمن نصف العمر** $t_{1/2}$: المدة اللازمة لتفكك نصف الأنوية الابتدائية: $t_{1/2} = \\dfrac{\\ln 2}{\\lambda}$.\n- بعد $n$ مرة من نصف العمر: $N = \\dfrac{N_0}{2^n}$.\n\n## النشاط الإشعاعي\n\n$A(t) = -\\dfrac{dN}{dt} = \\lambda N(t) = A_0\\, e^{-\\lambda t}$، ووحدته البكريل (Bq، تفكك واحد في الثانية).\n\n## طريقة نموذجية\n\nلإيجاد اللحظة التي يكون فيها $A = p \\cdot A_0$: $e^{-\\lambda t} = p \\Rightarrow t = \\dfrac{-\\ln p}{\\lambda} = \\dfrac{t_{1/2}\\,\\ln(1/p)}{\\ln 2}$.\n\nتطبيق شائع: **التأريخ بالكربون 14** ($t_{1/2} \\approx 5730$ سنة) بمقارنة نشاط عينة قديمة بنشاط عينة حية."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "L'iode 131 en médecine",
+          "title_ar": "اليود 131 في الطب",
+          "points": 5,
+          "statement_fr": "L'iode ${}^{131}_{53}I$ est radioactif $\\beta^-$, de demi-vie $t_{1/2} = 8$ jours. Un patient reçoit à $t = 0$ une dose d'activité $A_0$.\n\n1. Écrire l'équation de la désintégration (le noyau fils est un isotope du xénon, $Xe$).\n2. Calculer la constante radioactive $\\lambda$ en $jour^{-1}$.\n3. Quelle fraction de l'activité initiale reste-t-il au bout de $24$ jours ?\n4. Au bout de combien de jours l'activité est-elle égale à $10\\,\\%$ de $A_0$ ?",
+          "statement_ar": "اليود ${}^{131}_{53}I$ مشع $\\beta^-$، زمن نصف عمره $t_{1/2} = 8$ أيام. يتلقى مريض عند $t = 0$ جرعة نشاطها $A_0$.\n\n1. اكتب معادلة التفكك (النواة الابن نظير للكزينون $Xe$).\n2. احسب ثابت النشاط الإشعاعي $\\lambda$ بـ $jour^{-1}$.\n3. ما هو الكسر المتبقي من النشاط الابتدائي بعد $24$ يوما؟\n4. بعد كم يوما يصبح النشاط مساويا لـ $10\\,\\%$ من $A_0$؟",
+          "solution_fr": "1. ${}^{131}_{53}I \\to {}^{131}_{54}Xe + {}^{0}_{-1}e$ (conservation de $A$ : $131 = 131 + 0$ ; de $Z$ : $53 = 54 - 1$).\n\n2. $\\lambda = \\dfrac{\\ln 2}{t_{1/2}} = \\dfrac{0{,}693}{8} \\approx 0{,}0866\\ jour^{-1}$.\n\n3. $24$ jours $= 3\\,t_{1/2}$, donc $\\dfrac{A}{A_0} = \\dfrac{1}{2^3} = \\dfrac{1}{8} = 12{,}5\\,\\%$.\n\n4. $e^{-\\lambda t} = 0{,}1 \\Rightarrow t = \\dfrac{\\ln 10}{\\lambda} = \\dfrac{8 \\ln 10}{\\ln 2} \\approx 26{,}6$ jours.",
+          "solution_ar": "1. ${}^{131}_{53}I \\to {}^{131}_{54}Xe + {}^{0}_{-1}e$ (انحفاظ $A$: $131 = 131 + 0$؛ انحفاظ $Z$: $53 = 54 - 1$).\n\n2. $\\lambda = \\dfrac{\\ln 2}{t_{1/2}} = \\dfrac{0.693}{8} \\approx 0.0866\\ jour^{-1}$.\n\n3. $24$ يوما $= 3\\,t_{1/2}$، إذن $\\dfrac{A}{A_0} = \\dfrac{1}{2^3} = \\dfrac{1}{8} = 12.5\\,\\%$.\n\n4. $e^{-\\lambda t} = 0.1 \\Rightarrow t = \\dfrac{\\ln 10}{\\lambda} = \\dfrac{8 \\ln 10}{\\ln 2} \\approx 26.6$ يوما."
+        }
+      ]
+    }
+  ]
+}

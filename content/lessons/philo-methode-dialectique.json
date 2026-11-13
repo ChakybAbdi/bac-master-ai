@@ -1,0 +1,30 @@
+{
+  "key": "philo-methode-dialectique",
+  "subject": "PHILO",
+  "streams": ["SE", "M", "TM", "GE", "LP", "LE"],
+  "chapters": [
+    {
+      "title_fr": "Méthode : la dissertation philosophique (méthode dialectique)",
+      "title_ar": "المنهجية: كتابة المقالة الفلسفية (طريقة الجدل)",
+      "lessons": [
+        {
+          "title_fr": "Construire une dissertation dialectique",
+          "title_ar": "بناء مقالة جدلية",
+          "body_fr": "## Quand l'utiliser\n\nLa méthode **dialectique** (طريقة الجدل) convient quand le sujet oppose deux thèses : « La mémoire est-elle un phénomène physiologique ou psychologique ? », « La sensation est-elle source de connaissance ? ». Les autres méthodes à connaître sont la **défense d'une thèse** (الاستقصاء بالوضع), la **réfutation** (الاستقصاء بالرفع) et la **comparaison** (المقارنة).\n\n## Le plan\n\n**1. Poser le problème (طرح المشكلة)** — partir d'une idée générale, montrer l'opposition entre deux thèses, formuler la question.\n\n**2. Résoudre le problème (محاولة حل المشكلة)**\n\n- **Première thèse** : l'exposer, l'appuyer par des arguments et des exemples, citer des philosophes ; puis la **critiquer** (ses limites).\n- **Seconde thèse** : même démarche, avec sa critique.\n- **Synthèse (التركيب)** : dépasser l'opposition (concilier les deux thèses ou proposer une position personnelle argumentée).\n\n**3. Conclusion (حل المشكلة)** — répondre clairement à la question posée, en cohérence avec la synthèse.\n\n## Exemple de contenu : la mémoire\n\n- **Thèse physiologique** : Théodule Ribot rattache la mémoire au système nerveux ; les amnésies dues à des lésions cérébrales semblent le confirmer.\n- **Critique** : on ne retrouve pas le souvenir « stocké » dans le cerveau comme une image ; la mémoire est aussi sens et affectivité.\n- **Thèse psychologique** : Henri Bergson (*Matière et mémoire*) distingue la **mémoire-habitude**, liée au corps, et le **souvenir pur**, spirituel.\n- **Critique** : elle néglige le rôle du corps et du cadre social.\n- **Synthèse** : Maurice Halbwachs (*Les Cadres sociaux de la mémoire*) montre que nous nous souvenons à l'aide des repères de la société ; la mémoire est une fonction à la fois biologique, psychique et sociale.\n\n## Conseils\n\nAnnoncer chaque partie, utiliser des connecteurs (d'abord, cependant, en revanche, ainsi), ne citer que ce que l'on maîtrise, et garder la conclusion courte.",
+          "body_ar": "## متى نستعملها؟\n\nتناسب **طريقة الجدل** الأسئلة التي تقابل بين أطروحتين: «هل الذاكرة ظاهرة فيزيولوجية أم نفسية؟»، «هل الإحساس مصدر للمعرفة؟». ومن الطرق الأخرى: **الاستقصاء بالوضع** (الدفاع عن أطروحة)، **الاستقصاء بالرفع** (إبطال أطروحة) و**المقارنة**.\n\n## المخطط\n\n**1. طرح المشكلة**: الانطلاق من فكرة عامة، ثم إبراز التعارض بين أطروحتين، ثم صياغة السؤال.\n\n**2. محاولة حل المشكلة**\n\n- **الموقف الأول**: عرضه ودعمه بالحجج والأمثلة وأقوال الفلاسفة، ثم **نقده** (حدوده).\n- **الموقف الثاني**: بنفس الطريقة مع نقده.\n- **التركيب**: تجاوز التعارض (التوفيق بين الموقفين أو تبني موقف شخصي مبرر).\n\n**3. حل المشكلة**: الإجابة بوضوح عن السؤال المطروح بما ينسجم مع التركيب.\n\n## مثال تطبيقي: الذاكرة\n\n- **الموقف الفيزيولوجي**: يربط تيودول ريبو الذاكرة بالجهاز العصبي، وتؤيد ذلك حالات فقدان الذاكرة الناتجة عن إصابات دماغية.\n- **النقد**: لا نجد الذكرى «مخزنة» في الدماغ كصورة، فالذاكرة معنى ووجدان أيضا.\n- **الموقف النفسي**: يميز هنري برغسون (كتاب *المادة والذاكرة*) بين **ذاكرة العادة** المرتبطة بالجسد و**الذاكرة الصرفة** الروحية.\n- **النقد**: أهمل دور الجسد والإطار الاجتماعي.\n- **التركيب**: يبين موريس هالبواكس (*الأطر الاجتماعية للذاكرة*) أننا نتذكر بالاستناد إلى معالم المجتمع؛ فالذاكرة وظيفة بيولوجية ونفسية واجتماعية معا.\n\n## نصائح\n\nأعلن عن كل جزء، واستعمل أدوات الربط (أولا، لكن، في المقابل، وهكذا)، ولا تستشهد إلا بما تتقنه، واجعل الخاتمة قصيرة."
+        }
+      ],
+      "exercises": [
+        {
+          "title_fr": "Construire un plan",
+          "title_ar": "بناء مخطط مقالة",
+          "points": 0,
+          "statement_fr": "Sujet : « Le langage traduit-il fidèlement la pensée ? »\n\n1. Quelle méthode convient ? Pourquoi ?\n2. Rédiger la position du problème en trois ou quatre phrases.\n3. Donner les deux thèses opposées, un argument et une critique pour chacune, puis une synthèse.",
+          "statement_ar": "الموضوع: «هل تعبر اللغة بأمانة عن الفكر؟»\n\n1. ما الطريقة المناسبة؟ ولماذا؟\n2. حرّر طرح المشكلة في ثلاث أو أربع جمل.\n3. اذكر الموقفين المتعارضين مع حجة ونقد لكل منهما، ثم تركيبا.",
+          "solution_fr": "1. La **méthode dialectique** : la question oppose deux réponses possibles (oui / non).\n\n2. Exemple : « L'homme pense et communique sa pensée par le langage. Pour les uns, mot et idée ne font qu'un ; pour d'autres, la pensée déborde toujours les mots. Le langage est-il donc fidèle à la pensée, ou la trahit-il ? »\n\n3. **Thèse 1 (unité)** : on ne pense qu'avec des mots ; Hegel : « c'est dans les mots que nous pensons ». *Critique* : nous éprouvons des idées que nous ne parvenons pas à dire.\n**Thèse 2 (décalage)** : Bergson : le mot, général et figé, ne saisit pas la nuance du vécu intérieur. *Critique* : sans langage la pensée reste confuse et non communicable.\n**Synthèse** : langage et pensée sont distincts mais solidaires ; le langage traduit la pensée imparfaitement et l'aide aussi à se préciser.",
+          "solution_ar": "1. **طريقة الجدل**، لأن السؤال يحتمل إجابتين متعارضتين (نعم / لا).\n\n2. مثال: «يفكر الإنسان وينقل أفكاره باللغة. يرى البعض أن الكلمة والفكرة شيء واحد، بينما يرى آخرون أن الفكر أوسع دائما من الألفاظ. فهل اللغة أمينة في التعبير عن الفكر أم أنها تخونه؟»\n\n3. **الموقف الأول (الوحدة)**: لا نفكر إلا بالكلمات؛ يقول هيغل: «إننا نفكر داخل الكلمات». *النقد*: نعيش أفكارا ومشاعر نعجز عن التعبير عنها.\n**الموقف الثاني (الانفصال)**: يرى برغسون أن الكلمة عامة وجامدة لا تحيط بدقائق الحياة الداخلية. *النقد*: بدون لغة يبقى الفكر غامضا وغير قابل للتواصل.\n**التركيب**: اللغة والفكر متمايزان لكنهما متلازمان؛ اللغة تعبر عن الفكر تعبيرا غير كامل لكنها تساعده أيضا على التوضح."
+        }
+      ]
+    }
+  ]
+}
